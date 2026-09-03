@@ -1,0 +1,8 @@
+name = "Impactor"
+filename = "Impactor-Fabric-5.3.5+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LdBYVaPS/versions/KwNU9SQW/Impactor-Fabric-5.3.5%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "02312d1b101e67f9d2a0476ad6aafabb0b4cabab787f85ecf871ffce8d59f8a9"

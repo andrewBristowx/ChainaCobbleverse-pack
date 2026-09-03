@@ -6177,6 +6177,11 @@ file = "mods/cobblemon-expeditions-fabric-1.6.0.jar"
 hash = "aa347e6b5073ec2aec4b6252514e9fedca8b0aaad9b2c3b6e4300a1e3441b0d6"
 
 [[files]]
+file = "mods/cobblemon-gts.pw.toml"
+hash = "e5035e995f817477eaaece65de2ea2b304f80f28b4da6a1d413e03f9c560355b"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "16699db39bd9001273e377f0d40375917f5e12a1f57129440da9af6d21037a0c"
 metafile = true
@@ -6324,6 +6329,11 @@ hash = "08932afc913f74e9676b9a59a87bdf817d959cf6d861a9269897778240f11df2"
 [[files]]
 file = "mods/huge-structure-blocks-fabric-1.1.6.jar"
 hash = "759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d"
+
+[[files]]
+file = "mods/impactor.pw.toml"
+hash = "b0c358a994cd7ff7c60818b0e15cc2064f32ac4f267e7c9ed9e442e6ac09a9cb"
+metafile = true
 
 [[files]]
 file = "mods/infinite-music-0.4.6.jar"

@@ -877,7 +877,8 @@ vanilla_button {
 
 vanilla_button {
   button_element_executable_block_identifier = 84c437e2-05c2-4022-b576-96d030a91531-1734822222095
-  [executable_block:84c437e2-05c2-4022-b576-96d030a91531-1734822222095][type:generic] = [executables:]
+  [executable_action_instance:a2607f04-613d-4d13-827a-22a401f4557f-1788422592327][action_type:joinserver] = chainacobbleverse.holy.gg
+  [executable_block:84c437e2-05c2-4022-b576-96d030a91531-1734822222095][type:generic] = [executables:a2607f04-613d-4d13-827a-22a401f4557f-1788422592327;]
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true

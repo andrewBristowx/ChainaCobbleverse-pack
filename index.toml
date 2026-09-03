@@ -5890,7 +5890,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "de34d1653d42f8e3eae92ffb404c4f467dbe6bf5db3555279a94079329ee425b"
+hash = "0db9db5b89b8edfba4c1320194a791a0a724c1da2039b58866ad794a90b48082"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -6179,6 +6179,16 @@ hash = "aa347e6b5073ec2aec4b6252514e9fedca8b0aaad9b2c3b6e4300a1e3441b0d6"
 [[files]]
 file = "mods/cobblemon-gts.pw.toml"
 hash = "e5035e995f817477eaaece65de2ea2b304f80f28b4da6a1d413e03f9c560355b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-linkie.pw.toml"
+hash = "4496076469043281cb34b6effa28299991da7df3df0b8dc844d0d21ec27d1903"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "0b89ca00f39e820816dae1fbe144d197be7f1ded821a457b88e675a8df20abbe"
 metafile = true
 
 [[files]]

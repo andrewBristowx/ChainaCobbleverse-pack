@@ -1413,6 +1413,4450 @@ file = "config/zoomify.json"
 hash = "18ad037a0087eea89db518710cc69fa750dcd2122c52219c1dd4182cb55e0a42"
 
 [[files]]
+file = "journeymap/config/6.0/addons/addon.cobblemon.config"
+hash = "5190fa7964c04e85eb1007d96f50886d7b86f10d05d962cf510322728429247a"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "76eb4a5aa703d817d4c768423780e6dd365c2565a39b021dce676284d27db3b9"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "d45855f00886a32c73c32256c43f7274482963f6f3223d161a48c8bfa69cf9b2"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "4439fc7a38e120047536d328520c7e34d8cf3ecf06d3b60a000c14a67230426d"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "55dcee818ba7b510920fe3c96d712d85a5765980d756fb99e19bb546c0846348"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "bff84fa40be45194e3ff5b6e7cbb2075f9dd3888314eedad497cdcac3a0a90a7"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "9d0db174567f12b2fb5b7b9a7d05ebfb9d1731becc17ada888899bf045ca76c9"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "32200c6abae14a13ac27bd96c630a0a71acfbaa681521e6599c3fd04dce2f02e"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "eae3588f45571655754e7fa7fc030f4157826bb61c80585fe1355ab3ffc97cf8"
+
+[[files]]
+file = "journeymap/icon/entity/bosses_of_mass_destruction/gauntlet.png"
+hash = "ba3a44770974ddbffc14f2034865716e11c7934565fdf9d8792014752e584072"
+
+[[files]]
+file = "journeymap/icon/entity/bosses_of_mass_destruction/gauntlet_hurt.png"
+hash = "5c7ff5dda799ae94e33a05e3531334be3281121f3a83bb7aa7eb6cf90349f025"
+
+[[files]]
+file = "journeymap/icon/entity/bosses_of_mass_destruction/gauntlet_hurt_outlined.png"
+hash = "ef327c604acea10bf18fcae44d2ae2076046a8d05f7832db4a41fe7630713023"
+
+[[files]]
+file = "journeymap/icon/entity/bosses_of_mass_destruction/gauntlet_outlined.png"
+hash = "392b15e2367f033aadcdafa1d5de8e87aca7a4ab199b52d5383a4312c0958d0c"
+
+[[files]]
+file = "journeymap/icon/entity/chainacobblemon/player_slim_alex.png"
+hash = "a96b813c80c35fe9371bb913d1422770e3421ddffc7ae7d7d434e7310346e167"
+
+[[files]]
+file = "journeymap/icon/entity/chainacobblemon/player_slim_alex_outlined.png"
+hash = "e1ced961d14ad127d3707d26a77c348f198d218b37431845362aef8b0c44c5e1"
+
+[[files]]
+file = "journeymap/icon/entity/chainacobblemon/player_wide_steve.png"
+hash = "541223dc1b4dc87d40ea371fedb510f34aa1c67608b4dfd7cdbde936df71e2cf"
+
+[[files]]
+file = "journeymap/icon/entity/chainacobblemon/player_wide_steve_outlined.png"
+hash = "3842986a67c98d6b06b475ef7aa797fb21fa88bdcb34c0761f37cb2d0580339d"
+
+[[files]]
+file = "journeymap/icon/entity/cobbledollars/villager.png"
+hash = "cfc120c21bc8b7da6ca17c76be970e77bda88aa764f47c000d1ac4683f4f3b70"
+
+[[files]]
+file = "journeymap/icon/entity/cobbledollars/villager_outlined.png"
+hash = "886939b763b1c1a6a9317b118e29ea7a2ec465be7f8518f16aed1b82a16fa970"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/allay.png"
+hash = "06ee6624936740bf969f556ccc8c2ab449e7e15cae6ce1e34a62335cdf4bc20d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/allay_outlined.png"
+hash = "1da50ee8eb155741980095633f20a47977be0eaeda7f8d1366401c14fe043196"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/armadillo.png"
+hash = "dfd9a6fd27d145e5353a5e8bdb5546c4f4d9c10a4ce64fd0d9298f3faa18abd7"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/armadillo_outlined.png"
+hash = "826d312db7b7015b6c3ef6ce14ddf16f4baabacd45ab4f2170d105f041462a0f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/axolotl_wild.png"
+hash = "090b8a100be72a2aaa4eeb23a595393cff304bffb1fc894f53b7aeb5090de3d5"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/axolotl_wild_outlined.png"
+hash = "2353dd8e7015e8168fd78cda0773cd2134b235d712e8624a2390600dd2abf57b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/bear_polarbear.png"
+hash = "37b1157be4526f5edbbb658d91ed14c945d22d68e9c867214ea93672542854ba"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/bear_polarbear_outlined.png"
+hash = "d11d04388f1a54c9d2d329abcde788339b911911d451b8ce70af8889562a3fd7"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/bee.png"
+hash = "718b4ad5f7fbbbc518f2d0164698c55c96fd0ca9b2ae99d955d31db9159aca8f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/bee_nectar.png"
+hash = "b82567cfdec3cf81c77a37eb3c27b876ab8a4f4f8465fc41b7ad090e650db369"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/bee_nectar_outlined.png"
+hash = "9d2414b05d7f161381e11de29d23392e932a54dd0aba337d55401a977ef65966"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/bee_outlined.png"
+hash = "4d469d137b9c0c9db51ca1d774aa6436a5bbbb954cc7a6d07ce7791059cc7e69"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/blaze.png"
+hash = "adb42980949c6e535924b83fffad1e1ccbb8e21b501860336ffd72e718539124"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/blaze_outlined.png"
+hash = "d12a18beeff8e5bc3a857b915759a8dfd9f9d0bb89ad7d4a14af39566b6e66c5"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/breeze.png"
+hash = "e00f7afdb63013b706018c55b783bffedd850f191f9a3184e9b896b498077e76"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/breeze_outlined.png"
+hash = "ac364550692b5d5ec5268b2a10ecb4b6eab24346d467e3cd742867204cae171a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/camel.png"
+hash = "e6afb051b18b4ab9355418d9ab15bcb648523a19a3f7cd13b060abab5b3598bf"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/camel_outlined.png"
+hash = "5cd376a7426fffc689956e4ff2c8b4cda57337e9da34aca8a3709594233aa50c"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_all_black.png"
+hash = "20be0bffb8e977c01088cfe4ef8f95cb8ee0b9226f3bfe322ce5336392fcce27"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_all_black_outlined.png"
+hash = "140c03327319599eb05471bcdbffa10d88023578a37c6aa3e670a018d9a6d7cc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_black.png"
+hash = "2272ba6b97ce9fca637effe39f6be9ce33a1a3f9ede212160587ec859c0ff4e6"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_black_outlined.png"
+hash = "fc98e8ce94c904618630bc7f1c0492c03a6bcc15f87ab5ef36bda7bb2efc1a4d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_british_shorthair.png"
+hash = "794746b2b08a49c9db14686904cd8e1f19f861a0681e5cc3ae51b7c737729ab0"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_british_shorthair_outlined.png"
+hash = "71ead6031305266c76b4766af16ce88b5a5716188e8776f29192efc7c30c8e70"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_calico.png"
+hash = "6f727c727403bbeda92a5bb30edc4079ccba0f62ad7e975908b27aff4f036e99"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_calico_outlined.png"
+hash = "cd2a57d49a48dc1441b1da12237e36bdf6db75c7e22347743f8aa1e277e4637c"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_jellie.png"
+hash = "4010e56345364bb95e6ae20472782d6662cd23d506cb4c779c0a123d27b964ce"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_jellie_outlined.png"
+hash = "a3b5341b8fed971b48067bf115cbbf04bf7b652921284efd90c2ef6c73d26f9c"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_persian.png"
+hash = "e671f4b42018c558af993fa0d025e66f953351c0773b0c64f3d88540b9b499c5"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_persian_outlined.png"
+hash = "b1d64c0a6f47abd7de6e5d9a3d2c696b3645473e02237d6b85e8e5ed09ad0cfb"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_siamese.png"
+hash = "d08ea396c0ef86e1fd65c99a3a844abd14ef78b8309b66af77db8829dc0de576"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_siamese_outlined.png"
+hash = "cdad9afc9e75b1a70b00abfbb88789e808fe4989ed3bc51d00b9a54600581ff1"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_tabby.png"
+hash = "e3d2aee38106e8067a44115cc7380eb6949cf0943b577dfecf41bb94911c8384"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_tabby_outlined.png"
+hash = "2b2814facf3fa7e9692eadfd99dcf553418779324e1af237978e99197ae71b83"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_white.png"
+hash = "b613c88e3e12497f480079b2ad4921e7b6531301d07135075e24ca1306d59120"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cat_white_outlined.png"
+hash = "c862b1c3d3693de7852c0870bf41aceacf048b98d9e7d64d79ae633639c977fb"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/chicken.png"
+hash = "3665b6784daf8d18fb2fff154d42bfc1e714dbad7a3e675f7bf6be0bc920edca"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/chicken_cold_chicken.png"
+hash = "755d8ed04a7151d790fb8328216ac5d76bddfdc2c5ea85b243b81ee4e7a47977"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/chicken_cold_chicken_outlined.png"
+hash = "ff83b4294d9ab6a7c4bab0bbf864c11d5ca08d3ca1636c97d47c52403072f2ac"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/chicken_outlined.png"
+hash = "f39c50c0509fabc71475ccdaab97e8f640b0c22384b837b4103a7dfd737f2221"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/chicken_warm_chicken.png"
+hash = "671665115f99f4a06ec7996c0b5c382b5ae9512783c58cb4fdda6729908815fe"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/chicken_warm_chicken_outlined.png"
+hash = "da051b8dd18dd8968bd9e2d412a54483fbe170b75960c66273f92616c2dbef97"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow.png"
+hash = "3eb56c0245b1426dca826e42c1acd35285524de4c8ff56e8524fe42cb432a730"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_cold_cow.png"
+hash = "775d5cba109f1c09f9d7d543a59d9c16d80e5a5275eeb90aaea98a1e98263951"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_cold_cow_outlined.png"
+hash = "2dc379f52e66984041027f1556a611dc0ff477820bb68ff98c6f104a4e3dfcd2"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_outlined.png"
+hash = "000f220a314e5c4003a462dcb9fa1b4162941c10a8e2e54f6aee2e2ddf71edaf"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_red_mooshroom.png"
+hash = "c90703d1187291d0e94657c41412b84a22200f49ab76b238608a03c6c811579a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_red_mooshroom_outlined.png"
+hash = "9732dd4ad6c065be7faeb0f91fe7d16fc7410130ef0734c4ea06de874345cb36"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_warm_cow.png"
+hash = "73a0d90a87be4d3d8be1ea8bbc063920136f45be0105752ac0fa9a980d1fc0a8"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/cow_warm_cow_outlined.png"
+hash = "395c97ea8b4448b97ef72de797e0beb2ff7ee34a712dbca6b132f39a2ec3a282"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/creeper.png"
+hash = "3dd935f3f46db5203b5e1564406d38104d0e9eb39f2643d74e2a107f6988eb7e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/creeper_outlined.png"
+hash = "5c592dba32ffd58f7f3c3273bb26dd739fc4859eca8d1f0b4c96636f47490bac"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/dolphin.png"
+hash = "a9fe41e34834f269846a40cdf44c60fbfe735376b9a3eae4b8a3394ab455093a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/dolphin_outlined.png"
+hash = "7741b71dda5901d1591e72ef3c2409f30d5cd2b4f38cb95b0a7a12c2ed661efe"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/enderman.png"
+hash = "fdc01a9ca8e022b71b0fa10e81dfd3bdf5fa4a506f8d05d09a360452d30e1611"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/enderman_outlined.png"
+hash = "f6e4e62b1ce43523ec83f0c4446aac17a283bb39c6a736ee8958871dd7e52ae5"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_cod.png"
+hash = "3abdf27fd77654192e54f72409881174e06cec670c8de3073511273c9ab556cc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_cod_outlined.png"
+hash = "1ce25ccde472956047916fb65af84a941460b935a61b99a9e8c60ed2f6a9442b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_pufferfish.png"
+hash = "ecd4beb6b6954e8f158edc0170768da0da52e8a308559368712bfc74dd237527"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_pufferfish_outlined.png"
+hash = "5b07d1d7275825b7ce6c4e835a257f6d2536e5a98f26a47ac8b9b47cd516d7ce"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_salmon.png"
+hash = "18a6c6d9f3a601adcb93640c401c09e178877d69d81a78d13d3a40c76d6a50f1"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_salmon_outlined.png"
+hash = "deb7fcc3f2c2f2b1877acc5685a465512e2088041f95c22798f4f2e1485d4c5f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_tropical_a.png"
+hash = "67ea427b9617db57c4fdccb2539d2366cdf546f808a9fc8b5e38fc104c84575d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_tropical_a_outlined.png"
+hash = "be5ccd5e7505049ee01198214c2b7ee654b4d1bd3f05f6d3c30ed88dea46a4b2"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_tropical_b.png"
+hash = "d5d34856fe88e24765c0ad144d5076bf9b36d21c45fd73f9a58f544ac960797a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fish_tropical_b_outlined.png"
+hash = "efea8f5e84d596a33de7050e691ef98498ece9ae20e624a6a989f82711db1b09"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox.png"
+hash = "f79c2c3523a4df68ecda7d07bbb6a6b344b108cf91367c60dd574be73da38510"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_outlined.png"
+hash = "7fafb03f5f68a58e62b1129530ca092c6ab6d26b2df9a272a319e5ae745aea2e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_sleep.png"
+hash = "f79c2c3523a4df68ecda7d07bbb6a6b344b108cf91367c60dd574be73da38510"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_sleep_outlined.png"
+hash = "7fafb03f5f68a58e62b1129530ca092c6ab6d26b2df9a272a319e5ae745aea2e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_snow_fox.png"
+hash = "118a3546e44393d9089788d3b29c72aa55908d0637e8983f15f87996eb174e95"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_snow_fox_outlined.png"
+hash = "ce57dc8dfe4b00988eaf35428cd9c7cab1bb9b8dbf669b086482f13fb56ce083"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_snow_fox_sleep.png"
+hash = "118a3546e44393d9089788d3b29c72aa55908d0637e8983f15f87996eb174e95"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/fox_snow_fox_sleep_outlined.png"
+hash = "ce57dc8dfe4b00988eaf35428cd9c7cab1bb9b8dbf669b086482f13fb56ce083"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/frog_cold_frog.png"
+hash = "71af193c76097fbe821554fd0c83951990065a018533c972c901c6d2ca46879e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/frog_cold_frog_outlined.png"
+hash = "7195d730ed99580047fd9b70d7aa3ca8fb743036be1ada85bc4bf1deda999705"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/frog_temperate_frog.png"
+hash = "d3901c1a962b7e5a7511f4cf46186297994a500648ab69f7880c686cf68c8b70"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/frog_temperate_frog_outlined.png"
+hash = "40c08fef1f2a46a306ad62d7b96a22d05c2684d7fba8992e7f46798f10275191"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/frog_warm_frog.png"
+hash = "e0241120a8ca6e18fee047e4ae4c6074b482af3087193a8b873c2888cbeb04dd"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/frog_warm_frog_outlined.png"
+hash = "cd235ed663b1dde599c3b6d3a3cb6d5da6be17472f2689a7454184a8fd6bcf37"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/guardian_elder.png"
+hash = "aa523ed6fdde57c5ab51b33b1d701f2d98b2c5b62763e3841c6b83cfc89c5e02"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/guardian_elder_outlined.png"
+hash = "1beffb3e6d4459b3384950cdf06b8617a3eea943bd6215637428107e2c527f58"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/hoglin.png"
+hash = "beff623b5d00c0f648ef26eeae54a5b89bb5dfaef02fd55a656d9f835d4b361d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/hoglin_outlined.png"
+hash = "6650abecebc10c826afe32045e8e601e61e68bb4a627546f31c838712be99217"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_black.png"
+hash = "6a24a0873c87f6419e9f0f03eabd0167512c00784d4228f06d6cda78b0e89049"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_black_outlined.png"
+hash = "a88e232c780dc8ba0ca6299719b91317193cbc9e6d091cd45b00e31983fe4005"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_brown.png"
+hash = "e815e6c681790cf70e9fdecf87efc70457d02b7a13aea9915782a506323e6956"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_brown_outlined.png"
+hash = "254f2bc74b226c37f5c03c793c0427d38465ac56e88b65c163694858ec24a8db"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_chestnut.png"
+hash = "b71f5a65f4f51b11f10797967619fa79698a3929da4b6aeacd9c4d20992bb401"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_chestnut_outlined.png"
+hash = "485064151ee6aab9facb08e84230949cc25c28f5cdd830de96a63aea7c233678"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_creamy.png"
+hash = "ca56363153f04e5b877242cbd26c6fdfc7b6ced3e9559ea8793116e318b311e0"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_creamy_outlined.png"
+hash = "c62214a978f590a0b34f091b42cad383fe6a57c71238f2a52485886078b09093"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_darkbrown.png"
+hash = "1304970e08941e78e88d2c2f4619f647155e7750f0ac82524a15ae59e09a9e9b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_darkbrown_outlined.png"
+hash = "eb5252cfa8230a0ec1ecacd97998bc96833e29c57c99d01dabeb6dd6445a98d0"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_donkey.png"
+hash = "7eea4aa170e851d4b5f7cf8591366bb01bf99b5fe5b83455e62d8f2748138f17"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_donkey_outlined.png"
+hash = "eb25a235af83b8689ee32bec556a86c6279beaec4b8fdd63a98bfec4d38abade"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_gray.png"
+hash = "bd4abe2e04ec9168b211ea4d9ac1a5161a0477e1a7ab677481e626bf22f56d04"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_gray_outlined.png"
+hash = "d1abe24625cfa6948a16e47c729091ab576e55deedc5dfaf179cef02adc3816a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_white.png"
+hash = "0f9f356eb43332691e42cf6b1e53b2fc1d2bde92d879b993ee0bd3fc0ce35546"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/horse_white_outlined.png"
+hash = "07fb217e18c17bed4c05dbc2b60c22d7225e23c1f0af6acb8b1d30f9fa44ba3a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_evoker.png"
+hash = "35b4451e89fffefcf5103e60d928f234bcb50ad7858cacd5d2f5ddf96a8dd8dc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_evoker_outlined.png"
+hash = "3f27a66c5c0358d0acfd83a985cf8ab120ce54c50e7aed97beaa8e708c7b6eb0"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_illusioner.png"
+hash = "cd4420ada0418d79944d2804af9b7f424cd212c9abc5db1e9c25ae79a1cbbffe"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_illusioner_outlined.png"
+hash = "c779e0d19ff06fbc22dd6d1ffe82f5c382377c7422b18f6d12a62739c4055bab"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_pillager.png"
+hash = "35b4451e89fffefcf5103e60d928f234bcb50ad7858cacd5d2f5ddf96a8dd8dc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_pillager_outlined.png"
+hash = "3f27a66c5c0358d0acfd83a985cf8ab120ce54c50e7aed97beaa8e708c7b6eb0"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_ravager.png"
+hash = "b403b089adddf7e1d10c89d98f8bb8a2e3c70df77b3ceab5620d0389da115212"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_ravager_outlined.png"
+hash = "3fd5b1b1a3dd641ee035e7f18d8290c19f1dde727f7d6a1773eb327fc0198baa"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_vindicator.png"
+hash = "3bc36011476d1d276e41b7392e953c23bf2e91561ac610db87b16e3deb8b37c8"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/illager_vindicator_outlined.png"
+hash = "e112fbe6271c128e4f440a304f1ebb32c38e69535782378945c63b7465107a4d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/iron_golem.png"
+hash = "5b22ec1af0a561d968c8857461612b7ed5e132212e85b8189b03759fdbd084e4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/iron_golem_outlined.png"
+hash = "195be8a0eeefba902f43c2f85a1dd874129e24dd6cc955c0502fe25312ad8b61"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_brown.png"
+hash = "ada6fb987c64e8c2c86bb35feba03c2819a27af96ec6f7aeeae766cae8c4edb1"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_brown_outlined.png"
+hash = "ac81f1e378d2d03cc0b36543d5f7739e8bf605ff210bfee334274760c2684a2a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_creamy.png"
+hash = "632ec9e4583010fd8bdffedeb64574f1176b182bef0e309235de0227faa80e43"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_creamy_outlined.png"
+hash = "d9df728dd6424c899a7568a5cffd7f3355c2806e91b3d862993a745d3ef359b4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_gray.png"
+hash = "d55b93867932c55fef303a6cbe36cfcbfe7ce021b281edead0f603f68707ea79"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_gray_outlined.png"
+hash = "f0150da2021ad683ae22c8b89db17d89fb00df3e95d7e981a36038fb294f269b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_white.png"
+hash = "f056aa76e5f66344d3ddc9197ff3ce53aa63cac9c11f0e2da95c41309c1370dc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/llama_white_outlined.png"
+hash = "861058ec58d9d12c5ebe6ee6a90c93d3eeead5d53e43e45cc5892cb9f6296af7"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/parrot_red_blue.png"
+hash = "5f5f804eddc03c97f994b565e0fe65a87979bd2561085b9530fa6a3b8c0603bb"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/parrot_red_blue_outlined.png"
+hash = "3d18d15e2e3b54c88ab21cefb9108a0c84bef5e6362059b19fb6ad005d797e89"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/phantom.png"
+hash = "51cf182c93731f06b15013951d0ea654c23ee6c9ec4cbfe90864f555a2056873"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/phantom_outlined.png"
+hash = "6a8dbc358f8090fdaa11ad9e1a7054d8f48f29d86eb41b69c632754fa093a0b1"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/pig.png"
+hash = "f2e41e5da36b17cc33a5111487b3a1dd2ef3b62ce58b14586f57e251ad978ecc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/pig_cold_pig.png"
+hash = "47b7c163f4db4fba8a230e03e115a57c8a74aed67a45ed206dea1f9797235bfb"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/pig_cold_pig_outlined.png"
+hash = "b7b37c1582cd41ae07dd5bfd931032f91f7256d09c4b878facc2f9785c397263"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/pig_outlined.png"
+hash = "5b3bedd0d8bc661fe45a4302584c8c62fa2441ce4fde318edc2260f3982a025f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/pig_warm_pig.png"
+hash = "caf5562d4db8744199ae8d6ce2ae0567b41d6b1f44019f3f54dd00208d83ff27"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/pig_warm_pig_outlined.png"
+hash = "6aed86326312835ef4d32bf5e0126d21bc2043cf98e216f272c63a68997bb4bb"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/piglin.png"
+hash = "ce0a6097efc347fcf5fb91d6013173c7b1eca594a098cff735ed517683e056bc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/piglin_brute.png"
+hash = "7259cc48d64b2920cf9051293803e8daa3f7b57fe91b4081dfc3c9c97530ef5d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/piglin_brute_outlined.png"
+hash = "cabc2f9a6889da67530db97743a82e8911447979483e297c72140a71d2cb2a2e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/piglin_outlined.png"
+hash = "d30c8ceaab999ce0ecf81f96e2fd5a8e147479ad783d96bda27e360f1e82c634"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/piglin_zombified_piglin.png"
+hash = "27dfd4d00b22839372adc486d7a6464a7c0beaf9f8695f4d7f8910e3d440c8cc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/piglin_zombified_piglin_outlined.png"
+hash = "b7a195ca22130f6003ce97e41de362a2de79ca8e917b3d13af4867d0a028943b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_black.png"
+hash = "42c43e04f4ab92f59165beea3fada89bfab1ec789ba463abd4bc64877dba9e00"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_black_outlined.png"
+hash = "660ac40de36d518ecfd12bc9af5d9b917e426c181d59a23a13c7285090d4fb40"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_brown.png"
+hash = "d8a874c342edf9d641ddf9a2b62ff4feafb4fa8f3fe707de6d61774dd724839f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_brown_outlined.png"
+hash = "9abb22028a6402a38805283219b450de81b074d07a28a78b5dc328160b7ff460"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_salt.png"
+hash = "8afeb3735ec80bfd93ecf5ad4d7cef3a0474fdcd0b5f9970af9ea5e395f5b953"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_salt_outlined.png"
+hash = "d936c9e04f22498cd38c764db55fecc800cff236704815b6c79f198905504100"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_white.png"
+hash = "fa20f12df51816a7ada79556cfc5afa0a46dd95a802aff6cc4bce82e24dd821b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/rabbit_white_outlined.png"
+hash = "9c87d4536590e2b9c8b414fa3b5af9c616bb0f00314b67d45a1ecb04390b2cc8"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/sheep.png"
+hash = "2ed3346c6070a3f44c624cbeaab30c63f5b978dd08b56663c1d4d3d33afe9e1a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/sheep_outlined.png"
+hash = "ef26b44bd43ff7b8e4d8afec103ea4f8ce7087ee4692a439ba8250d93b7f3f62"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/silverfish.png"
+hash = "64cf52e3fc33fb6562e5b2a3b6d9fb55d34877d17961d4339c06aa2fbe0e7a91"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/silverfish_outlined.png"
+hash = "722b3d7456950f84b9167338c42f3907c9328b03a9b943b27b7419b8a36049c3"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton.png"
+hash = "e029d60488067c9f15cfb6efd8cbecc101dc57a6c88eca0a952c75cd6db454e8"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_bogged.png"
+hash = "4b10c9c2b9016e5484b461390e32f601d294fb8df1d84264349ddc4cf71cf26f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_bogged_outlined.png"
+hash = "c206277399f3ec1617cec90bbf7cada8631f264a058dce24f02fef700f8e7883"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_outlined.png"
+hash = "aa662a816ec9509efeec17e2c20678676b66bf8c721e9a251de5de9b47a5649b"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_stray.png"
+hash = "637ccc179ef4931e6c9511f92f3ddad8cc01c358e173dd1a6bf847e770905d25"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_stray_outlined.png"
+hash = "483363b5a35443a53446249b1f2cdfb06d272523eedfec440216b430a292ae4d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_wither_skeleton.png"
+hash = "107562acec1c70377ad274237081048e3634ba8352bc8f4a6e35f29c07517489"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/skeleton_wither_skeleton_outlined.png"
+hash = "4ba6ae5fc6ff9d8ae3a2645097d6064a7f0fe4f1a5e49ccf9110d95e2fc0a0b4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/slime.png"
+hash = "7d562cf17490b2ce30adc3bfe59dba6a5801a5acfb3947de7fddcffef8b360ba"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/slime_magmacube.png"
+hash = "5db90bebd27c8e10728877623df86bb69c5ccd033cfbd7368873654102806d43"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/slime_magmacube_outlined.png"
+hash = "3d97d008eb2505ed84c773ef06271e767c8a3a6ec9635af613e2dcd849efed3c"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/slime_outlined.png"
+hash = "ee6d2ab2f704e7a765dcc3ab036302f3b5086e50d531bd40489b52b7a2c05f39"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/spider.png"
+hash = "b49ba19f717a0142402d9a2486f8a15aadafdd81c805f59c5f9d536394f26829"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/spider_cave_spider.png"
+hash = "5e57cb00f7d61cb5b7f3a8df9ef6e8f47812b1047af912f60955fbe1ddf916e4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/spider_cave_spider_outlined.png"
+hash = "d89484026a7180064c26701cd290c30dd471be547d84d1144b311737f19660ce"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/spider_outlined.png"
+hash = "3a35587b1d16673831ca9618f988b7da6037a0a5ddb9b3dc2dbc0cd29811aae1"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/squid.png"
+hash = "7b83b2665f4613d493763b28f8f47cd8a87adf2497d191e63c58c5b651e29108"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/squid_glow_squid.png"
+hash = "96ca41067f55f06c7877b26d35901c2ee138ff1a9b5645d94d58d4bfc358b95e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/squid_glow_squid_outlined.png"
+hash = "267b68ba59892ef55f74d602d1ecc90073d7c4529385b349347b097d24717356"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/squid_outlined.png"
+hash = "89ab4ad44c5459d946e4df087b13632f2bf0ab03b26b593a136534f394ec2bb2"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/strider_cold.png"
+hash = "3a272bc0645046251e6b42be919355c616e7ffb53b855fcbeca699d1460d2f13"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/strider_cold_outlined.png"
+hash = "68a0da7f64c91db745986654f73849cec8168e8e79a6335e3da82340e609b844"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/sulfur_cube_inner.png"
+hash = "16c979585ccde90781f3948a0fde0d3e7d625a6ae55389ba99df4eadb49a1748"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/sulfur_cube_inner_outlined.png"
+hash = "1007494e30100f105dea544facf38e2a885f033344faea108d25e205359c1ac5"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/turtle_big_sea_turtle.png"
+hash = "7eae8bf029549979ba15747ef70592b8ede9a2f774418098486cdba7c425a93a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/turtle_big_sea_turtle_outlined.png"
+hash = "043f0b8958720f5084279e17353eacb73e257c86bf80b312904cb0f885f1213f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager.png"
+hash = "cfc120c21bc8b7da6ca17c76be970e77bda88aa764f47c000d1ac4683f4f3b70"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_armorer.png"
+hash = "7ad69d24fb7cff6add893b703b630e6f449d485c986ffe9f22b10c9b432dd22a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_armorer_outlined.png"
+hash = "22e33e5e8d69dfb7320a5a1cbc4fd23a444bf074c6729843c61e6a99cfa2984d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_butcher.png"
+hash = "9dcd4d4bdeebb2540dd10850fcc5d45fd2df9625fe89bf8cc389806f54d6f157"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_butcher_outlined.png"
+hash = "1cf91a36ea5663b1fecc474879f5ea83e7e788ab37a9069085f303e866369f41"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_cartographer.png"
+hash = "782806d60b64cb6c74b8d99d156f292bea35d550c04e1da70b0568056da14e64"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_cartographer_outlined.png"
+hash = "07994afcdfd5f56d9c709e40b2d29a785e0b00cfb25eb36e15953becd9b971ba"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_cleric.png"
+hash = "d65f1b1257f2a98c60c4f69f68d698af135aaa21d05a33d6bc4431eccd48c200"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_cleric_outlined.png"
+hash = "7e487f792aeb6972f6263083713b53b7d75a0021a5e21ee4d6390b2b501ca9ad"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_cobble_merchant.png"
+hash = "fad61ee4e2c87d6949f09f43293cb31c74dc55b858f5d49d375659bfbaa0a8b4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_cobble_merchant_outlined.png"
+hash = "0a800e82f9851e305058d966555fc5d52ece39d93f0c80fbe8de2e431af3fbf2"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_farmer.png"
+hash = "edc6a68500d8d9ce99a9e28f575310563db9c8abb1ddaad5655e5549333c6005"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_farmer_outlined.png"
+hash = "daf23e9e3bc97014eb3292da95ac7e1986ac94655684da33e9485e0eab913a4d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_fisherman.png"
+hash = "b8aacaefefadee13d78d4b5591b064c733e35d4fec8eb27a711278bb69279050"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_fisherman_outlined.png"
+hash = "e12d2b4f5c989d2a78051e37bc801c28ae83130f08a371e53bf5b6ebd2bae0e6"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_fletcher.png"
+hash = "05014d4fc913ac7bb4b667a20cba008ba57ec99792d28619b25724d2b0f56e41"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_fletcher_outlined.png"
+hash = "63b41149e76d9821798eb801dc48595a7b81f122508eb20b83adc3650f409522"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_kanto_cartographer.png"
+hash = "b69b2e3195c1ed24a2eacb081a44664860071536e2e51c99a014f06fc291cb62"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_kanto_cartographer_outlined.png"
+hash = "beae7643780acad020bc4866a6c0f00c96080bc3547bd91ab89b084f5401ae4f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_leatherworker.png"
+hash = "1705a1f6a65866196259a0f6200d307558247f1297b140d6c4ccdcde77fdecdd"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_leatherworker_outlined.png"
+hash = "173b52f38b23da4a437eadde2d8543bf1199925acc1470543ec52eb8f07ddd89"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_librarian.png"
+hash = "e1ed1ef1707f0f068f9a8fd2960c24ee0ddd04d7e651b45dda1e12d37ba63e23"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_librarian_outlined.png"
+hash = "44a54c5d23f8510d79831bcd15a9aee42149405059f7c17fc19626cc5617f9e1"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_mason.png"
+hash = "cfc120c21bc8b7da6ca17c76be970e77bda88aa764f47c000d1ac4683f4f3b70"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_mason_outlined.png"
+hash = "886939b763b1c1a6a9317b118e29ea7a2ec465be7f8518f16aed1b82a16fa970"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_nitwit.png"
+hash = "3a1c43036a08d23cb2b500e4c196d93ff3faa7d5e92be4089fb05cb3280fce3a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_nitwit_outlined.png"
+hash = "f41f1bcf3167b92dde0bec07955079791e5461d80b0748a4ec1eb7d2ebb275ff"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_nurse.png"
+hash = "df738c9dc1994656440b22f4a24bf5724c5677cf8087175cc57aa0e1f8d986c8"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_nurse_outlined.png"
+hash = "00e6f096cb2f8e3ad58f1de61d0fde9b78fa6903aee17cf6835ae60cfb2454a4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_outlined.png"
+hash = "886939b763b1c1a6a9317b118e29ea7a2ec465be7f8518f16aed1b82a16fa970"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_shepherd.png"
+hash = "f05399de1176c5fcd4f3a0c8beadb2f9f28bf8f4f7f8c2299cf109e16c01b3ca"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_shepherd_outlined.png"
+hash = "252ec436f7a426f50e5d6521e4ce7519ed2afd338d058137a7ec21c6df93f4c2"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_toolsmith.png"
+hash = "cfc120c21bc8b7da6ca17c76be970e77bda88aa764f47c000d1ac4683f4f3b70"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_toolsmith_outlined.png"
+hash = "886939b763b1c1a6a9317b118e29ea7a2ec465be7f8518f16aed1b82a16fa970"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_weaponsmith.png"
+hash = "bc708de24f9454018c2f535290a3f62967290b74f618e64c4045c3688a0ed868"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/villager_weaponsmith_outlined.png"
+hash = "650cc3f801f64cc7d2d6f2c8090b0ed3d6fa27d7ccffdfc4720bdb3828b1f466"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wandering_trader.png"
+hash = "6a61acc065661e2ff684f4c1069a77f035888a1ee77deddcf6386d3f4928a49a"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wandering_trader_outlined.png"
+hash = "acada2bbceb3cd7ac81d780f0199d9907be37e14f3ae6a7033bb7be9f3e4a067"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/warden.png"
+hash = "b13f63e67b87c69aac626b027923688492fafa5ad7d2f71ec4867d676424e02e"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/warden_outlined.png"
+hash = "3fe8713c70a1f3ab3d9abb6d7c1049ee173dda71719da9ff96bf4cb976f35846"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/witch.png"
+hash = "3c2613508cd0315a1cebd9ec47fab1ff33c6805f55e474e94d8d57b3e0011348"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/witch_outlined.png"
+hash = "6fc3f7907e8b4839eca484875f8e912ff2f907894f20a8b81efb8ce21f9ec5ca"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf.png"
+hash = "f930f883039f09a3f49e0864f86b1469fd9c01428ac5b420f9eed9fbbfd53990"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_black.png"
+hash = "e15b30b538a3cef35698b0c6cafec137e69cfb1864c3fe7544f382bb01531b21"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_black_angry.png"
+hash = "e6a40b07d2f2ea9e1a7870d4f0836b816145f1e5ff27e70a0823a42fb360b577"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_black_angry_outlined.png"
+hash = "669119bee16a4699d438b8bb97ed2d9e49d883b8920a019b3a33d010e3b16977"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_black_outlined.png"
+hash = "1c23176639b799234da7a98518a81e63ab4ae54dc228f290f7df6f71e3e8b577"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_chestnut.png"
+hash = "8b0dc48868678b749f88c022c5ac7db50b8f8b1008ae8649ebb1349381b26491"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_chestnut_angry.png"
+hash = "4e4c88b06f5d2a7c72f81adb11bd0008d8e4e142dee946caa108c73fa28b546f"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_chestnut_angry_outlined.png"
+hash = "6c2e90704d4f271a03117cc5aa409d844bf9d06de4c9dc3d716fedaa1aaa38d5"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_chestnut_outlined.png"
+hash = "9e75843d544f798f086ba7d3b381a68a6887f7885f405642e46d07457cf6f688"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_outlined.png"
+hash = "f220119a191aaf5f88c68f9d7482284ff6edfc8b43cf61f76f97769089349374"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_woods.png"
+hash = "8db52ed11b86add30e71c97e53ab4d6f5bc5da3a7a0848d0c6c2465dfec034cc"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_woods_angry.png"
+hash = "885d526056527dfe19aadd60fbdea9b4263a8c75af47d8918a720e9516f750a9"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_woods_angry_outlined.png"
+hash = "dd9e894c7ca830f07f20e23d51b8b82ed3cb079bcf0fcf72ce028935cb1e65be"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/wolf_woods_outlined.png"
+hash = "73180b2e4317ef5b26bdd9ccb7421df85ef52f5cff82b41458256a311aef3c05"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie.png"
+hash = "0b02f211286a2ff5657ece464ae27534c45101d8f7b22b6e2b38ee043ffafc87"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_drowned.png"
+hash = "a63f39227f6cdcdd2d55b534e355271d8ecb4678746ea5ecd9afc57161acd64c"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_drowned_outlined.png"
+hash = "0d85a79f88a6a2386fb13ef5eddb2ef7b1799cba1bc10424784b4bac66a114f9"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_husk.png"
+hash = "a9e3f263c76f38a2b88faaea377d3153cc3415e036c2dfa5252094ef36d05540"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_husk_outlined.png"
+hash = "cd8062926750581fddae84e451d9eb69ff3db7aa5f38b2a17d8c1cd079bc1a6d"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_outlined.png"
+hash = "e63d96f2d28cb8fc1b93a9b59c2a638f00b7c44cbe0ae8b24e5b1d897748afe4"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_botanist.png"
+hash = "bc1e6468fe7152c8a52939e53652cea58459caebf28462f55dcab2d7ca9f3e66"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_botanist_outlined.png"
+hash = "2a5c30952a3637e885ea5cad51b1675ac304f16d8fb31fabbf4a9d3703c83846"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_cartographer.png"
+hash = "bc1e6468fe7152c8a52939e53652cea58459caebf28462f55dcab2d7ca9f3e66"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_cartographer_outlined.png"
+hash = "2a5c30952a3637e885ea5cad51b1675ac304f16d8fb31fabbf4a9d3703c83846"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_cleric.png"
+hash = "bc1e6468fe7152c8a52939e53652cea58459caebf28462f55dcab2d7ca9f3e66"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_cleric_outlined.png"
+hash = "2a5c30952a3637e885ea5cad51b1675ac304f16d8fb31fabbf4a9d3703c83846"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_farmer.png"
+hash = "bc1e6468fe7152c8a52939e53652cea58459caebf28462f55dcab2d7ca9f3e66"
+
+[[files]]
+file = "journeymap/icon/entity/minecraft/zombie_villager_farmer_outlined.png"
+hash = "2a5c30952a3637e885ea5cad51b1675ac304f16d8fb31fabbf4a9d3703c83846"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_abel_04a5.png"
+hash = "6b63186a8c8d8d793b16795e1d49add8c0f5509d3c151a583a7312729c7affe5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_abel_04a5_outlined.png"
+hash = "ebafc0112e86882f005ace25db823d0183c3381276afb096076bfbccce6a6f4d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_alicia_03a9.png"
+hash = "58d07e839ad7ca27493d2845b467a5caa1b3fd19f4c3b576182d86ee1debfd76"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_alicia_03a9_outlined.png"
+hash = "d32511039ba43c811fd426ea909044ec1b5bc2194393fcf8faf81e1e7fd5a3dd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_alyssa_031c.png"
+hash = "03ed5f97d08a248707b91dd2fbb2e9c80d97dec2992f72c6fa70160efffd3e2e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_alyssa_031c_outlined.png"
+hash = "4ad67de4b17cb4071e18387b64e1c770e420c9fbe5e399aab85d85357979671a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_austina_0198.png"
+hash = "03ed5f97d08a248707b91dd2fbb2e9c80d97dec2992f72c6fa70160efffd3e2e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_austina_0198_outlined.png"
+hash = "4ad67de4b17cb4071e18387b64e1c770e420c9fbe5e399aab85d85357979671a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_breanna_03b5.png"
+hash = "485800d24318fb99f8d66a98fd51a95265d52275816b56286874b1fc71c49f4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_breanna_03b5_outlined.png"
+hash = "83a0229c6c69da630bb309340916f500695ea21578e3193db3b53dd2ed843d7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_brenna_0574.png"
+hash = "485800d24318fb99f8d66a98fd51a95265d52275816b56286874b1fc71c49f4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_brenna_0574_outlined.png"
+hash = "83a0229c6c69da630bb309340916f500695ea21578e3193db3b53dd2ed843d7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_brooke_0197.png"
+hash = "d35b5afa51eaba1e223f69d09cad6a6e7663c7086e5898b0fd34c195c640b363"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_brooke_0197_outlined.png"
+hash = "7f75cd5b2f26cc141813b6ab8268f444d47f4e75122142380f887d52066b10f1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_dalton_0353.png"
+hash = "2a02a82e1dcaa97b3477c1699719213b43350cd2dd123803b0d8fcd52941e515"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_dalton_0353_outlined.png"
+hash = "6463fed4f93e63d068e6706607c5147f7f8ba94da3d1fc424e8766f2e556d2e6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_dana_04a8.png"
+hash = "58d07e839ad7ca27493d2845b467a5caa1b3fd19f4c3b576182d86ee1debfd76"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_dana_04a8_outlined.png"
+hash = "d32511039ba43c811fd426ea909044ec1b5bc2194393fcf8faf81e1e7fd5a3dd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_dennis_03b0.png"
+hash = "06c7f0503adfd7ec2d23897ada87e289a36d0e1922c90c301a604f1892c25cf5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_dennis_03b0_outlined.png"
+hash = "99c58284b49aef2e8127201d19a50dfc02d05455841311637a3ddef56c8403bc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_ernest_031b.png"
+hash = "5cdf9a8d8d8cdd3727d5b3011da8df547234973e3c90294ea46a17df0d4ea559"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_ernest_031b_outlined.png"
+hash = "24bafeb8213a62cb4d7d4e5ff9692f8d07bcc92ac922ed36b370754fe0cba688"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_isaiah_03a7.png"
+hash = "2a02a82e1dcaa97b3477c1699719213b43350cd2dd123803b0d8fcd52941e515"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_isaiah_03a7_outlined.png"
+hash = "6463fed4f93e63d068e6706607c5147f7f8ba94da3d1fc424e8766f2e556d2e6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_jamie_03b8.png"
+hash = "5cdf9a8d8d8cdd3727d5b3011da8df547234973e3c90294ea46a17df0d4ea559"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_jamie_03b8_outlined.png"
+hash = "24bafeb8213a62cb4d7d4e5ff9692f8d07bcc92ac922ed36b370754fe0cba688"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_jonah_040d.png"
+hash = "d65c84f694fa3aa6381e9ada894cb9ed4f47ba84af8bfd3a6400c2bf2cb68daa"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_jonah_040d_outlined.png"
+hash = "df3fd5316cfac22895344d2a4b3680d98be753c35cac8645002abf4ebe6fe49e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_julie_0199.png"
+hash = "485800d24318fb99f8d66a98fd51a95265d52275816b56286874b1fc71c49f4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_julie_0199_outlined.png"
+hash = "83a0229c6c69da630bb309340916f500695ea21578e3193db3b53dd2ed843d7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_mariah_0384.png"
+hash = "03ed5f97d08a248707b91dd2fbb2e9c80d97dec2992f72c6fa70160efffd3e2e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_mariah_0384_outlined.png"
+hash = "4ad67de4b17cb4071e18387b64e1c770e420c9fbe5e399aab85d85357979671a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_maya_03b9.png"
+hash = "485800d24318fb99f8d66a98fd51a95265d52275816b56286874b1fc71c49f4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_maya_03b9_outlined.png"
+hash = "83a0229c6c69da630bb309340916f500695ea21578e3193db3b53dd2ed843d7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_maya_0503.png"
+hash = "485800d24318fb99f8d66a98fd51a95265d52275816b56286874b1fc71c49f4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_maya_0503_outlined.png"
+hash = "83a0229c6c69da630bb309340916f500695ea21578e3193db3b53dd2ed843d7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_mikayla_04a9.png"
+hash = "6d0fedd74acc5094af50273d1ee295c732ad2d7796c298f33d0d7eace8b7cd85"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_mikayla_04a9_outlined.png"
+hash = "e4e194eb8de9e7d9c4fb26b26768b15db8b50c69feafa53e24ce9e694141aa2e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_olivia_0354.png"
+hash = "5a74bc4f3f047670c0246c5598b409631a4a893a42ad3002b818b1e0274d8c28"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_olivia_0354_outlined.png"
+hash = "8af2b2705d1ad05d3d0e93c497ed5987143f5ca71562faf1086805376e67ea13"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_shannon_0195.png"
+hash = "03ed5f97d08a248707b91dd2fbb2e9c80d97dec2992f72c6fa70160efffd3e2e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_shannon_0195_outlined.png"
+hash = "4ad67de4b17cb4071e18387b64e1c770e420c9fbe5e399aab85d85357979671a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_sydney_0385.png"
+hash = "e838fed2a38a9a294640efadd793964c869d4a42407abe392bbb82e8aabcaf14"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ace_trainer_sydney_0385_outlined.png"
+hash = "a66c436e8c7ed67a193775de8da67d91bf074621b04bdcca3a1f941daacc1dd9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/aroma_lady_teighler_02ef.png"
+hash = "2b48ed9763e26a4a1d837a5d11ea22df7cc6945c8f9222d925f4ca5f425821fa"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/aroma_lady_teighler_02ef_outlined.png"
+hash = "ba9591245cdeb5ea5da6e5aca34b0edc2c99b7f52be1993a99f963d61835321f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/artist_ismael_0481.png"
+hash = "66a89d3a4b1d04cf973cb09a456ab20d4ee605cf7f9cb556488e423fdc18245a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/artist_ismael_0481_outlined.png"
+hash = "57c5afc04e053451a7938d4593c04cc69abfc76379cbab9d7c4fb5a2f212623c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/battle_girl_kelsey_02f6.png"
+hash = "f09ea8ce2b64f98406f25d2e60a6dd5c43e0a4d18896bfdf7231556d5d887c77"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/battle_girl_kelsey_02f6_outlined.png"
+hash = "cd4184f3416288d0f7b60eeae84b2af89f6333b181aaf312784088b17a9ddf72"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/biker_0212.png"
+hash = "3c4e64f44c55df4bea08cd7db0d202d3d8eea315f5b894aaae8586f366730d1b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/biker_0212_outlined.png"
+hash = "f5b949596e54212db0bd0eb5502e73e608d29456e9643712814fc88b322f0d52"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/biker_ricardo_0217.png"
+hash = "3c4e64f44c55df4bea08cd7db0d202d3d8eea315f5b894aaae8586f366730d1b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/biker_ricardo_0217_outlined.png"
+hash = "f5b949596e54212db0bd0eb5502e73e608d29456e9643712814fc88b322f0d52"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bird_keeper_brianna_0323.png"
+hash = "8e4db5aec105bf848febca7e9ae629d807360857ff30cc7077f9f5fc02fe1948"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bird_keeper_brianna_0323_outlined.png"
+hash = "57f03eee94ae5d3465db1f5b530e72494176185697b7918643e92fd5c3340c2a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bird_keeper_reed_0137.png"
+hash = "8e4db5aec105bf848febca7e9ae629d807360857ff30cc7077f9f5fc02fe1948"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bird_keeper_reed_0137_outlined.png"
+hash = "57f03eee94ae5d3465db1f5b530e72494176185697b7918643e92fd5c3340c2a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_aaron_0140.png"
+hash = "4966e762d75d7b8da3234dcb6b5c717667b01f4f546362c11bd56f674298d438"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_aaron_0140_outlined.png"
+hash = "34798ffa3572f5fbe1ff137b56b0673771f5d67de99e2f134bcd09b35e8cb3f4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_colby_03d0.png"
+hash = "47cd3f896add4ce51254037d6cc9517b8984cbf8cbc15d4fdaae8e182b090515"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_colby_03d0_outlined.png"
+hash = "8f018c99de3e1c806c7d4ebdafcecf9a1adaefb6dc54015f5c9f876130b6b583"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_darren_03d1.png"
+hash = "4966e762d75d7b8da3234dcb6b5c717667b01f4f546362c11bd56f674298d438"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_darren_03d1_outlined.png"
+hash = "34798ffa3572f5fbe1ff137b56b0673771f5d67de99e2f134bcd09b35e8cb3f4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_david_038a.png"
+hash = "47cd3f896add4ce51254037d6cc9517b8984cbf8cbc15d4fdaae8e182b090515"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_david_038a_outlined.png"
+hash = "8f018c99de3e1c806c7d4ebdafcecf9a1adaefb6dc54015f5c9f876130b6b583"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_derek_0348.png"
+hash = "6bb69aab5a8cdbfccef882d4e096110d463fe0a098552c87d888c89843bafc7b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_derek_0348_outlined.png"
+hash = "65363c3d42a4aa4f91e2c3303b14a273e47b00a5bf4da43ddd093049b6531f44"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_gregory_0347.png"
+hash = "4966e762d75d7b8da3234dcb6b5c717667b01f4f546362c11bd56f674298d438"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_gregory_0347_outlined.png"
+hash = "34798ffa3572f5fbe1ff137b56b0673771f5d67de99e2f134bcd09b35e8cb3f4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_nathaniel_0349.png"
+hash = "c7bd2677b7028925d9a630f39f160ace0f3eea50bebaa02202b2f88c0ce14b7a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_nathaniel_0349_outlined.png"
+hash = "6b3e65dcd8c7e3f3d2465e08182ce62c1842719b7e44d1affac857d73998b5ad"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_rafael_03d2.png"
+hash = "c7bd2677b7028925d9a630f39f160ace0f3eea50bebaa02202b2f88c0ce14b7a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/black_belt_rafael_03d2_outlined.png"
+hash = "6b3e65dcd8c7e3f3d2465e08182ce62c1842719b7e44d1affac857d73998b5ad"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ec.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ec_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ed.png"
+hash = "6c40f8d3df12a08846c4ce6275c9d02045e46266ee546b744a134c409c34b62a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ed_outlined.png"
+hash = "80e0988395740d2b330c56344e500643a14928487d0860212fde49f9f1a99a01"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ee.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ee_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ef.png"
+hash = "a22b11d9dc5b321b7c34fdc41929c10e8a4f49ca2cd1d2508eea90e677b2c7b6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01ef_outlined.png"
+hash = "3448e1ff9bbe678062f0d2a3045b1b6eaf7d69dd3966c59474e92d0f95d80e74"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01f0.png"
+hash = "3cd9d7678ad8d720658bd535574a840421f5619c568ae55636e284f013a29292"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01f0_outlined.png"
+hash = "96bc4c25125791c0016df74528245fa1b7295d388901426e04474fb89e190147"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01f1.png"
+hash = "d99347477f0290ba2a417a21cf62707a06702175fad9066b90b4972b8c41ba69"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_01f1_outlined.png"
+hash = "14ed3e7ad3479d92b2c5bdcfcd1118d7dff67103d8dfb54d8606cea4671f15c2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_anthony_0213.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_anthony_0213_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_brandon_02ee.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_brandon_02ee_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_brandon_0531.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_brandon_0531_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_brent_0072.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_brent_0072_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_colton_02da.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_colton_02da_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_conner_0073.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_conner_0073_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_donald_037e.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_donald_037e_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_doug_0067.png"
+hash = "a22b11d9dc5b321b7c34fdc41929c10e8a4f49ca2cd1d2508eea90e677b2c7b6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_doug_0067_outlined.png"
+hash = "3448e1ff9bbe678062f0d2a3045b1b6eaf7d69dd3966c59474e92d0f95d80e74"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_elijah_0070.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_elijah_0070_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_rick_0066.png"
+hash = "cb859609e77f3768063b1b9e14c0b86190a6637080fb1f5c750afdf5c61dfda1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_rick_0066_outlined.png"
+hash = "22c168527d9267ae8bf96f01b9299747b067ff7bbebd24dfb545a4a5b7a64588"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_robby_006d.png"
+hash = "1458e944d7c9ef81486e9508398d0d502be1004293b191ed1e0ec88f37841dcb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/bug_catcher_robby_006d_outlined.png"
+hash = "01bbbb8cb966c2f91cff8b9a684ce293800a0c7501c3d43e8904de9ca32daacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/burglar_simon_00da.png"
+hash = "ac24cb09a8cb9dd598a8fcf4eca8c27d15ce48d1b1576f216c94ad82a5f1b4b6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/burglar_simon_00da_outlined.png"
+hash = "025eb971c312472560a2d8eafa2d7822afd87c22e939618e37a04454baba87ad"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_curtis_03a3.png"
+hash = "a9283ada91abf4e63e1c44994c36d89d7e24b064bf60666efff362b272c462bf"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_curtis_03a3_outlined.png"
+hash = "ca2909f2cc7602c039edfb96975574e69f3aedcf87ea78d87274441093f2e316"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_drew_0095.png"
+hash = "27364d4b9a8dff3c19a238e2638ed8f930552b730cbd7b20028db1bd8591bf96"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_drew_0095_outlined.png"
+hash = "23c6c864d0ded92462d6823557f337511b117b4f00ba046af1c32088435eefae"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_ricky_0091.png"
+hash = "27364d4b9a8dff3c19a238e2638ed8f930552b730cbd7b20028db1bd8591bf96"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_ricky_0091_outlined.png"
+hash = "23c6c864d0ded92462d6823557f337511b117b4f00ba046af1c32088435eefae"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_ricky_0270.png"
+hash = "27364d4b9a8dff3c19a238e2638ed8f930552b730cbd7b20028db1bd8591bf96"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/camper_ricky_0270_outlined.png"
+hash = "23c6c864d0ded92462d6823557f337511b117b4f00ba046af1c32088435eefae"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/channeler_01c7.png"
+hash = "42cfa83444df211feb4394f89244004b988ef286383813ac37ea1f2fb4639f64"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/channeler_01c7_outlined.png"
+hash = "d6f42ac8ed5fa5352269d9d9487c938e494f4667ff0b71daae86d828825e1ce8"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/clown_lee_0443.png"
+hash = "7a080433d6d524b30bce3a17ef00f7eed16c567c9fa1ca3d3d6b4f091c3a3f91"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/clown_lee_0443_outlined.png"
+hash = "158b33809ae8b35c205576cf54011ef3f44cc27a394a00787ef5a043e61a1c7e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_john_02fd.png"
+hash = "e13049d0ba60198b9947cbd2286df938d9edfe7dc76aaf9a8c10c3c1d712d988"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_john_02fd_outlined.png"
+hash = "f71aa94a0b9f15bd559b25bd537bfc27a8c9cf1e5067bf588044303551dfdafd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_john_04f4.png"
+hash = "e13049d0ba60198b9947cbd2286df938d9edfe7dc76aaf9a8c10c3c1d712d988"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_john_04f4_outlined.png"
+hash = "f71aa94a0b9f15bd559b25bd537bfc27a8c9cf1e5067bf588044303551dfdafd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_kayla_04f7.png"
+hash = "1bd8c6daa5a8d23872ebf2cc35d7886504c596ae717161d71458b2b3455dd1a2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_kayla_04f7_outlined.png"
+hash = "167fa016ec669d59f1a8b4b6669e7cebe0509eae3442d2265d6c144c9258941e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_rachel_0302.png"
+hash = "54b146efbcc1f4b299ce057150933bab3d6ce3a9c97517511a1a3e14e05167bf"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/cyclist_rachel_0302_outlined.png"
+hash = "1dcc88a2dcf500ee817287adb7ebf0fcc3fd72ffa1afc44a77d4b467d4841c0b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/double_team_jen_0325.png"
+hash = "24f45c7da31f207aea1bd0fe89288b879875344406df3293c1b43698e439e9b5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/double_team_jen_0325_outlined.png"
+hash = "1a8d3a26274c495319a5fc7f8042e6b6b9b8dafadb366c5042da753adc95bacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/double_team_jen_zac_m004.png"
+hash = "24f45c7da31f207aea1bd0fe89288b879875344406df3293c1b43698e439e9b5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/double_team_jen_zac_m004_outlined.png"
+hash = "1a8d3a26274c495319a5fc7f8042e6b6b9b8dafadb366c5042da753adc95bacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/double_team_zac_0324.png"
+hash = "24f45c7da31f207aea1bd0fe89288b879875344406df3293c1b43698e439e9b5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/double_team_zac_0324_outlined.png"
+hash = "1a8d3a26274c495319a5fc7f8042e6b6b9b8dafadb366c5042da753adc95bacd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/dragon_tamer_stanley_0499.png"
+hash = "7ca8abb09537e476e475d0399a90561dc5a600935ab0f9f6f59ec7b534fcab23"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/dragon_tamer_stanley_0499_outlined.png"
+hash = "37130adcb1a4bdee5b7b9e5033b64cf0227b698f2113790afa5166be1cdfbf21"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/engineer_bernie_00de.png"
+hash = "f366f6d9bc3c7b555085d0ec5e85f0aa4e7da85798c9ab3f5a6bfd08a48a6b02"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/engineer_bernie_00de_outlined.png"
+hash = "f4ade0dd846cb809fd83739624fe79f45c0aa3a0142d1688b214ba1fc5a0df3f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/engineer_braxton_00dd.png"
+hash = "201c9242606686d755d7a8322eb5f16b940eb97466f003228bd8b70a0a1fd2db"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/engineer_braxton_00dd_outlined.png"
+hash = "6933236ae2ed2cc41c71fec11fc22613bee9bb20f98de5a8483274d2e63705f6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/expert_lancere_0024.png"
+hash = "4744cc9dc34a3e4573892e8995c09766e6a720618622b632141d4cb5fbfa387d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/expert_lancere_0024_outlined.png"
+hash = "24b94f7e688c81eeb990519c6a3e678bf34aff2a00369a06c17fb6f8161f1ee2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/friendly_coach_000b.png"
+hash = "818e827b0f56da91ad633bbb388a93b58ba770b3f8cb04720fbae4f6a332ec52"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/friendly_coach_000b_outlined.png"
+hash = "8c1025ef22b6cd2a3c88e539b7aa40ec8b822da104a283d5233dee223e51992d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/friendly_coach_000c.png"
+hash = "818e827b0f56da91ad633bbb388a93b58ba770b3f8cb04720fbae4f6a332ec52"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/friendly_coach_000c_outlined.png"
+hash = "8c1025ef22b6cd2a3c88e539b7aa40ec8b822da104a283d5233dee223e51992d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/friendly_maniac_0006.png"
+hash = "e86cb7daf91d57217ad4480d3619aa851386ca7a29dea2aefc39dc69b8b836a3"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/friendly_maniac_0006_outlined.png"
+hash = "9dd870cce38bd63abe46cb897e755651140cfa2619cbbe5350bd5c0ae05bb6c0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/galaxy_dummyh77.png"
+hash = "2cc68cd9f03494205efe3dcae18aff6ed89fc1610b4b83406cb699a07c247f57"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/galaxy_dummyh77_outlined.png"
+hash = "419293611c509f1a3997711090f7ce38a825df1a2f06e2d42a7ec4585a5a6a76"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/galaxy_fabbo67.png"
+hash = "57cc8ba186426b5e874c5dca0d2dc25ccb1b98bdd3dfe9650517a2888c5c9035"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/galaxy_fabbo67_outlined.png"
+hash = "de08986a3b850e6aa37a58d604dbc9a8ba11df57c9ed762e8f5a02b271a8ea01"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/galaxy_morn27015.png"
+hash = "d7a6e9ada218d8aad47e0fe06c9c8f9af60c93a84a9d47d8511721781cb797b0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/galaxy_morn27015_outlined.png"
+hash = "756d191901a4749803ffedbbe02ba9eaab985b58572c83f30a297ac97ff61c2e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_0107.png"
+hash = "ff818e66bd7105aac5c4d5f22d641cbf6dbb0528b33f97a426ad48669753e058"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_0107_outlined.png"
+hash = "eebce5d5b3dffbdb97911d3db78b336348809f19f56c69944bc44311aae4c770"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_darian_0105.png"
+hash = "ff818e66bd7105aac5c4d5f22d641cbf6dbb0528b33f97a426ad48669753e058"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_darian_0105_outlined.png"
+hash = "eebce5d5b3dffbdb97911d3db78b336348809f19f56c69944bc44311aae4c770"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_darian_027c.png"
+hash = "ff818e66bd7105aac5c4d5f22d641cbf6dbb0528b33f97a426ad48669753e058"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_darian_027c_outlined.png"
+hash = "eebce5d5b3dffbdb97911d3db78b336348809f19f56c69944bc44311aae4c770"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_dirk_0104.png"
+hash = "ff818e66bd7105aac5c4d5f22d641cbf6dbb0528b33f97a426ad48669753e058"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_dirk_0104_outlined.png"
+hash = "eebce5d5b3dffbdb97911d3db78b336348809f19f56c69944bc44311aae4c770"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_hugo_0102.png"
+hash = "ff818e66bd7105aac5c4d5f22d641cbf6dbb0528b33f97a426ad48669753e058"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gambler_hugo_0102_outlined.png"
+hash = "eebce5d5b3dffbdb97911d3db78b336348809f19f56c69944bc44311aae4c770"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gentleman_arthur_01a6.png"
+hash = "524973b1ea364d3f88d9825a8a43335e99d9414457a00f0c01424afaa544ad62"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gentleman_arthur_01a6_outlined.png"
+hash = "0f748c938cf71202615b5a7f3be4f0530a1a3c3de7507b2b285c07bdd7c97ea0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gentleman_komodo_0005.png"
+hash = "524973b1ea364d3f88d9825a8a43335e99d9414457a00f0c01424afaa544ad62"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gentleman_komodo_0005_outlined.png"
+hash = "0f748c938cf71202615b5a7f3be4f0530a1a3c3de7507b2b285c07bdd7c97ea0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gentleman_leonardo_0487.png"
+hash = "3a7d21d3c23333394e6d4472414842abde5aaf879bc6af89d32c7baaa98a0285"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/gentleman_leonardo_0487_outlined.png"
+hash = "7d234f118b6278c7e5802aeda0f507b3aab9e988272c474947e4d2f7412c33a9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hiker_damon_043b.png"
+hash = "6948dd56a0f80dbab05cfa484cabd6424fd2757dce4b27ba5a7f5b7fa1589d86"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hiker_damon_043b_outlined.png"
+hash = "8906fc965e8fb664c9f0d90cd3ba845d5acf0ab26e833ed0d1e3d1a9859376e4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hiker_daryl_0248.png"
+hash = "6948dd56a0f80dbab05cfa484cabd6424fd2757dce4b27ba5a7f5b7fa1589d86"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hiker_daryl_0248_outlined.png"
+hash = "8906fc965e8fb664c9f0d90cd3ba845d5acf0ab26e833ed0d1e3d1a9859376e4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hiker_jeremy_0283.png"
+hash = "6948dd56a0f80dbab05cfa484cabd6424fd2757dce4b27ba5a7f5b7fa1589d86"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hiker_jeremy_0283_outlined.png"
+hash = "8906fc965e8fb664c9f0d90cd3ba845d5acf0ab26e833ed0d1e3d1a9859376e4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hisui_damon.png"
+hash = "040f262d27fc44cbffded64e4b4abfd30dcd8c8addf010736f323bf46b3f64bd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hisui_damon_outlined.png"
+hash = "0881ce20693eab952ad8a87ac55a5bcd092a0f69623dea0fe9bbd8ba4d5b1ab2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hisui_perula.png"
+hash = "33355aca07f7797cec655b250460dfd167bfbbefe1274d505eb8ef7b231a8608"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hisui_perula_outlined.png"
+hash = "372175da712fc306914da96b9e94b3c525ed902d277616747eabba715f20970f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hoenn_adriano.png"
+hash = "a442194caf26b50ee6d72f55a7929b31e4cdd35a770dd426caa72df98f041e08"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hoenn_adriano_outlined.png"
+hash = "6f1fa67f4419931dfe296e171a3936495ae3436309079548953879dbee45986d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hoenn_norman.png"
+hash = "5d88ddb493853e6484697be0fe34512997251554cc1bd66c74b527b77a3713d7"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hoenn_norman_outlined.png"
+hash = "32837c63e158ec3605cd23bd1175031f77a20f40ccca955baa11f6505d1ff0d4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hoenn_walter.png"
+hash = "d6847c624fd32e8ce1a95c7c22d0a8b014049478440d5fd42fcf6a88a22fd96a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/hoenn_walter_outlined.png"
+hash = "724963fb4535c0b221374698316a7d8a15efde42de7d6d073e6e04296e63f513"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/jogger_craig_03ce.png"
+hash = "0330db2aa9ba9e5400ed1f8306ccac2aa46494b70a6831e01d55f9ce963f15ad"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/jogger_craig_03ce_outlined.png"
+hash = "045aadde489ede6968aa2af3abbd8f7cc1241e31395e7551367ddfb985d9c72c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/jogger_scott_034a.png"
+hash = "62fd307bacf515bc35b91a2c1a03c3b95d497574a47da4789175e67a6ae0cfd3"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/jogger_scott_034a_outlined.png"
+hash = "3d15a1d800a781a7e99b931a1f8706c96b861583a65664d9cb915449586d3679"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_angelo.png"
+hash = "7273a582832f77d96211ee452539fcfebaacece959d4e35df6db0cf579ea8aed"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_angelo_outlined.png"
+hash = "9bc478a6229638aeb86063c4761856eba09554de270e2bec6417711e6d31c302"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_chiara.png"
+hash = "3d8730cf976cbd33c74463a887a6bbd7c43f667903e3ef6e998ae82841e8ea44"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_chiara_outlined.png"
+hash = "2a8b931dfb3f93f6a75923a9163235e0e7a71c932546bac7d106dcc066730453"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_jasmine.png"
+hash = "4bcb9fae394957ba561d28c884e3fc3779001fe57c764a9d04c76a676c3966a5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_jasmine_outlined.png"
+hash = "a63f73702b08c9b370cb5afd5f8ce4e6b637259989b6c1656a547856e33990a5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_raffaello.png"
+hash = "1e605a65e7ec8295c9d8937e512bc935157c0646abf36b993d3cc482bf0b04b4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_raffaello_outlined.png"
+hash = "07da84f3372f1f39f1bd4af5954b32b43891f3bce5c795c4a3d456a85c3eccea"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_sandra.png"
+hash = "1da150ec0209ea92b8cd507fb9997458fd875abe4a90e4f71552bb56cac7a792"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_sandra_outlined.png"
+hash = "42fed950db168fb76bbe44e02baf6fef2f5b669af20cbd4027a05f5e18117738"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_valerio.png"
+hash = "2d9a10677d5cae5ca8bd2393a04e42d45504fc77eba7b991dace0618ed589b32"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/johto_valerio_outlined.png"
+hash = "3898b200b953fc05517aa4b469805b50ae34acef155df2893bfb1206ef1d11e9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_blaine.png"
+hash = "e7035a6d8a2ada0fa2df34a8ea150e231688ab33ca5eda0bae98fcaad3a918c2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_blaine_outlined.png"
+hash = "0437e3502f3458bf03b683e43f7780e318cab66d51d14a8adcf5bc5c8c32a942"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_brock.png"
+hash = "a64da7b25e7a367ada9d0f26e71b33bd192a60b664b910f20609f04789a1d6f5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_brock_outlined.png"
+hash = "738deab660bba8e14033d4d753e69de4f6535269d2125b3c95f68c5a50c5fcd9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_champion_blue.png"
+hash = "162d1ef3bf66788b32a4cf96f1712b239313f88b1ad2f5fcedbd6d00ab7b632b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_champion_blue_outlined.png"
+hash = "1caf0f119c2b7f81439776c824aabda09f960fa69075eba81b66cbd39637b9ce"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_erika.png"
+hash = "f0dc3e5cd8a16699b850afe7011a94c6588db5d9ad406446c07188f7211b54c7"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_erika_outlined.png"
+hash = "9bc410252500a3a2305e45d4f14b3e6dfb808e4a121803f7140cbbb76b935d78"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_giovanni.png"
+hash = "ecd1641bd6b128215f4332d799b19340da25d8499b2f4e8968383eb8e0aa94de"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_giovanni_outlined.png"
+hash = "6517954a22527c8fc9e6ce40614ac581550db251699563d4d7ac1f554a0e8ab8"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_koga.png"
+hash = "d3c28d2d98264f70ae3a346a2e1d7ab4c8d39fdac4499a69dac5d3ae86bf2b68"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_koga_outlined.png"
+hash = "12a83c8ab8cdfc117d2e565af98aeaa997220d08a343951a8cd0ef6e033fe493"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_agatha.png"
+hash = "c6f85f7b9f88dc98a7377bd77794455555793d031dc950ecbda28ddff54e958f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_agatha_outlined.png"
+hash = "feaeee5c1740eb25646b9ef361f3ee5557270db815e1363772f78e9c8837894f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_bruno.png"
+hash = "a9c41072752dad0915283853126518ecb85f6effab52518a2a43595d6683cf97"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_bruno_outlined.png"
+hash = "6851b51de9e43c9f2f371a657a93eac4049cbe36af40782c5465542fbc6a6c96"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_lance.png"
+hash = "3a1404f8e165bf0c1155711941afe916f0c98796e3870f4978a9bdeda460d8aa"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_lance_outlined.png"
+hash = "ab4bae21ae3a3bcb93b898001084951f84e275844e89b2b998c962380c3cdde3"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_lorelei.png"
+hash = "40555368ac5ef5dec0a6ca61b233baecad8c4e31b4d96fc73cffabdae4b7698d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_league_lorelei_outlined.png"
+hash = "c3cb427ebd2501371ffad7433ae0cedde968f7cc6418cfe1cc74b22e459e28ec"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_ltsurge.png"
+hash = "4f2d278c45ecf7f26164f8f5a383ceafef0dbd21a87cd0f85bc31b01876986f3"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_ltsurge_outlined.png"
+hash = "972fa43f4132fc43a3a9af534a792f76215a85190291229b7061e1b6fad30945"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_misty.png"
+hash = "b7d2f3340aa464813c71cdbc51ca6a3d3a963869a0f74f8cd8bae0066a36d3ee"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_misty_outlined.png"
+hash = "8c19f7252bd7072870018506f4a176675bb471f805e8695fac5a42b337eadb93"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_sabrina.png"
+hash = "008ec336475533a3f660b1b3ccb3cdcf558bd042538d10752d4ae325c4f4450d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/kanto_sabrina_outlined.png"
+hash = "ae7e0588b978228eca5464e89013a76fb4cb778ea02b077a53e6016408bb5490"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lady_kylie_048b.png"
+hash = "572860ce3639ad929c08a5e5d4a2244aec137e57f537ba36bfea078adac7da58"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lady_kylie_048b_outlined.png"
+hash = "c3f49ad809d43f44ceedf0dd26cfcd33346e2947b1f35f2e0274d82cb17e9d04"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lady_melissa_0542.png"
+hash = "5efb30613db2ac9a31b7ec44601ae5a44a213b28cc903137a261e6112fc5ac15"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lady_melissa_0542_outlined.png"
+hash = "33555e3b8ab591437daf00b4795731f82fd1b91dbf1bcb10bd7ad634acb6a2b6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_blythe_0489.png"
+hash = "119a40cd9ec9dcb0bb249a320611e53589eb1ed173334b6ac4aa7f0a0de13253"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_blythe_0489_outlined.png"
+hash = "420097021f5da01e42a173e4d239256131993a9a6e339c121bc5ce309036c32c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_caroline_03de.png"
+hash = "119a40cd9ec9dcb0bb249a320611e53589eb1ed173334b6ac4aa7f0a0de13253"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_caroline_03de_outlined.png"
+hash = "420097021f5da01e42a173e4d239256131993a9a6e339c121bc5ce309036c32c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_dawn_007f.png"
+hash = "e084172d5ac381a86ee86c468577c176c71c7f93eb410ace4194ec77d9c76dc4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_dawn_007f_outlined.png"
+hash = "84b846e441ef42408d5650f4da07ebaef480ea7fec7ff4671300e8a63fad9497"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_janice_01fc.png"
+hash = "eca78adcbd28199a0cd325eb75db7af321302c1d6ce8d12293d87d52232c8353"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_janice_01fc_outlined.png"
+hash = "d46c5492e29ec8200fb2b5aa85828ff5fd81f0a4458af32ec1c6a3554638ef04"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_kaitlin_03dd.png"
+hash = "52fc5e3aae44bf3630a01f3a28a3d05c13114b52486c36564baf5cae47b32420"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_kaitlin_03dd_outlined.png"
+hash = "b32deca970e93353cae0c1b08b5637db073821abf32cfc6b5406d801687041cb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_kay_0084.png"
+hash = "306429153f785324b9b394f6cd963d95092c1ad2f3f47bf55c192de8b1592102"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_kay_0084_outlined.png"
+hash = "21db2ccb1b366f1456e945f1af54859c7018ca1f0364aedf78a54b3106193e47"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_madeline_03dc.png"
+hash = "6dc51e087196479768e29908ad42eef810a033c8b1823e9c218349e9298fcecf"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_madeline_03dc_outlined.png"
+hash = "0e850ed875313e04b91a4e510e2fe36693c8f1b8b09bfde11f96f8f1cf0b6162"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_megan_0288.png"
+hash = "e084172d5ac381a86ee86c468577c176c71c7f93eb410ace4194ec77d9c76dc4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_megan_0288_outlined.png"
+hash = "84b846e441ef42408d5650f4da07ebaef480ea7fec7ff4671300e8a63fad9497"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_natalie_02e9.png"
+hash = "af0a06cb0c68c7e143fae02d51e87c2931adf26b659494052e259f7d87984d52"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_natalie_02e9_outlined.png"
+hash = "eb9de1dabc62ae25c3743b880e07b67f358d4801cd710da297254265b85782e2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_samantha_02ec.png"
+hash = "4bd6d8d7a4ee49706b6be34de46795b53476ba00f5f52167f5bcc89b2c575dfc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_samantha_02ec_outlined.png"
+hash = "310c6c9eb50c4018d360c3b5616d6f68d4f86d95eef0741fa805f13094713792"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_sarah_02ed.png"
+hash = "4bd6d8d7a4ee49706b6be34de46795b53476ba00f5f52167f5bcc89b2c575dfc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lass_sarah_02ed_outlined.png"
+hash = "310c6c9eb50c4018d360c3b5616d6f68d4f86d95eef0741fa805f13094713792"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/leader_bugsy_002f.png"
+hash = "d0221a817723b831e1d89cc30370555bcc3253b1d0a6332bbd2bb7018dff9f2b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/leader_bugsy_002f_outlined.png"
+hash = "ba162647e61d7440508e1bc9013a37128cc5d05e3f732b230be46d9608c70d23"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lumy_mario.png"
+hash = "e1a501f2ec281915fc5bc2bfda9796c704bf9c052d79b579ee0efb38e27eb6d7"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/lumy_mario_outlined.png"
+hash = "b2e568abc8553ae235405649d39b412a906d0ec104d7a4eaf33e4898403e6c9c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/old_sage.png"
+hash = "c6397643e6864850390df7234f711a4f51fcc2fe652700aba0ef55937655ba91"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/old_sage_outlined.png"
+hash = "3106450853d85a76cfd119bb3d57108b16df3534cedc8648f9fb2fdcc74c0630"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_alicia_0280.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_alicia_0280_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_carol_009d.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_carol_009d_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_diana_0096.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_diana_0096_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_diana_03e3.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_diana_03e3_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_hannah_00a1.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_hannah_00a1_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_isabelle_0098.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_isabelle_0098_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_susie_0292.png"
+hash = "e93149ea063468ac2edbd9058552309a191722ee428852bb7394e1be50ec1ae2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/picnicker_susie_0292_outlined.png"
+hash = "4e1dcfc0c3c9e156d5d3f8e78fb95bdec527460f60fc095923d5c0af8f0f887e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_brendan_0200.png"
+hash = "a26d97344c1d583f3bd0a907c50ef48c3c1a9af46b412855a3878cf4a14b28ee"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_brendan_0200_outlined.png"
+hash = "8b38b16cf17c3b3e0843d48a82fc6538c1aaefbcfaaf287a53059db0adc0046c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_leaf_0203.png"
+hash = "aaabc7a3cb3ae466f90c6b21912267dc27f78373fb10a2d299ea1ead7a662ebe"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_leaf_0203_outlined.png"
+hash = "700657de4e251071277e3378975768748480fad26c89152ac372c7e47de7ce68"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_may_0201.png"
+hash = "841784b6e199bf21184369dbb2255414ab61205cf046469deea242eadcf52c1a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_may_0201_outlined.png"
+hash = "6ba1e2a613c71cb2ec1df8d844f4631e056533c6ab8202f03fc7239a455812c6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_red_0202.png"
+hash = "e392322df8dbe79956bcea01d877d06c07446126d476e4668df31bb5dc9d32a4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/player_red_0202_outlined.png"
+hash = "7610bbe3d297b89323c7dde898e7978cc71fd303ca5ffbd1b1161c0ad68f72e3"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/poke_fan_leonard_0479.png"
+hash = "bdee5508c21b991ec3d50cbe86d59a15f6c2f8f82baf9f49ce0551ae239930c4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/poke_fan_leonard_0479_outlined.png"
+hash = "c1529454d9f8add6b8e147289a5d067fbc715afcfb9c0fd0ead83c3ad7b827c5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/poke_kid_janet_0578.png"
+hash = "624be4542f728cc929a09dcdcf6131f0e81e37a96599ba8e2c8e2b9165354701"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/poke_kid_janet_0578_outlined.png"
+hash = "5a0736bf03b0910b1b26144aab81ef21eea0d48b691f3fdf626582ca8ddb60e4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokefan_agathare_0021.png"
+hash = "49faaee7f0156e2bd75b7e3f365913e03882106bbe4f010bdc3d73077b538d00"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokefan_agathare_0021_outlined.png"
+hash = "f1149f559738551835e79f1e91d3ce6b2bd7d91cc4e8bfda1ad9ad5d36418998"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokefan_agathare_0022.png"
+hash = "49faaee7f0156e2bd75b7e3f365913e03882106bbe4f010bdc3d73077b538d00"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokefan_agathare_0022_outlined.png"
+hash = "f1149f559738551835e79f1e91d3ce6b2bd7d91cc4e8bfda1ad9ad5d36418998"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemaniac_herman_0285.png"
+hash = "910f2bed2dc6c99abfeae89c623e22af24894d40d6e1dac118b73c5bec0bc37e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemaniac_herman_0285_outlined.png"
+hash = "9e757bde8e69461024e5ac36153ada2fac127cd4ce0be648993f677d07bc7bbe"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemaniac_mark_0252.png"
+hash = "910f2bed2dc6c99abfeae89c623e22af24894d40d6e1dac118b73c5bec0bc37e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemaniac_mark_0252_outlined.png"
+hash = "9e757bde8e69461024e5ac36153ada2fac127cd4ce0be648993f677d07bc7bbe"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemaniac_winston_00a6.png"
+hash = "2c5ced1d02d880bb753410e699f071da4ffd227a954e5507b275474cadae8338"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemaniac_winston_00a6_outlined.png"
+hash = "4bbf86fa4d7c68ecbf2ebc00bcfdc861cdb38e15556568987a86ec21be55cd8f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_breeder_jennifer_0311.png"
+hash = "bc7e983af0ae67ebcaf3b866e66598ff7ef6cf537e400b65362a909fa920ded8"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_breeder_jennifer_0311_outlined.png"
+hash = "88bff58223dace935c0d001f47bde58a8192af3f1c24a29b9d874e16082d9d4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_breeder_kaylee_0482.png"
+hash = "bc7e983af0ae67ebcaf3b866e66598ff7ef6cf537e400b65362a909fa920ded8"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_breeder_kaylee_0482_outlined.png"
+hash = "88bff58223dace935c0d001f47bde58a8192af3f1c24a29b9d874e16082d9d4e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_ranger_allison_0337.png"
+hash = "431f8283f45ee7cb6c3a4f4c594de427376cb8dca1f50b21bda65cf2f4740f7b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_ranger_allison_0337_outlined.png"
+hash = "624a823301e76160e2d72e35415ebd20746d9797b2b49108cc3ede667f8af3cd"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_buck_04cb.png"
+hash = "25ee5f6bdc4ea74d43bbdbfc9479a0a4b74f54bbb84d1ce3fceca8d4b465302f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_buck_04cb_outlined.png"
+hash = "050d5b569b8a272237418450b272d7e46d2ec2706af66316c8471a579638a9ba"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0396.png"
+hash = "16bfccfdba7ded683ac494b84f015cac9296b67dbd1f1691b790495ae7f2d25f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0396_outlined.png"
+hash = "e0cc737f875c8c15b55cc1626f9fc404ebe209fa923331672d5f46ea4316a949"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0397.png"
+hash = "16bfccfdba7ded683ac494b84f015cac9296b67dbd1f1691b790495ae7f2d25f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0397_outlined.png"
+hash = "e0cc737f875c8c15b55cc1626f9fc404ebe209fa923331672d5f46ea4316a949"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0398.png"
+hash = "16bfccfdba7ded683ac494b84f015cac9296b67dbd1f1691b790495ae7f2d25f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0398_outlined.png"
+hash = "e0cc737f875c8c15b55cc1626f9fc404ebe209fa923331672d5f46ea4316a949"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_044a.png"
+hash = "16bfccfdba7ded683ac494b84f015cac9296b67dbd1f1691b790495ae7f2d25f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_044a_outlined.png"
+hash = "e0cc737f875c8c15b55cc1626f9fc404ebe209fa923331672d5f46ea4316a949"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0581.png"
+hash = "16bfccfdba7ded683ac494b84f015cac9296b67dbd1f1691b790495ae7f2d25f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_cedric_0581_outlined.png"
+hash = "e0cc737f875c8c15b55cc1626f9fc404ebe209fa923331672d5f46ea4316a949"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_04d8.png"
+hash = "7b544afcd72145ffc2d76ced07e6b7db3da0b54a50f0c8337db456dc9f8a81c6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_04d8_outlined.png"
+hash = "fc371a48ba375a22d4dbba718f5352832176bf7f079590f586e4ba97f879f842"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_04d9.png"
+hash = "7b544afcd72145ffc2d76ced07e6b7db3da0b54a50f0c8337db456dc9f8a81c6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_04d9_outlined.png"
+hash = "fc371a48ba375a22d4dbba718f5352832176bf7f079590f586e4ba97f879f842"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_04da.png"
+hash = "7b544afcd72145ffc2d76ced07e6b7db3da0b54a50f0c8337db456dc9f8a81c6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_04da_outlined.png"
+hash = "fc371a48ba375a22d4dbba718f5352832176bf7f079590f586e4ba97f879f842"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_059d.png"
+hash = "7b544afcd72145ffc2d76ced07e6b7db3da0b54a50f0c8337db456dc9f8a81c6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_dawn_059d_outlined.png"
+hash = "fc371a48ba375a22d4dbba718f5352832176bf7f079590f586e4ba97f879f842"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04cd.png"
+hash = "4c90e80c667c17511caaca5e16e075611ed9a8fad8aeb1072aa4d1f39210eb34"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04cd_outlined.png"
+hash = "5c3c444ac6e667f1ae7d2bbfdaff0d0b9c21fcb16d158819ba1ef8cdf2ad405b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04cf.png"
+hash = "4c90e80c667c17511caaca5e16e075611ed9a8fad8aeb1072aa4d1f39210eb34"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04cf_outlined.png"
+hash = "5c3c444ac6e667f1ae7d2bbfdaff0d0b9c21fcb16d158819ba1ef8cdf2ad405b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04d5.png"
+hash = "4c90e80c667c17511caaca5e16e075611ed9a8fad8aeb1072aa4d1f39210eb34"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04d5_outlined.png"
+hash = "5c3c444ac6e667f1ae7d2bbfdaff0d0b9c21fcb16d158819ba1ef8cdf2ad405b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04d6.png"
+hash = "4c90e80c667c17511caaca5e16e075611ed9a8fad8aeb1072aa4d1f39210eb34"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04d6_outlined.png"
+hash = "5c3c444ac6e667f1ae7d2bbfdaff0d0b9c21fcb16d158819ba1ef8cdf2ad405b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04d7.png"
+hash = "4c90e80c667c17511caaca5e16e075611ed9a8fad8aeb1072aa4d1f39210eb34"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_lucas_04d7_outlined.png"
+hash = "5c3c444ac6e667f1ae7d2bbfdaff0d0b9c21fcb16d158819ba1ef8cdf2ad405b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_mira_04cc.png"
+hash = "e9cc881d13a8d405f7029b78fe5ef667bcd7240395b811ec278b9fc780da5312"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/pokemon_trainer_mira_04cc_outlined.png"
+hash = "1c7b0eb184b90648e402f5b3c91b92c373b2a4a6f989a8a3c8ef5d76f0b64f9f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/prof_prof_oak_01ff.png"
+hash = "5f91395785d0789b41bd67a93521703114158e8bffd646f0b42198c7e2b6b66d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/prof_prof_oak_01ff_outlined.png"
+hash = "29880b619c5d921b2e6856f7ef21c8b94a27b25609f272e06877bf8d6332277c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/rancher_marco_050f.png"
+hash = "112a3813b2a896b8af5830d77b98ab619ce520fe5a6aeb56be11c0db259f3281"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/rancher_marco_050f_outlined.png"
+hash = "7d6e98dde0ec76b6dcbd522cc584cd505be2da0bc14f877ddde281646b10197a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ranchers_ava_matt_m006.png"
+hash = "c4493fde1837bf0e9ae6c1c5b56c7623039c8a88e8b6faf98960bdcb06d47d90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ranchers_ava_matt_m006_outlined.png"
+hash = "ea7060ad5316951d0b37ab2baa62510960711d67f3796f96dc5a6df2e237b89d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ranchers_beth_047c.png"
+hash = "c4493fde1837bf0e9ae6c1c5b56c7623039c8a88e8b6faf98960bdcb06d47d90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/ranchers_beth_047c_outlined.png"
+hash = "ea7060ad5316951d0b37ab2baa62510960711d67f3796f96dc5a6df2e237b89d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/reporter_valerie_048c.png"
+hash = "28d46dccc859419639618bae69f29a7cd1ae69be9b2a29727e545353748d844c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/reporter_valerie_048c_outlined.png"
+hash = "5b8c6c135a2545bad333dc72e1f009dce37c36e5db9561956cf47ece3e389a8b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/rich_boy_roman_048a.png"
+hash = "71624fce4722b07c4f4382f68839ecba91fb33d40c594f210cb7dc5da5137bf5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/rich_boy_roman_048a_outlined.png"
+hash = "ca0adb51021ab6dc6f64874173da10d703ebd220b0ddabc85d46b200ae64d27d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_brunore_001e.png"
+hash = "10acfaf093314719c53022651cecb19b447d10b5fa2f5806ab2e26a5e10b0fe7"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_brunore_001e_outlined.png"
+hash = "a4400a36f139fd581698f00fbceb47902cee705df41af9eb6e130ab14d447055"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_brunore_001f.png"
+hash = "7f4aaecafc7368a2df62f98637b086d48ab49db548a61adcb3335f937eb80d57"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_brunore_001f_outlined.png"
+hash = "7b9536464157e42b451a94867ff3f8a4edbcad47f6a349f71c7a848bf08a4846"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_christine_03f1.png"
+hash = "7f4aaecafc7368a2df62f98637b086d48ab49db548a61adcb3335f937eb80d57"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_christine_03f1_outlined.png"
+hash = "7b9536464157e42b451a94867ff3f8a4edbcad47f6a349f71c7a848bf08a4846"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_harrison_03ee.png"
+hash = "7f4aaecafc7368a2df62f98637b086d48ab49db548a61adcb3335f937eb80d57"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/school_kid_harrison_03ee_outlined.png"
+hash = "7b9536464157e42b451a94867ff3f8a4edbcad47f6a349f71c7a848bf08a4846"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_gardenia.png"
+hash = "b9ce6472f6db83c48dc492666afffa373c9c0c1a4567dddb549c3a5d51b64ec7"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_gardenia_outlined.png"
+hash = "857a5a4b3d6544552128b0a501e2f90209e086a68160af4351470b66d7512d69"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_leader_candice_rematch_05e9.png"
+hash = "29e0dd518759c5c032a2bb54566e96b9e42df5843228e05cb2afcb073d33aab1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_leader_candice_rematch_05e9_outlined.png"
+hash = "e7c8ac98c71547aa5bbfba54aa18074213898f327bb23e94b655abef2e2a1262"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_marzia.png"
+hash = "1bf5708453c9be3880c16d26ecc761ee13766cda05005f41b81972e5e6ca9c1f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_marzia_outlined.png"
+hash = "83239d32c6848fc28ebf44d67b247f9b763509d2e6c8664070f9feb53c3941b1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_omar.png"
+hash = "cfea4930dd791b7b4f5df670772fe672bdf8ce2460a1af6365e789d75282af37"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_omar_outlined.png"
+hash = "ce730a1bce32a0a894778fd00a7d0a2be4f363f4ede84ec51a50b5fd488eb86f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_pedro.png"
+hash = "80e1a178dc2e500bfca1401a71a2dfe6f68809550ca44dbd5cce42fa014abe75"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sinnoh_pedro_outlined.png"
+hash = "d36878d1ae0c72a0da20750ac76aca99b61b1ef5d6dd005b9f9ea508b60e073e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sis_and_bro_lil_and_ian_01eb.png"
+hash = "3ae193517a13b2fa994738b6fc61824edb0af043a688105db46626ee3ad5968d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/sis_and_bro_lil_and_ian_01eb_outlined.png"
+hash = "b254038bb22226aea47aa89c973c12af21f3566e077a4e8bdec5f56f310ae9ae"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/skier_edward_0557.png"
+hash = "dba77527cb6735fd96d15229d4a88de6a0386c9997d4e7fb86e4a128ead383df"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/skier_edward_0557_outlined.png"
+hash = "19438fb0fd1fb96e5babb43d9792d490731bac6ccd64dbb1f34e2c8c5519a239"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/skier_kaitlyn_0351.png"
+hash = "e241000c7179293d0f8f9b2cebe6953274f8a9c327ff2c0cc1deb111c78bfd8d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/skier_kaitlyn_0351_outlined.png"
+hash = "bc8dbba8cc4c961f6f0f8b26f15b3262cf940c9b51c321a811118b5998f65ebe"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/tamer_evan_0251.png"
+hash = "115ddbd470df651ad190da41213aa632c131396b6a7843d1d754ab54081309f9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/tamer_evan_0251_outlined.png"
+hash = "0b9ac10c10233d350f4bc8327dbb6c39b758b51a85671e9730efc99e4542e220"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_apiarist.png"
+hash = "fa473a986be127c435f8e947cae40a3c80676068857fdcf03d8ebce57618a55e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_apiarist_outlined.png"
+hash = "a834643821312c1b779601b0467c1028c15b1a057ef5623630993608e227f1a9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_commander_mars.png"
+hash = "78797dd1d8125f16dfc245f486d6dbf4cb158cf29e215a28574101f9298bea90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_commander_mars_outlined.png"
+hash = "916cbb091b777004e3cc3573b1c9f2d3341e8227f54fce17132ce1d12a0f60c4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_commander_saturn.png"
+hash = "cf023e355acdc9b8043d828035c07b1e31ed8ea58d29a5a29420d4da8dbd72e6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_commander_saturn_outlined.png"
+hash = "ed2f60bc04b45eb7e28d15e0b46d6c06704ac06eb781246f7fd6a9110977bdcc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_cyrus.png"
+hash = "76734f1b96e056af1e4e72af101d319adb97ffd7b5ff0d3d0bbb8af52e9a4ee4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_cyrus_outlined.png"
+hash = "1579dbd836ebdc5f7c6e9c005a96221bc94998576c284eae33adea21f6d194d6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_director.png"
+hash = "fcf4e7c50015fdfd1a6f0fd18e6dd10b28a069b3aa04b8207be8b827611d0918"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_director_outlined.png"
+hash = "42ff7d6487c70fb6483a75c7b00ed269e4dc62cf275e681d9bca0293991cd4d9"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_01.png"
+hash = "70bf47b50ed2ac0cdaaa61f8e3e7a3d3c39dd7a3a9ab3492c193aa032c939bed"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_01_outlined.png"
+hash = "8d95dcaaa71f29f65a10b9aafaad1ea5c6a8f704a1b16305ea96f8fc64d7fa7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_02.png"
+hash = "70bf47b50ed2ac0cdaaa61f8e3e7a3d3c39dd7a3a9ab3492c193aa032c939bed"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_02_outlined.png"
+hash = "8d95dcaaa71f29f65a10b9aafaad1ea5c6a8f704a1b16305ea96f8fc64d7fa7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_03.png"
+hash = "70bf47b50ed2ac0cdaaa61f8e3e7a3d3c39dd7a3a9ab3492c193aa032c939bed"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_03_outlined.png"
+hash = "8d95dcaaa71f29f65a10b9aafaad1ea5c6a8f704a1b16305ea96f8fc64d7fa7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_04.png"
+hash = "70bf47b50ed2ac0cdaaa61f8e3e7a3d3c39dd7a3a9ab3492c193aa032c939bed"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_employee_04_outlined.png"
+hash = "8d95dcaaa71f29f65a10b9aafaad1ea5c6a8f704a1b16305ea96f8fc64d7fa7f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_engineer_01.png"
+hash = "68bfbf4bdc3f7db798039f87d6c863c152f91f3df6c5c238ddf3e3a31e9dcdca"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_engineer_01_outlined.png"
+hash = "b2c3c6b1c64760a4e441e3ce2b26875b4361d841b7f83185f45c2c4a7f8f4e4c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_garbageman.png"
+hash = "b20c96284bc7ca71ee43625e3b1122ac809f8114b03d26c9eadc7fe87847ab67"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_garbageman_outlined.png"
+hash = "20a9247d9be5f00debf0d07f6938620f9ad062d8ac5706c08b71a5c2e2f0101f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_03c3.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_03c3_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_03c4.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_03c4_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0423.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0423_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0424.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0424_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_042b.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_042b_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_042c.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_042c_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0579.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0579_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0588.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0588_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0589.png"
+hash = "cdb7760a39ad371acd5218a16cac608ed3bce535867e7d0534133cb92c303521"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_0589_outlined.png"
+hash = "0f02c87461568edd7e91595047c425f9e49e8b205372ef1b3dda3aee301ed4d5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_08.png"
+hash = "4635bafe214191c94f8bd2e96c7965f52ddb2b6d4a66b57626b8a6c176782b81"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_08_outlined.png"
+hash = "b6a28ea6d5e0a862dc1a5ab426c3cf34926cf79ddcf47896112421d0e615cca2"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_10.png"
+hash = "6cc4eabdc547cc963c9a5e649a3aeb0cc94b44f8464f9d6e9a35ba5afac4a74b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_grunt_10_outlined.png"
+hash = "966c6885cdbfc13e1dc943af5cbd2c5bc3d1186c2a233d62fbaac7a2d21fc837"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_01.png"
+hash = "ec91b4a0f6e0c4ccce418d79c89c7021155892d13a1334b817ae1b277cb4182c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_01_outlined.png"
+hash = "eeaf1a6a13c397414e094b0ecab16c27197032cc8b3c8035bbbbfb584ce90c1f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_02.png"
+hash = "139a5875b39f8bdb3bbac6f5cf334bdf5588058cc4eaa109884c2bb1471cfc90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_02_outlined.png"
+hash = "c598da96778f4409f87548c35935a913c6fdbe707ec62d7a8b5decce2a3185a1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_03.png"
+hash = "139a5875b39f8bdb3bbac6f5cf334bdf5588058cc4eaa109884c2bb1471cfc90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_03_outlined.png"
+hash = "c598da96778f4409f87548c35935a913c6fdbe707ec62d7a8b5decce2a3185a1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_04.png"
+hash = "139a5875b39f8bdb3bbac6f5cf334bdf5588058cc4eaa109884c2bb1471cfc90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_04_outlined.png"
+hash = "c598da96778f4409f87548c35935a913c6fdbe707ec62d7a8b5decce2a3185a1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_05.png"
+hash = "139a5875b39f8bdb3bbac6f5cf334bdf5588058cc4eaa109884c2bb1471cfc90"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_recruit_05_outlined.png"
+hash = "c598da96778f4409f87548c35935a913c6fdbe707ec62d7a8b5decce2a3185a1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_researcher_02.png"
+hash = "e607251f052c35b187248da8572e48dfb9eaf10560d68119c605df073c1b6c89"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_researcher_02_outlined.png"
+hash = "0970cd44bbb8b1a308b4d1fb2c9afe0131c1dc37fce2cb724c2a0bd659346e6b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_researcher_04.png"
+hash = "06dcbbca6153648c5770989e366bf5c7ba6f7aea444016d6a482dca35111621e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_researcher_04_outlined.png"
+hash = "afa45ecb0b728d083bee0a279168824a6dcc31e3a601cd3779609db4b43ec2a6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_scientist_01.png"
+hash = "826d8d620ecf64475f124fcc2e00ea1ccb64e34a9beb2947637d01de21f211e1"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_scientist_01_outlined.png"
+hash = "e1d650130eabbf1d83a14390522adee8a741f632d9835d66f0a62c517226fadc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_scientist_02.png"
+hash = "0dd61ef0c173fcd1319573e386c3d33bcae5ff68f1b4014cfbeb1a7dfd8b21eb"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_scientist_02_outlined.png"
+hash = "4b4659b55d833f7a41a703b7f5071b5809060686b045c796273f8522c41f24dc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_scientist_04.png"
+hash = "d81ff5d750c48faee2ecb0374d53ae391e1b03c677a45b3ef523885e437d5e2d"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_scientist_04_outlined.png"
+hash = "698b9a36e2503968a9b0d73b6482cb901dab62a6de613db54e5948e6d795f4bf"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_supervisor.png"
+hash = "68ac7bf09aefc1aa34944fb234167c2f06646bbdfdd1096087f985d204d09fe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_galactic_supervisor_outlined.png"
+hash = "de3618594701797e2a701c7b8c6d5f63dc7c79ac08b182af1d8123984ec945df"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_admin_apollo.png"
+hash = "32024cd382fa33c35a749a58b64886a0c433dbf58fc60bcec5cb0ec6e1d40955"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_admin_apollo_outlined.png"
+hash = "cb3337c8f87cc43a5c9ddca7cf432ac3b0d563d9e549d8f17aabf61884df9223"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_agent_02.png"
+hash = "788b1ac8e8098af7e7f762a3fe9a69530c3674c64b8d19df8ede5a36beba73a7"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_agent_02_outlined.png"
+hash = "c010cf7e8247083933806f699f2f4305b8b730a28bc11a18d4ef921ebcb08b55"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_agent_03.png"
+hash = "68a4ddb3f1edfb9da9434fb3a2874ce11123deb0d67d77bb4200bf63a31f7724"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_agent_03_outlined.png"
+hash = "704dd517b5cf2520233e3df998ad50e36608463d10fd72d52ca2287aa20f9a74"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_agent_04.png"
+hash = "40c80fa7a031f8610b5540be1f314219e737eac46b99fc1eba1ca28a93429bde"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_agent_04_outlined.png"
+hash = "dac37078db7e8f8b51b5b3c1325a300baf690c134da827950a13b73287d56820"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_member_01.png"
+hash = "9d25fde9d6b55bf7bab5a7bb57521c26313735cee89e3b2278a1bc416a80f892"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_member_01_outlined.png"
+hash = "1232ba2c13b9fe5cf2efecedb85519c7947d7976b88eef66dcce8f40f653bc08"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_member_02.png"
+hash = "68a4ddb3f1edfb9da9434fb3a2874ce11123deb0d67d77bb4200bf63a31f7724"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_member_02_outlined.png"
+hash = "704dd517b5cf2520233e3df998ad50e36608463d10fd72d52ca2287aa20f9a74"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_member_04.png"
+hash = "9d25fde9d6b55bf7bab5a7bb57521c26313735cee89e3b2278a1bc416a80f892"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_member_04_outlined.png"
+hash = "1232ba2c13b9fe5cf2efecedb85519c7947d7976b88eef66dcce8f40f653bc08"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_01.png"
+hash = "5ebcb772bc845af53b599311fe483e70c1308585a037d510d4553aa939ae6a9c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_01_outlined.png"
+hash = "52bc3cd229a7e440e46b815efaf7d5610fcfd2d154867272d8f93e59d06ca396"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_02.png"
+hash = "c2690df9c8673b2ccbd833c6fed390ce71585b32f5ad1c510d1ac21f2ff15607"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_02_outlined.png"
+hash = "63ed8b743f35a7fadd47cc284329ff5c04d31d9b0a2eda7dfb5ff68069efeb36"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_03.png"
+hash = "5ebcb772bc845af53b599311fe483e70c1308585a037d510d4553aa939ae6a9c"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_03_outlined.png"
+hash = "52bc3cd229a7e440e46b815efaf7d5610fcfd2d154867272d8f93e59d06ca396"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_04.png"
+hash = "c2690df9c8673b2ccbd833c6fed390ce71585b32f5ad1c510d1ac21f2ff15607"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_officer_04_outlined.png"
+hash = "63ed8b743f35a7fadd47cc284329ff5c04d31d9b0a2eda7dfb5ff68069efeb36"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scientist_01.png"
+hash = "f814a63a7e04a126087ac6518452a3c53baeaeb9f16874ab68669905baaf57dc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scientist_01_outlined.png"
+hash = "2c136e90ba2b7d9d44f48fd1e1b84e1f4bd06c6dbd9a6ed86f91a7a1cd7c079b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scientist_02.png"
+hash = "b83e7c3bfb1d821f2d89b7f1f20258b62169c99b873d5ec95cc45a4c7816d09f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scientist_02_outlined.png"
+hash = "7d227f4ba95d3d7aa19f4cde8902c4466dadad6df10dbaeed072d69a1408e3b6"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scientist_03.png"
+hash = "f814a63a7e04a126087ac6518452a3c53baeaeb9f16874ab68669905baaf57dc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scientist_03_outlined.png"
+hash = "2c136e90ba2b7d9d44f48fd1e1b84e1f4bd06c6dbd9a6ed86f91a7a1cd7c079b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_01.png"
+hash = "0a18eca88fd2e5366bd0bc929ce3aacafc567cbd43316a0fc1532042e0af5d4f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_01_outlined.png"
+hash = "0e8a77376c61c706dcd40906172c4f73d9a792d9ee92959d5ef9261f030d1320"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_02.png"
+hash = "0a18eca88fd2e5366bd0bc929ce3aacafc567cbd43316a0fc1532042e0af5d4f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_02_outlined.png"
+hash = "0e8a77376c61c706dcd40906172c4f73d9a792d9ee92959d5ef9261f030d1320"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_03.png"
+hash = "0a18eca88fd2e5366bd0bc929ce3aacafc567cbd43316a0fc1532042e0af5d4f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_03_outlined.png"
+hash = "0e8a77376c61c706dcd40906172c4f73d9a792d9ee92959d5ef9261f030d1320"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_04.png"
+hash = "ca21302529263d4e4409c2bdaa0069e7b74085aa99ade7c1d2e1466b6f357e05"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_scout_04_outlined.png"
+hash = "806963ac629857fc9a042187a49d1ba8699123abaff5940233f73a5f11128070"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_spy_01.png"
+hash = "5640c07df6df24ca1be7df4907fd42a372a7024224f9bff2ab7aabaeae33e014"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_spy_01_outlined.png"
+hash = "2722c5510d9bb7e4cf0f840687ff111178056fd637ee7b2c81b870b11b5de5c4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_spy_03.png"
+hash = "5640c07df6df24ca1be7df4907fd42a372a7024224f9bff2ab7aabaeae33e014"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_spy_03_outlined.png"
+hash = "2722c5510d9bb7e4cf0f840687ff111178056fd637ee7b2c81b870b11b5de5c4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_spy_04.png"
+hash = "5640c07df6df24ca1be7df4907fd42a372a7024224f9bff2ab7aabaeae33e014"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/team_rocket_spy_04_outlined.png"
+hash = "2722c5510d9bb7e4cf0f840687ff111178056fd637ee7b2c81b870b11b5de5c4"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/trainer_association.png"
+hash = "f13c2fa54044af082f7033a857554b4379337ad449c05aac3dfe230dfca021cc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/trainer_association_outlined.png"
+hash = "5ed52f5858702717a7beaf229fcb50a13f51b98e60a59ef2a75c4770c38324ad"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/trainer_brendan_002c.png"
+hash = "48bfdf1da6d85f88d3f663ab9ee3b82f9e335e07c934018b28c31e9bb4ab1dfc"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/trainer_brendan_002c_outlined.png"
+hash = "8508f22c51d4307309d6b7defaa515e1e1c73503b49d4eaff256a0c8ca53732f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/twins_liv_02f0.png"
+hash = "fe382137b63960b2e1b64a1d3deffe8eeef3d6d714d852538b137d5630206916"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/twins_liv_02f0_outlined.png"
+hash = "7e4cf915170c0ae00bccb444317563c1b7ec800aabb30908cc8a901f75601759"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/twins_liz_02f1.png"
+hash = "fe382137b63960b2e1b64a1d3deffe8eeef3d6d714d852538b137d5630206916"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/twins_liz_02f1_outlined.png"
+hash = "7e4cf915170c0ae00bccb444317563c1b7ec800aabb30908cc8a901f75601759"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/twins_tia_031a.png"
+hash = "fe382137b63960b2e1b64a1d3deffe8eeef3d6d714d852538b137d5630206916"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/twins_tia_031a_outlined.png"
+hash = "7e4cf915170c0ae00bccb444317563c1b7ec800aabb30908cc8a901f75601759"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/veteran_brian_031d.png"
+hash = "141b23cb08595e572118866153c0b67f3cfa5a86a89bf63c5c2ef4d3b7dd90b0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/veteran_brian_031d_outlined.png"
+hash = "0719395c92ee8fbb9322c8f1fe221869d056a1b24054999105515d548dc6adaf"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/waitress_kati_03fc.png"
+hash = "be1ab3b85a352ced15ed81e7cda589126eead2e9173797002c69e83eec4d0604"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/waitress_kati_03fc_outlined.png"
+hash = "196947caf2463c9440cc31b65bf3709e80bbb419cedb716d98b24b5458d33849"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_braden_0460.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_braden_0460_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_brendon_0461.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_brendon_0461_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_colin_037a.png"
+hash = "f6b5512e2699f45298aa9041267cc857dda9d529d97c84b211ba9ce33b7cf89e"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_colin_037a_outlined.png"
+hash = "a2fff71ecf5a0e7d7abd45ae40071aa828f284563ece1e17016f54b9154a3a9b"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_dillan_0584.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_dillan_0584_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_gerardo_03fd.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_gerardo_03fd_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_jackson_039a.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_jackson_039a_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_mason_037b.png"
+hash = "fcc1030b675c063921918c079666dfedc4a7c87edc9b5f8b081d31e050cd0c9a"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_mason_037b_outlined.png"
+hash = "66a4448c19ecc31777e63d8a03ba9f652b7e044a4c3522d826a35e8c846efcb5"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_quentin_0462.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_quentin_0462_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_willy_045f.png"
+hash = "444902cdbd590eb8e934ad1e026a2b79e9dcab022195548040aef21864f1bfe0"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/worker_willy_045f_outlined.png"
+hash = "2705c0290f796ca295fb3ce9bc0a190d73f5abba96c3aa7ac0102c7fdc7b390f"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/young_couple_gia_and_jes_02c2.png"
+hash = "276c0f9906abacfee93d103932235eee7e3173e3cc487274b95c31d50a904861"
+
+[[files]]
+file = "journeymap/icon/entity/rctmod/young_couple_gia_and_jes_02c2_outlined.png"
+hash = "387a6d68c39e9f5092c16e90fe6ef3a25ab3353eddaa63fa05d899993ad79955"
+
+[[files]]
+file = "journeymap/icon/theme/default.theme.config"
+hash = "5ed3b4853654cef6243b0b6bb6df0525d512a947ab7485bf2ce8962cdd43cae2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/DesertTemple.theme2.json"
+hash = "3fbea9b4f7a132c50c2225f66e31bcc0421abee5ebf4d0faa2ce70055921ccd2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/EndCity.theme2.json"
+hash = "aa20458b3eb842261db12d9ce79509284049021bf8d9624ed1b17e6a43e891cf"
+
+[[files]]
+file = "journeymap/icon/theme/flat/ForestMansion.theme2.json"
+hash = "8c3305e78ac46c4b8a7b84ab4e0707ff4ed9b8011c3e34c153c7ba175864887e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/NetherFortress.theme2.json"
+hash = "ca6f39a57b624ac3a02500a1bcc7671b8d09d0e350b44dde5141f3a1ea833a77"
+
+[[files]]
+file = "journeymap/icon/theme/flat/OceanMonument.theme2.json"
+hash = "174ac660305e06603087f3caa2fd64e3c7bd486a02a5a07723e88c63cf271475"
+
+[[files]]
+file = "journeymap/icon/theme/flat/Purist.theme2.json"
+hash = "654ac99369f348b3373133b3047006f73dec8fcc4158c185416126f19dabb2ad"
+
+[[files]]
+file = "journeymap/icon/theme/flat/Stronghold.theme2.json"
+hash = "70ac933ca3a16895c3826edfac645e6eec2f2b3de07dd86da7c7005157e4b824"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/htoolbar_begin.png"
+hash = "bc8e966e662dae481ce2913e7fe0f62b60e8434a3b7bf2a1a642191e13b97776"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/htoolbar_end.png"
+hash = "bc8e966e662dae481ce2913e7fe0f62b60e8434a3b7bf2a1a642191e13b97776"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/htoolbar_inner.png"
+hash = "4e9e98131151023530d5a43d33876f84081bfefb9556ba2463bed1ade05540e8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/vtoolbar_begin.png"
+hash = "46d97ea83ebb551a27b0fa9fbd9424067ebd0736623569171441c99b50cea2d1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/vtoolbar_end.png"
+hash = "46d97ea83ebb551a27b0fa9fbd9424067ebd0736623569171441c99b50cea2d1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/vtoolbar_inner.png"
+hash = "4e9e98131151023530d5a43d33876f84081bfefb9556ba2463bed1ade05540e8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_disabled.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_hover.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_off.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_on.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_disabled.png"
+hash = "b8b2aa7682e94d278638afd7682a1b2aebfea4b334af37e81f287ace04373f83"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_hover.png"
+hash = "692595968d043f271614f05fad795a25a4c9a049a1721650433f192d37e64ada"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_off.png"
+hash = "b8b2aa7682e94d278638afd7682a1b2aebfea4b334af37e81f287ace04373f83"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_on.png"
+hash = "f5ba4168b5cb5f716b03e20c8804e95d978ed88cf6131427b9d6adcbfe46087c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/actions.png"
+hash = "c2b542e624984c33ba16fe6a098554b49f341967a752944e7e269fdcb71c2429"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/alert.png"
+hash = "983586f9f7921d2726ac2a53c232d06d722949fa77e157c1a7d98432c6dfc3e1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/animals.png"
+hash = "f69dd9243bd212c311a2341d872b8e79eb3a7ec3b494f33e9eb2affde504984b"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/automap.png"
+hash = "07cc0644f9f73540edc4615a458467eb74474b7554c0d6f5de0507703e9a77cf"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/caves.png"
+hash = "8c38e6593c9ca8a297447361828c000153a609479472350006306676e37ca290"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/close.png"
+hash = "b09d503f492134f700c50c73fc9ceefdda16134e0edf8ecc45198beae4fc6d9e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/day.png"
+hash = "2452de72b9e65a58030ca20dc2f65105d383da9b923eaf84f4c09d6b30ca1d3c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/follow.png"
+hash = "47ebd2bba7b67408bb0445f48f83a45258bc2ebfa4bb42a33083a36db972e9ba"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/grid.png"
+hash = "889a0c720d702243e39a7aab3af3a3df1ba13b8366c1c3c5cd2624d26c778cba"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/layers.png"
+hash = "936372844d875f348d9615b3714fc5dd800d943928bac6531ad873af856d624d"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/monsters.png"
+hash = "b2962a9f3e435446a08dc7aace83c0eef320f482922dcc7f90f0c98c0539c7a5"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/night.png"
+hash = "13372b9c000b9395fed397268d756dd8f10b6793690a954c65eed5c4066d79fb"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/options.png"
+hash = "28536bc300859895c84561bb0608e100665ea6c162da937e6095fe10f558ce1c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/pets.png"
+hash = "ce213a4aa78e802d1e87518079201d58269231f07166839d9e75718760fe1336"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/players.png"
+hash = "5556bc88f910cc607588aedaffefdafc6a969d904ff77333498488f20b9b72f4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/savemap.png"
+hash = "da43846b1c2565f5050f1c69827535666a2ed10f1d3b1ecdd65bf2016b02c24b"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/villagers.png"
+hash = "f367f57a1fa2ea48f6766a52a0e667c8654d93ff905b8ab846021b1cb435a184"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/waypoints.png"
+hash = "1df53677cb2dcfc5c876a062b81000695a770e97d492bfd03467e8d8e79f1d10"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/zoomin.png"
+hash = "1eab60c1b3d19355c9ed3a936ea748aded40b1612a5a3a184e9065ed0134c09c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/zoomout.png"
+hash = "76dbdca4e02d0babb60f51b7e47ac85196b8b11f38922065d0f1f33905afae65"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png"
+hash = "2ec50be3a53372110fd726f20b53c35b254b91aeda2ec692630ee5864d268b4f"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png"
+hash = "d45cc0ea6a7bf2f66bc57f982704a713299f2f2e8836362c0da2f99e095424e2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png"
+hash = "c1d5583ac56ad87938cd2d7a385766277c4ca57e49563c5787a9f412ab57f4ea"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png"
+hash = "16f249791b986c0cd021de987f64cf59c36cc8c501727817a941942aeace2915"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png"
+hash = "ed890971359a4bcb5702f6c230c20c93dc30c4a6c709879256c39522cec03261"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png"
+hash = "2e577e98bc9b5a37434d5b446e290d814264f2389c50f0b815bd8c67ce537e53"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png"
+hash = "0bded5ef2d8ac502c21338c2fcdf413eb43f78923949d6e363d25d56380a82f9"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png"
+hash = "0f74c82f31451f880ef0d90a8a566b02b5f3304ebd50cb24234da5d8527c56ca"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png"
+hash = "5fb8ebd32460266dd14a59a3e1986b6438131c1d2e751496bec3f8a7ec042a8e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png"
+hash = "ca24f18c51c76b646daa598ca4438f89a83d684e151a77e9de16134d2e235c2f"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_bottom.png"
+hash = "0ed5af808f8f5f03cb4c7faf373e6d0a1b630cd08b23de1c9972f83d5e588f15"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png"
+hash = "2114d16ad8ca024c022fa74baa05305d569b3f5411e38c0f7598bb5d8f615acb"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png"
+hash = "e601888a5731292294b34a02afbbf6c9feffa84b323a37f3c8db798bbfcee46c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png"
+hash = "beda592f3784f1263f372d6cc2f0d96ab0b44eb0f413a9b2b53bdffc0741a2c8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_left.png"
+hash = "8adc7d1cf82ff67f3a89f57a04c122c3247eac7b4745b324489c4dd38cce1de3"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_right.png"
+hash = "df82f5728a76c1e5444d927fc8abbdc4f6dce2f8af69b91e0c20bb0107a67d0e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_top.png"
+hash = "325914f3f24630c3d0fd5c8913dda5c756c6e223cdea9d10c2edf8bbb5cb5451"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_topleft.png"
+hash = "1c536d3bd14cb7d97c2a1c65bd5bd4eb97e37021e0e9ff7509f14ee12656ee1e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_topright.png"
+hash = "8bd7546ab31d772403040589a7d245ee0355b2d55a6f490b97dd2097a6394969"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png"
+hash = "2d43664a74f98a5f79ff649757640eb3f45c64f6b5fa7b39b59b2d1bded8b9b2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png"
+hash = "8b36b22cd5d89cdfaca944d18c791f77c525234efa8c6397d7bc9a0eb3f02e8c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png"
+hash = "beda592f3784f1263f372d6cc2f0d96ab0b44eb0f413a9b2b53bdffc0741a2c8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_left.png"
+hash = "52c056947aba9e6eddad0629f00a5047e652e2b4c4c2dcd93029639c1d1e4a54"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_right.png"
+hash = "05a92d917a534561d495f14cd3ea90d6228fb8f625dcb429bd8975d2c50f2450"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_top.png"
+hash = "c9aad7b0b00e2becede24938f9b96e3143c0ec168294e8f232f3c7389b50416d"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_topleft.png"
+hash = "80ef5b6d0f012cf6b3f231b7a397285e5ea895a1527f4d86acbe1e79f905c1b7"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_topright.png"
+hash = "7583ad283f7df4e47893d1081eed19da4c09cdeeb22f6378b2f5b012ea532320"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/htoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/htoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/htoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/unkown.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/vtoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/vtoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/container/vtoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_button_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_button_hover.png"
+hash = "bbb7161ccc441107f41514acf6643912fc6900fb882e1db5fa2880d524bfa2cb"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_button_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_button_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_toggle_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_toggle_hover.png"
+hash = "099cacc81687b8c2b2e6f7dc627df8a518978f798556210197255a1d1daa0be0"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_toggle_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/control/flat_toggle_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_bottom.png"
+hash = "989e0266950e2dbffb216cc2be2a8bae0f98a6a793b002f2eda23f76c316ee95"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomleft.png"
+hash = "32690d8f0176477702adfd890b2142c9a9fd96ec85bfd281231867252188f54c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomright.png"
+hash = "adca6da02711e934f98c2dd29f11cd8ec72f61605e17103d8061caa39f3ad89b"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_compass_point.png"
+hash = "9e3edd90e49e7ec41450e4ced44ad27b1042e025011ab51a745d0e2399120965"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_left.png"
+hash = "237f0a3a743cc88038738d988032f6111c4de754a6bbff16091904db8e7a6273"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_right.png"
+hash = "9b850607adb21bcbcfba1837955cf1f0de448fc5ae62e67c00f766aae17b4b96"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_top.png"
+hash = "8e3fe79f36f38cbf2062ae2538288ed2459fa36ba7e5f98d28719dfc7a386e01"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_topleft.png"
+hash = "e7be45aa3a314b93915dff96151b72d34928867654c63fe704faac923e6f1fb8"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/flat_topright.png"
+hash = "b54d3d791113b6cfb416501782e67d3bb1a50164e0942ef5319d6b042252a2fe"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "journeymap/icon/theme/vault/_flat/vault.theme2.json"
+hash = "0b06db83ef48682d2101ccd86ff729dffd578b23b0ae77e25a30c59cf2fd1358"
+
+[[files]]
+file = "journeymap/icon/theme/vault/container/htoolbar_begin.png"
+hash = "6b47f2184f521d86dd0d67f1dfede88faeee30943646db8228de13e34ae5f7cd"
+
+[[files]]
+file = "journeymap/icon/theme/vault/container/htoolbar_end.png"
+hash = "0262d8e4340c2dd73ced8acc74cbafaddf032a68124bc9036b816f7cb10ec728"
+
+[[files]]
+file = "journeymap/icon/theme/vault/container/htoolbar_inner.png"
+hash = "ebd7a894d03de371fc9a4b6205451bccb6e0b3942b2ff29c05ca83de37c2a26a"
+
+[[files]]
+file = "journeymap/icon/theme/vault/container/vtoolbar_begin.png"
+hash = "e68272687637df8d52886debd32c3f8914b0106c08b60d39f9130cc7cb0d8fd7"
+
+[[files]]
+file = "journeymap/icon/theme/vault/container/vtoolbar_end.png"
+hash = "c20e3ada12970cd29509008e9237316d85c7fdc58b2b6024cc132f5b480a7dc3"
+
+[[files]]
+file = "journeymap/icon/theme/vault/container/vtoolbar_inner.png"
+hash = "c23e3d44f86900d2f04b2d8172da1ed7e5bb46904ea555adc959ef719cc21d32"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_button_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_button_hover.png"
+hash = "bbb7161ccc441107f41514acf6643912fc6900fb882e1db5fa2880d524bfa2cb"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_button_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_button_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_toggle_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_toggle_hover.png"
+hash = "099cacc81687b8c2b2e6f7dc627df8a518978f798556210197255a1d1daa0be0"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_toggle_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/control/flat_toggle_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "journeymap/icon/theme/vault/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_bottom.png"
+hash = "989e0266950e2dbffb216cc2be2a8bae0f98a6a793b002f2eda23f76c316ee95"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_bottomleft.png"
+hash = "32690d8f0176477702adfd890b2142c9a9fd96ec85bfd281231867252188f54c"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_bottomright.png"
+hash = "adca6da02711e934f98c2dd29f11cd8ec72f61605e17103d8061caa39f3ad89b"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_compass_point.png"
+hash = "9e3edd90e49e7ec41450e4ced44ad27b1042e025011ab51a745d0e2399120965"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_left.png"
+hash = "237f0a3a743cc88038738d988032f6111c4de754a6bbff16091904db8e7a6273"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_right.png"
+hash = "9b850607adb21bcbcfba1837955cf1f0de448fc5ae62e67c00f766aae17b4b96"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_top.png"
+hash = "8e3fe79f36f38cbf2062ae2538288ed2459fa36ba7e5f98d28719dfc7a386e01"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_topleft.png"
+hash = "e7be45aa3a314b93915dff96151b72d34928867654c63fe704faac923e6f1fb8"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/flat_topright.png"
+hash = "b54d3d791113b6cfb416501782e67d3bb1a50164e0942ef5319d6b042252a2fe"
+
+[[files]]
+file = "journeymap/icon/theme/vault/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "journeymap/icon/theme/vault/vault.theme2.json"
+hash = "04d175f8e226ef9545cb7e6dfbe5b124559097609f651b15c4809a5eb4c5685a"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/htoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/htoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/htoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/unkown.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/vtoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/vtoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/container/vtoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_button_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_button_hover.png"
+hash = "bbb7161ccc441107f41514acf6643912fc6900fb882e1db5fa2880d524bfa2cb"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_button_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_button_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_toggle_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_toggle_hover.png"
+hash = "099cacc81687b8c2b2e6f7dc627df8a518978f798556210197255a1d1daa0be0"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_toggle_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/control/flat_toggle_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_bottom.png"
+hash = "989e0266950e2dbffb216cc2be2a8bae0f98a6a793b002f2eda23f76c316ee95"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_bottomleft.png"
+hash = "32690d8f0176477702adfd890b2142c9a9fd96ec85bfd281231867252188f54c"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_bottomright.png"
+hash = "adca6da02711e934f98c2dd29f11cd8ec72f61605e17103d8061caa39f3ad89b"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_compass_point.png"
+hash = "9e3edd90e49e7ec41450e4ced44ad27b1042e025011ab51a745d0e2399120965"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_left.png"
+hash = "237f0a3a743cc88038738d988032f6111c4de754a6bbff16091904db8e7a6273"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_right.png"
+hash = "9b850607adb21bcbcfba1837955cf1f0de448fc5ae62e67c00f766aae17b4b96"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_top.png"
+hash = "8e3fe79f36f38cbf2062ae2538288ed2459fa36ba7e5f98d28719dfc7a386e01"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_topleft.png"
+hash = "e7be45aa3a314b93915dff96151b72d34928867654c63fe704faac923e6f1fb8"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/flat_topright.png"
+hash = "b54d3d791113b6cfb416501782e67d3bb1a50164e0942ef5319d6b042252a2fe"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "journeymap/icon/theme/vault_flat/vault.theme2.json"
+hash = "0b06db83ef48682d2101ccd86ff729dffd578b23b0ae77e25a30c59cf2fd1358"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/container/htoolbar_begin.png"
+hash = "97e938c580373d50028c77617181412e5a1b983f8b36dd9a3f088144962d9058"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/container/htoolbar_end.png"
+hash = "44c1a9340e33ae81204feaf6e98b908db783bda859456cca0429cae1128c7b20"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/container/htoolbar_inner.png"
+hash = "e2b833311ebc2ce33156f8ace3745261b073ae03db462fba385ae2da0c1b7958"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/container/vtoolbar_begin.png"
+hash = "d3c9b3525791419c8767cc908cfb77836838ef8fe8ad9735652e0b2a9eba7cd6"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/container/vtoolbar_end.png"
+hash = "d819d5d8cd03d2dcd47d95e9188541910b29dadcf5b7ee06833fd78f502e5de8"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/container/vtoolbar_inner.png"
+hash = "a4b5e3712b2d581157eb32351e349165367d264c44cfc5adfc774653e39f9967"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/button_disabled.png"
+hash = "137ea470fc551b28a1ac9c468689c4c6bdc97b1f937d12e0f0f22384609a4ff8"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/button_hover.png"
+hash = "60e8dcde80397343e745054b741bafe9053aa116eb872744531c1d5136e84b5d"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/button_off.png"
+hash = "e50f8af5fc171bf07280d38454ec8bebb5f018398e90ee9153a38129b77b99dc"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/button_on.png"
+hash = "60e8dcde80397343e745054b741bafe9053aa116eb872744531c1d5136e84b5d"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/toggle_disabled.png"
+hash = "036ab36823a406ee1d23bd4e8fefc1ef14031bb4e7a5abc3899b809a742351a4"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/toggle_hover.png"
+hash = "3664dec513c1ce0be4083cf454c6357fff8f862334c53049fb7c1c3f8a071bdb"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/toggle_off.png"
+hash = "3664dec513c1ce0be4083cf454c6357fff8f862334c53049fb7c1c3f8a071bdb"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/control/toggle_on.png"
+hash = "3df9104ccf5f5a080f54afb6c5876e0362d589361f043739bedc6bd96735bb1f"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/keys.png"
+hash = "d02460aa0c17556f8a349a9eb523d0b03a2e300c3b85757234291524ba5ab48c"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/topo.png"
+hash = "74c6d78eb024a35192745552a0aecf3b8c64baae5d8a369d29ddec5504cc8347"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/circle/compass_point.png"
+hash = "556070f8bd241073467a727bec2a8f73921e187af391025f11d24e9f24b044d9"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/circle/mask_256.png"
+hash = "0bded5ef2d8ac502c21338c2fcdf413eb43f78923949d6e363d25d56380a82f9"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/circle/mask_512.png"
+hash = "0f74c82f31451f880ef0d90a8a566b02b5f3304ebd50cb24234da5d8527c56ca"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/circle/rim_256.png"
+hash = "6e262cd9a8d21ed1a68644ebbbd6d866ab2cc4bc3093cda06f309aa81f9c67af"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/circle/rim_512.png"
+hash = "07773aae3ea94d763cced2569fb4d8b2bdb4817e9a6669e772f34e3deee32bc6"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_bottom.png"
+hash = "850f485150addbc06135bceb1d2b018faba9ef60202db9f663180befe15a624b"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_bottomleft.png"
+hash = "ab6111902aefbd82da31e0800bf3a14ccd53365062c5bd78ea3c65b7470fbbe7"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_bottomright.png"
+hash = "78cd6aa051aef085d7c7a076ed8dac87328d1190e8859e64f3aba0728aa2c35a"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_left.png"
+hash = "8c3e9acddfd1cfed9b89b10c67c8819b6b1dc53301f43f897fb362ef68af887f"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_right.png"
+hash = "4361b97ebccad397397011e6dcdf76d8fba972a2276ae181b87db5cdc1a58398"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_top.png"
+hash = "6dde804287505c0aa1246e1a33041cb1d46e2af5c117bac8ea9f82901a9a5ede"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_topleft.png"
+hash = "a0da4decf637999132fb3c12912c8a2b5f6f157dfbc40eb9a761ada74b6601da"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/pur_topright.png"
+hash = "f1ebbdaaa06e89dcf260d82b91f847a4b5a92b8d175defd172525c019fd8a795"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_bottom.png"
+hash = "6dac7ecc94e350130fa58d390e9829f37c4b5dd74089b301a3618398c98d092d"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_bottomleft.png"
+hash = "257f0453b3252fa342eb6ca601bc10371d11ded4297a77d09f252cc59cd62a8f"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_bottomright.png"
+hash = "371a818d10b07f529fdb7188e49fd0418138a74b338261781431f4f994b28489"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_compass_point.png"
+hash = "843d44d5ac1df4ff78f7c3363e8239d1923fd07d196e525446c4ad6dc9375eb0"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_left.png"
+hash = "6b0b5407f0f0c8907899df46c4370d94f0e82c6b701441f72c1776066b83231a"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_right.png"
+hash = "446ce3c4c0f8f0ac115482e4a7b374b2031c1140b90777178d81acc3c3eb34ff"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_top.png"
+hash = "3cd81a76556a8c241a6baf376e5f36346fee2cadce150c91d3d9298b7c2b43e3"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_topleft.png"
+hash = "832e717169b9d50eaacdf8e477e6d0b92ddb66bdb4d6d6a7a376850e182449d4"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/minimap/square/vic_topright.png"
+hash = "2765ceaed6f26855206f8d4c6a67c4f6175ebae23607c8a4615d4d975afae33e"
+
+[[files]]
+file = "journeymap/icon/theme/victorian_/victorian_.theme2.json"
+hash = "f272934e3c793b24f7f0373e2e9209b5a591100186a6e628c093e1d4aff05c61"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.chainacobblemon~challenge_tower.config"
+hash = "582b5548cca4b3e5d71b3bb4705074002874eb22246b6ddfc36653f49cabefe4"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.chainacobblemon~friday_maze.config"
+hash = "a499eb69c1aa80fb3547b86b44b8c210d7420929e680d2a7b8f05b2ab327ae33"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.chainacobblemon~radical_tower.config"
+hash = "a674e7cdca29bb7265f7481bf6b85a17f96db4fbb8b6aaa8c594d32a773b6447"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.chainacobblemon~training_tower.config"
+hash = "2f16c5690badea8fd0c38f581f2146828348fe886274de640017b8bf75f83bb4"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.chainacobblemon~treasure_maze.config"
+hash = "f1eb041bc7045c76701f2bb6ba9df6e43d88b794934181cc665976ede35aabaf"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.cobblemonraiddens~raid_dimension.config"
+hash = "44116af8a0f2987365fa99a208991b32bea589d915b3e0d844922b4e053911e8"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.default.config"
+hash = "93d905cf1539cb680ef5892a1ac74ed67d6abff1d878b900ef529a59e3d070b7"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.global.config"
+hash = "37b6c5d2d725ec21d0bc0a4ef602a7f51ac1f82e863c02eeb35ea4d3cd7ae6e5"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.legendarymonuments~distortion_world.config"
+hash = "185adc1d2ddb126def4b050a2512833aec447957f410a5f20c527e409374d51d"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.lumymon~nightmare.config"
+hash = "b375b2c593e29a18a36c2da09cd540d1e106974ba916b6b4d729f27bcd9d1aa1"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.lumymon~origin.config"
+hash = "9d431e90d6d72749fe3d2a9bcaaac833b4b03b9a3265f4e096b19cad21d1c35a"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.minecraft~overworld.config"
+hash = "4519d4e00d19e0ed6c07f2a11bd3020b62bdb427dd00a11d475b8fc3b1449bf2"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.minecraft~the_end.config"
+hash = "1611cf92c502537ae073fec0f80a349735cb8c709eafd0a5ec4d3a83b8a00f29"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
+hash = "93cee7752555fbab9b9214106db505ff061e1d0549bb9631eeb8dd026dea7b3c"
+
+[[files]]
 file = "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
 hash = "dda6cc159edd450d05b9ff15832747b951dacd068c601018c219bca833ce5bef"
 

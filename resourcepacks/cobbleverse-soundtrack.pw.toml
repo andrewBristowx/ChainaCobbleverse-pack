@@ -1,0 +1,8 @@
+name = "COBBLEVERSE Soundtrack"
+filename = "COBBLEVERSE Soundtrack.zip"
+side = "both"
+
+[download]
+url = "https://github.com/andrewBristowx/Chainacobblemon/releases/download/modpack-resourcepacks-2026-09-03/COBBLEVERSE.Soundtrack.zip"
+hash-format = "sha256"
+hash = "20da91164e6f1881e6141a2a294589e14e271de3e97859270ff6095cef738068"

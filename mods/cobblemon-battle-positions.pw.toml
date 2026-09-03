@@ -1,8 +1,0 @@
-name = "Cobblemon Battle Positions"
-filename = "cobblemon-battle-positions-1.1.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/andrewBristowx/Chainacobblemon/releases/download/modpack-mods-2026-09-03/cobblemon-battle-positions-1.1.3.jar"
-hash-format = "sha256"
-hash = "d76bbd753763dde4a552d1a86b8bc6ceee9abcb00fa1bd29b6c2e389079437ed"

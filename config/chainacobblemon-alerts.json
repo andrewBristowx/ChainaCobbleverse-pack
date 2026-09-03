@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "legendaryAlerts": true,
+  "shinyAlerts": true,
+  "includeMythicalsAsLegendary": true,
+  "legendaryRadiusBlocks": 256,
+  "shinyRadiusBlocks": 192,
+  "showCoordinates": true,
+  "clickableCoordinates": true,
+  "showDistanceAndDirection": true,
+  "showDimension": false,
+  "trackingEnabled": true,
+  "trackingUpdateIntervalTicks": 20,
+  "maxTrackingMinutes": 10,
+  "disappearanceGraceSeconds": 15,
+  "announceCapture": true,
+  "announceDisappearance": true,
+  "legendarySound": "minecraft:ui.toast.challenge_complete",
+  "shinySound": "minecraft:block.amethyst_block.chime",
+  "legendaryShinySound": "minecraft:ui.toast.challenge_complete",
+  "soundVolume": 0.9,
+  "soundPitch": 1.0
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "id": "chaina_special",
+  "displayName": "Gasha Especial de Chaina",
+  "enabled": true,
+  "startsAtEpochMillis": 0,
+  "endsAtEpochMillis": 0,
+  "rotationPriority": 0,
+  "generations": [],
+  "regions": [],
+  "types": [],
+  "requiredLabels": [],
+  "excludedLabels": [],
+  "excludedSpecies": [],
+  "allowedTiers": [],
+  "tierWeights": {
+    "MYTHICAL": 0.2,
+    "RARE": 14.0,
+    "EPIC": 6.0,
+    "UNCOMMON": 27.0,
+    "COMMON": 52.0,
+    "LEGENDARY": 0.8
+  },
+  "featuredSpecies": {
+    "cobblemon:mienfoo": 3.0,
+    "cobblemon:sneasel": 4.0,
+    "cobblemon:purrloin": 3.0,
+    "cobblemon:absol": 4.0,
+    "cobblemon:lurantis": 4.0,
+    "cobblemon:persian": 4.0,
+    "cobblemon:froslass": 4.0,
+    "cobblemon:skitty": 3.0,
+    "cobblemon:litten": 4.0,
+    "cobblemon:tinkatink": 4.0,
+    "cobblemon:ceruledge": 5.0,
+    "cobblemon:delphox": 5.0,
+    "cobblemon:chingling": 3.0
+  },
+  "minLevelByTier": {
+    "MYTHICAL": 50,
+    "RARE": 15,
+    "EPIC": 25,
+    "UNCOMMON": 10,
+    "COMMON": 5,
+    "LEGENDARY": 50
+  },
+  "maxLevelByTier": {
+    "MYTHICAL": 70,
+    "RARE": 30,
+    "EPIC": 40,
+    "UNCOMMON": 20,
+    "COMMON": 15,
+    "LEGENDARY": 70
+  },
+  "shinyChanceByTier": {
+    "MYTHICAL": 0.001953125,
+    "RARE": 9.765625E-4,
+    "EPIC": 0.0013020833333333333,
+    "UNCOMMON": 6.510416666666666E-4,
+    "COMMON": 4.8828125E-4,
+    "LEGENDARY": 0.001953125
+  },
+  "minPerfectIvsByTier": {
+    "MYTHICAL": 3,
+    "RARE": 1,
+    "EPIC": 2,
+    "UNCOMMON": 0,
+    "COMMON": 0,
+    "LEGENDARY": 3
+  },
+  "rareNatureChance": 0.18,
+  "rareNaturePool": [
+    "Modest",
+    "Timid",
+    "Adamant",
+    "Jolly",
+    "Calm",
+    "Careful"
+  ],
+  "currency": {
+    "type": "FREE",
+    "itemId": "minecraft:emerald",
+    "amount": 1
+  },
+  "pity": {
+    "epicGuarantee": 10,
+    "softLegendaryStart": 60,
+    "softLegendaryBonusPerPull": 0.5,
+    "hardLegendaryGuarantee": 90
+  }
+}

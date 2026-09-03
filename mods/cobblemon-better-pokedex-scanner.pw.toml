@@ -1,0 +1,13 @@
+name = "Cobblemon Better Pokedex Scanner"
+filename = "better-pokedex-scanner-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfb76dc69acbe4ec18a7f59b0911c7399afd671e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7931023
+project-id = 1514948

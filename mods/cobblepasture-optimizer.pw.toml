@@ -1,0 +1,8 @@
+name = "CobblePasture Optimizer"
+filename = "cobblepastureoptimizer-0.1.0-alpha.7+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/andrewBristowx/Chainacobblemon/releases/download/modpack-mods-2026-09-03/cobblepastureoptimizer-0.1.0-alpha.7%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "aaec2dd31679061aafecc7045fa1c7b83c9c5502fbd8753420d669b1da0083b5"

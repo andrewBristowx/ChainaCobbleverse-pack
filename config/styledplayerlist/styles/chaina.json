@@ -1,0 +1,21 @@
+{
+  "style_name": "Chaina Server",
+  "update_tick_time": 20,
+  "list_header": [
+    "<color:#7e45bd>╭━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━╮</color>",
+    "<bold><color:#ff70cc>✦  CHAINA SERVER  ✦</color></bold>",
+    "<color:#b778ff>• ───────────────────────────────── •</color>",
+    "%chainacobblemon:twitch_status%",
+    "%chainacobblemon:stream_jackpot%",
+    "%chainacobblemon:stream_bonuses%",
+    "<dark_gray>• ───────────────────────────────── •</dark_gray>",
+    "<gray>Entrenadores conectados</gray> <color:#ffffff><bold>%server:online%</bold></color><dark_gray>/</dark_gray><gray>%server:max_players%</gray>",
+    "<color:#7e45bd>╰━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━╯</color>"
+  ],
+  "list_footer": [
+    "<color:#7e45bd>✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✦</color>",
+    "<color:#dba8ff>Gachas</color> <dark_gray>•</dark_gray> <color:#ff8fd4>Eventos</color> <dark_gray>•</dark_gray> <color:#8feaff>Cobblemon</color>",
+    "<gray>Hosting gracias a</gray> <aqua><bold>Holy.gg</bold></aqua> <light_purple>♥</light_purple>"
+  ],
+  "hidden_in_commands": false
+}

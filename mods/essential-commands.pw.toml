@@ -1,0 +1,13 @@
+name = "Essential Commands"
+filename = "essential_commands-0.35.2-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1dda78e1ecace03b1a622611ef8783bb1259dc91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7365718
+project-id = 475964

@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "checkIntervalTicks": 20,
+  "sessionTimeoutMinutes": 90,
+  "dungeons": {
+    "ejemplo": {
+      "id": "ejemplo",
+      "enabled": false,
+      "displayName": "Dungeon de ejemplo",
+      "dimension": "minecraft:overworld",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "radius": 40.0,
+      "repeatable": true,
+      "resetOnLeave": true,
+      "leaveGraceSeconds": 20,
+      "cooldownMinutes": 60,
+      "rewardBalance": 250,
+      "rewardPassXp": 100,
+      "rewardStandardRolls": 0,
+      "rewardChainaRolls": 0,
+      "rewardItems": [],
+      "requiredChallenges": [],
+      "requiredQuests": [],
+      "stages": [
+        {
+          "id": "guardianes",
+          "displayName": "Guardianes",
+          "action": "mob_kill",
+          "match": "minecraft:zombie",
+          "goal": 5,
+          "instruction": "Derrota a 5 guardianes de prueba.",
+          "showProgress": true
+        },
+        {
+          "id": "boss",
+          "displayName": "Jefe",
+          "action": "trainer_win",
+          "match": "festival_novato",
+          "goal": 1,
+          "instruction": "Supera el desafío de entrenador configurado como boss.",
+          "showProgress": true
+        }
+      ]
+    }
+  }
+}

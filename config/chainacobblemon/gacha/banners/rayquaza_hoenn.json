@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "id": "rayquaza_hoenn",
+  "displayName": "Rayquaza - Cielos de Hoenn",
+  "enabled": true,
+  "startsAtEpochMillis": 0,
+  "endsAtEpochMillis": 0,
+  "rotationPriority": 0,
+  "generations": [
+    3
+  ],
+  "regions": [],
+  "types": [],
+  "requiredLabels": [],
+  "excludedLabels": [],
+  "excludedSpecies": [],
+  "allowedTiers": [],
+  "tierWeights": {
+    "MYTHICAL": 0.2,
+    "RARE": 14.0,
+    "EPIC": 6.0,
+    "UNCOMMON": 27.0,
+    "COMMON": 52.0,
+    "LEGENDARY": 0.8
+  },
+  "featuredSpecies": {
+    "cobblemon:rayquaza": 6.0
+  },
+  "minLevelByTier": {
+    "MYTHICAL": 50,
+    "RARE": 15,
+    "EPIC": 25,
+    "UNCOMMON": 10,
+    "COMMON": 5,
+    "LEGENDARY": 50
+  },
+  "maxLevelByTier": {
+    "MYTHICAL": 70,
+    "RARE": 30,
+    "EPIC": 40,
+    "UNCOMMON": 20,
+    "COMMON": 15,
+    "LEGENDARY": 70
+  },
+  "shinyChanceByTier": {
+    "MYTHICAL": 2.44140625E-4,
+    "RARE": 2.44140625E-4,
+    "EPIC": 2.44140625E-4,
+    "UNCOMMON": 2.44140625E-4,
+    "COMMON": 2.44140625E-4,
+    "LEGENDARY": 2.44140625E-4
+  },
+  "minPerfectIvsByTier": {
+    "MYTHICAL": 0,
+    "RARE": 0,
+    "EPIC": 0,
+    "UNCOMMON": 0,
+    "COMMON": 0,
+    "LEGENDARY": 0
+  },
+  "rareNatureChance": 0.0,
+  "rareNaturePool": [],
+  "currency": {
+    "type": "FREE",
+    "itemId": "minecraft:emerald",
+    "amount": 1
+  },
+  "pity": {
+    "epicGuarantee": 10,
+    "softLegendaryStart": 60,
+    "softLegendaryBonusPerPull": 0.5,
+    "hardLegendaryGuarantee": 90
+  }
+}

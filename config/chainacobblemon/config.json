@@ -1,0 +1,282 @@
+{
+  "configVersion": 20,
+  "trialSpawnerWatchdogEnabled": true,
+  "trialSpawnersIgnoreDoMobSpawning": true,
+  "endDimensionDisabled": true,
+  "wipeAdvancementsOnJoin": false,
+  "itemCleanupEnabled": true,
+  "itemCleanupIntervalMinutes": 10,
+  "itemCleanupWarningSeconds": 60,
+  "entityCapEnabled": true,
+  "entityCapPerWorld": 8000,
+  "entityCapCheckSeconds": 30,
+  "entityCapProtectedRadius": 64,
+  "hub": {
+    "enabled": false,
+    "world": "minecraft:overworld",
+    "x": 0.5,
+    "y": 64.0,
+    "z": 0.5,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "balance": {
+    "activeRewardSeconds": 600,
+    "activeRewardCoins": 5,
+    "directCoinMultiplier": 1.0,
+    "jobCoinMultiplier": 1.0,
+    "jobXpMultiplier": 1.0,
+    "questCoinMultiplier": 1.0,
+    "shopPriceMultiplier": 1.0
+  },
+  "dailyRewards": {
+    "enabled": true,
+    "timeZone": "America/Lima",
+    "openOnLogin": true,
+    "rewards": [
+      {
+        "id": "chaibells_250",
+        "type": "CHAIBELLS",
+        "value": "",
+        "amount": 250,
+        "weight": 28
+      },
+      {
+        "id": "diamonds_3",
+        "type": "ITEM",
+        "value": "minecraft:diamond",
+        "amount": 3,
+        "weight": 15
+      },
+      {
+        "id": "ultra_balls_4",
+        "type": "ITEM",
+        "value": "cobblemon:ultra_ball",
+        "amount": 4,
+        "weight": 18
+      },
+      {
+        "id": "rare_candy_2",
+        "type": "ITEM",
+        "value": "cobblemon:rare_candy",
+        "amount": 2,
+        "weight": 12
+      },
+      {
+        "id": "standard_roll",
+        "type": "STANDARD_ROLLS",
+        "value": "",
+        "amount": 1,
+        "weight": 12
+      },
+      {
+        "id": "chaina_roll",
+        "type": "CHAINA_ROLLS",
+        "value": "",
+        "amount": 1,
+        "weight": 5
+      },
+      {
+        "id": "treasure_ticket",
+        "type": "ITEM",
+        "value": "chainacobblemon:treasure_gacha_ticket",
+        "amount": 1,
+        "weight": 6
+      },
+      {
+        "id": "random_pokemon",
+        "type": "POKEMON",
+        "value": "standard",
+        "amount": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "battlePass": {
+    "enabled": true,
+    "baseXpPerLevel": 500,
+    "xpGrowthPerLevel": 75,
+    "maximumXpPerLevel": 5000,
+    "activeRewardSeconds": 900,
+    "activeRewardXp": 20,
+    "commonCaptureXp": 8,
+    "uncommonCaptureXp": 12,
+    "rareCaptureXp": 25,
+    "epicCaptureXp": 45,
+    "legendaryCaptureXp": 120,
+    "mythicalCaptureXp": 180,
+    "newSpeciesBonusXp": 10,
+    "captureXpEventsPerMinute": 12,
+    "evolutionXp": 20,
+    "wildBattleXp": 12,
+    "trainerBattleXp": 30,
+    "newBiomeXp": 15,
+    "jobLevelXp": 40,
+    "jobActionXpPerPassXp": 8,
+    "jobActionPassXpPerMinute": 12,
+    "freeRewardEveryLevels": 4,
+    "freeChainaRolls": 1,
+    "premiumFirstLevelChainaRolls": 10,
+    "premiumRewardEveryLevels": 4,
+    "premiumChainaRolls": 2,
+    "premiumPermission": "chainacobblemon.battlepass.premium",
+    "premiumGroups": [
+      "vip",
+      "moderator",
+      "owner",
+      "admin",
+      "chaina",
+      "sub_chaina",
+      "sub_chaina_plus",
+      "sub_chaina_plus_plus",
+      "vip_chaina",
+      "mod_chaina"
+    ],
+    "premiumPlayerNames": []
+  },
+  "kits": {
+    "enabled": true,
+    "definitions": [
+      {
+        "id": "inicio",
+        "displayName": "Kit de inicio",
+        "permission": "groups:default,moderator,admin,owner",
+        "cooldownHours": 168,
+        "items": [
+          "minecraft:stone_pickaxe*1",
+          "minecraft:stone_axe*1",
+          "minecraft:bread*16",
+          "cobblemon:poke_ball*8"
+        ]
+      },
+      {
+        "id": "sub1",
+        "displayName": "Kit SUB I",
+        "permission": "groups:sub_chaina,sub_chaina_plus,sub_chaina_plus_plus",
+        "cooldownHours": 168,
+        "items": [
+          "minecraft:diamond*2",
+          "cobblemon:great_ball*16",
+          "chainacobblemon:gacha_ticket*1"
+        ]
+      },
+      {
+        "id": "sub2",
+        "displayName": "Kit SUB II",
+        "permission": "groups:sub_chaina_plus,sub_chaina_plus_plus",
+        "cooldownHours": 168,
+        "items": [
+          "minecraft:diamond*3",
+          "cobblemon:ultra_ball*12",
+          "chainacobblemon:gacha_ticket*2"
+        ]
+      },
+      {
+        "id": "sub3",
+        "displayName": "Kit SUB III",
+        "permission": "groups:sub_chaina_plus_plus",
+        "cooldownHours": 168,
+        "items": [
+          "minecraft:diamond*5",
+          "cobblemon:ultra_ball*16",
+          "chainacobblemon:gacha_ticket*2",
+          "chainacobblemon:chaina_special_banner_ticket*1"
+        ]
+      },
+      {
+        "id": "mod",
+        "displayName": "Kit MOD",
+        "permission": "groups:moderator,mod,moderador,mod_chaina",
+        "cooldownHours": 168,
+        "items": [
+          "minecraft:diamond*5",
+          "cobblemon:ultra_ball*16",
+          "chainacobblemon:gacha_ticket*3",
+          "chainacobblemon:treasure_gacha_ticket*1"
+        ]
+      }
+    ]
+  },
+  "twitch": {
+    "enabled": true,
+    "mode": "bridge",
+    "broadcasterLogin": "chainavt",
+    "bridgeBaseUrl": "http://127.0.0.1:8765",
+    "bridgePublicKey": "",
+    "requireSignedResponses": false,
+    "playerSyncIntervalSeconds": 300,
+    "channelPollSeconds": 60,
+    "announceOnline": true,
+    "announceOffline": true,
+    "streamHudEnabled": true,
+    "styledPlayerListAutoConfigure": true,
+    "styledPlayerListTabEmotes": true,
+    "styledChatAutoConfigure": true,
+    "luckPermsAutoConfigure": true,
+    "hideStreamHudWhenTabIntegrated": true,
+    "streamBonusesEnabled": true,
+    "streamBonusCount": 3,
+    "streamJackpotChance": 0.05,
+    "streamTypeReplaceChance": 0.08,
+    "streamLegendaryReplaceChance": 8.0E-4,
+    "streamRareReplaceChance": 0.035,
+    "streamPerfectIvChance": 0.18,
+    "linkedGroup": "twitch",
+    "tier1Group": "sub_chaina",
+    "tier2Group": "sub_chaina_plus",
+    "tier3Group": "sub_chaina_plus_plus",
+    "vipTwitchGroup": "vip_chaina",
+    "moderatorTwitchGroup": "mod_chaina"
+  },
+  "pokeballs": {
+    "enabled": true,
+    "rarityLadderEnabled": true,
+    "typeBallsEnabled": true,
+    "legendariesRequireMasterBall": true,
+    "typeBallCatchBonus": 1.5,
+    "timerBallThrowsRequired": 20,
+    "timerBallCatchBonus": 4.0,
+    "quickBallRequiresSpeed": true
+  },
+  "peaceful": {
+    "enabled": true,
+    "toggleCooldownSeconds": 300,
+    "warningSeconds": 10,
+    "spawnerRadius": 24,
+    "structureRadius": 16,
+    "checkIntervalTicks": 40,
+    "dangerousStructureKeywords": [
+      "dungeon",
+      "legendary",
+      "monument",
+      "fortress",
+      "bastion",
+      "stronghold",
+      "mansion",
+      "tower",
+      "cemetery",
+      "shrine",
+      "raid",
+      "trial"
+    ]
+  },
+  "raids": {
+    "enabled": true,
+    "topContributorAlwaysWins": true,
+    "otherParticipantsPercent": 25.0,
+    "announceRanking": true
+  },
+  "teamRocket": {
+    "enabled": true,
+    "stealChancePercent": 50.0,
+    "cooldownSecondsPerVictim": 86400
+  },
+  "lodPack": {
+    "enabled": true,
+    "version": "2026-08-23",
+    "url": "https://github.com/andrewBristowx/Chainacobblemon/releases/download/lods-overworld-2026-08-23/DistantHorizons.sqlite",
+    "sha256": "b1d1f70113e4424431ebf8cd8b4bcffdecf89e924ab2b48124790c49d028a65c",
+    "sizeBytes": 1902821376,
+    "levelKey": "chaina@minecraft@@overworld"
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "economy": {
+    "name": "ChaiBells",
+    "symbol": "CB",
+    "startingBalance": 100,
+    "maxBalance": 1000000000
+  },
+  "jobs": {
+    "miner": {
+      "displayName": "Minero",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "mine",
+      "rewardEvery": 64,
+      "rewardAmount": 20,
+      "permission": ""
+    },
+    "lumberjack": {
+      "displayName": "Leñador",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "woodcut",
+      "rewardEvery": 48,
+      "rewardAmount": 20,
+      "permission": ""
+    },
+    "hunter": {
+      "displayName": "Cazador",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "mob_kill",
+      "rewardEvery": 12,
+      "rewardAmount": 25,
+      "permission": ""
+    },
+    "trainer": {
+      "displayName": "Entrenador Pokémon",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "pokemon_win",
+      "rewardEvery": 3,
+      "rewardAmount": 35,
+      "permission": ""
+    },
+    "catcher": {
+      "displayName": "Capturador",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "pokemon_capture",
+      "rewardEvery": 3,
+      "rewardAmount": 30,
+      "permission": ""
+    },
+    "fisher": {
+      "displayName": "Pescador",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "pokemon_fish",
+      "rewardEvery": 5,
+      "rewardAmount": 25,
+      "permission": ""
+    },
+    "playtime": {
+      "displayName": "Residente",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "playtime_minute",
+      "rewardEvery": 15,
+      "rewardAmount": 20,
+      "permission": ""
+    },
+    "explorer": {
+      "displayName": "Explorador",
+      "description": "Actividad del Festival del Cascabel.",
+      "icon": "◆",
+      "action": "explore_100",
+      "rewardEvery": 10,
+      "rewardAmount": 30,
+      "permission": ""
+    },
+    "capturer": {
+      "displayName": "Capturador",
+      "description": "Captura Pokémon y amplía tu colección.",
+      "icon": "◆",
+      "action": "pokemon_capture",
+      "rewardEvery": 3,
+      "rewardAmount": 30,
+      "permission": ""
+    }
+  },
+  "shop": {
+    "pokeball": {
+      "displayName": "Poké Ball",
+      "description": "Captura Pokémon salvajes.",
+      "category": "General",
+      "item": "cobblemon:poke_ball",
+      "amount": 8,
+      "price": 40,
+      "permission": ""
+    },
+    "greatball": {
+      "displayName": "Great Ball",
+      "description": "Una Poké Ball con mejor ratio de captura.",
+      "category": "General",
+      "item": "cobblemon:great_ball",
+      "amount": 8,
+      "price": 80,
+      "permission": ""
+    },
+    "gasha_standard": {
+      "displayName": "Ticket Gasha estándar",
+      "description": "Una tirada del banner estándar.",
+      "category": "General",
+      "item": "chainacobblemon:gacha_ticket",
+      "amount": 1,
+      "price": 250,
+      "permission": ""
+    },
+    "gasha_chaina": {
+      "displayName": "Ticket Gasha Chaina",
+      "description": "Una tirada del banner especial de Chaina.",
+      "category": "General",
+      "item": "chainacobblemon:chaina_gacha_ticket",
+      "amount": 1,
+      "price": 500,
+      "permission": ""
+    },
+    "ultraball": {
+      "displayName": "Ultra Ball",
+      "description": "Una Poké Ball de alto rendimiento.",
+      "category": "Poké Balls",
+      "item": "cobblemon:ultra_ball",
+      "amount": 4,
+      "price": 120,
+      "permission": ""
+    },
+    "potion": {
+      "displayName": "Poción",
+      "description": "Recupera PS de un Pokémon.",
+      "category": "Medicina",
+      "item": "cobblemon:potion",
+      "amount": 4,
+      "price": 60,
+      "permission": ""
+    },
+    "super_potion": {
+      "displayName": "Superpoción",
+      "description": "",
+      "category": "Medicina",
+      "item": "cobblemon:super_potion",
+      "amount": 2,
+      "price": 120,
+      "permission": ""
+    },
+    "revive": {
+      "displayName": "Revivir",
+      "description": "",
+      "category": "Medicina",
+      "item": "cobblemon:revive",
+      "amount": 1,
+      "price": 180,
+      "permission": ""
+    },
+    "rare_candy": {
+      "displayName": "Caramelo Raro",
+      "description": "Sube un nivel a un Pokémon.",
+      "category": "Entrenamiento",
+      "item": "cobblemon:rare_candy",
+      "amount": 1,
+      "price": 250,
+      "permission": ""
+    },
+    "quick_claw": {
+      "displayName": "Garra Rápida",
+      "description": "",
+      "category": "Combate",
+      "item": "cobblemon:quick_claw",
+      "amount": 1,
+      "price": 350,
+      "permission": ""
+    }
+  },
+  "chapters": {
+    "inicio": {
+      "number": "1",
+      "title": "El Festival del Cascabel",
+      "description": "Comienza tu aventura y conoce los sistemas principales de Chaina."
+    },
+    "entrenamiento": {
+      "number": "2",
+      "title": "Primeros pasos Pokémon",
+      "description": "Captura, combate y prepara a tu primer equipo."
+    },
+    "oficios": {
+      "number": "3",
+      "title": "Vida en la región",
+      "description": "Descubre los trabajos, la tienda y la economía del servidor."
+    },
+    "exploracion": {
+      "number": "4",
+      "title": "Senderos de sakura",
+      "description": "Explora el mundo y prepárate para desafíos mayores."
+    },
+    "dungeons": {
+      "number": "5",
+      "title": "Ecos de las mazmorras",
+      "description": "Supera entrenadores, minibosses y mazmorras de Chaina."
+    },
+    "maestria": {
+      "number": "6",
+      "title": "El gran cascabel",
+      "description": "Contenido final configurable para líderes, leyendas y eventos."
+    }
+  },
+  "quests": {
+    "first_capture": {
+      "chapter": "1",
+      "displayName": "Primera captura",
+      "description": "Objetivo de Chaina.",
+      "action": "pokemon_capture",
+      "match": "",
+      "goal": 1,
+      "rewardBalance": 100,
+      "rewardItems": [
+        "cobblemon:poke_ball*8"
+      ],
+      "prerequisites": []
+    },
+    "first_battles": {
+      "chapter": "1",
+      "displayName": "Primeros combates",
+      "description": "Objetivo de Chaina.",
+      "action": "pokemon_win",
+      "match": "",
+      "goal": 3,
+      "rewardBalance": 150,
+      "rewardItems": [],
+      "prerequisites": [
+        "first_capture"
+      ]
+    },
+    "miner_start": {
+      "chapter": "1",
+      "displayName": "Manos a la mina",
+      "description": "Objetivo de Chaina.",
+      "action": "mine",
+      "match": "",
+      "goal": 64,
+      "rewardBalance": 120,
+      "rewardItems": [
+        "minecraft:iron_ingot*8"
+      ],
+      "prerequisites": []
+    },
+    "welcome": {
+      "chapter": "1",
+      "displayName": "Bienvenido al festival",
+      "description": "Da tus primeros pasos en el mundo de Chaina y permanece unos minutos conectado.",
+      "action": "playtime_minute",
+      "match": "",
+      "goal": 3,
+      "rewardBalance": 100,
+      "rewardItems": [
+        "cobblemon:poke_ball*5"
+      ],
+      "prerequisites": []
+    },
+    "first_victory": {
+      "chapter": "1",
+      "displayName": "Tu primera victoria",
+      "description": "Gana tu primer combate Pokémon.",
+      "action": "pokemon_win",
+      "match": "",
+      "goal": 1,
+      "rewardBalance": 100,
+      "rewardItems": [],
+      "prerequisites": [
+        "first_capture"
+      ]
+    },
+    "walk_the_festival": {
+      "chapter": "1",
+      "displayName": "Recorre los alrededores",
+      "description": "Explora al menos 500 bloques alrededor del festival.",
+      "action": "explore_100",
+      "match": "",
+      "goal": 5,
+      "rewardBalance": 120,
+      "rewardItems": [],
+      "prerequisites": [
+        "first_victory"
+      ]
+    },
+    "choose_job": {
+      "chapter": "2",
+      "displayName": "Un oficio para comenzar",
+      "description": "Progresa con cualquiera de los trabajos del servidor.",
+      "action": "job_progress",
+      "match": "",
+      "goal": 25,
+      "rewardBalance": 150,
+      "rewardItems": [],
+      "prerequisites": [
+        "walk_the_festival"
+      ]
+    },
+    "mine_materials": {
+      "chapter": "2",
+      "displayName": "Recursos para el viaje",
+      "description": "Rompe 64 bloques mientras trabajas como Minero.",
+      "action": "mine",
+      "match": "",
+      "goal": 64,
+      "rewardBalance": 150,
+      "rewardItems": [
+        "minecraft:iron_ingot*8"
+      ],
+      "prerequisites": [
+        "choose_job"
+      ]
+    },
+    "catch_five": {
+      "chapter": "2",
+      "displayName": "Un equipo creciente",
+      "description": "Captura cinco Pokémon.",
+      "action": "pokemon_capture",
+      "match": "",
+      "goal": 5,
+      "rewardBalance": 180,
+      "rewardItems": [
+        "cobblemon:great_ball*5"
+      ],
+      "prerequisites": [
+        "choose_job"
+      ]
+    },
+    "win_five": {
+      "chapter": "2",
+      "displayName": "Aprender combatiendo",
+      "description": "Gana cinco combates Pokémon.",
+      "action": "pokemon_win",
+      "match": "",
+      "goal": 5,
+      "rewardBalance": 200,
+      "rewardItems": [],
+      "prerequisites": [
+        "catch_five"
+      ]
+    },
+    "explore_far": {
+      "chapter": "3",
+      "displayName": "Más allá del camino",
+      "description": "Recorre 1500 bloques de exploración acumulada.",
+      "action": "explore_100",
+      "match": "",
+      "goal": 15,
+      "rewardBalance": 220,
+      "rewardItems": [],
+      "prerequisites": [
+        "win_five"
+      ]
+    },
+    "fish_three": {
+      "chapter": "3",
+      "displayName": "Señales bajo el agua",
+      "description": "Pesca tres Pokémon.",
+      "action": "pokemon_fish",
+      "match": "",
+      "goal": 3,
+      "rewardBalance": 220,
+      "rewardItems": [],
+      "prerequisites": [
+        "explore_far"
+      ]
+    },
+    "trainer_three": {
+      "chapter": "3",
+      "displayName": "Entrenadores del festival",
+      "description": "Vence a tres entrenadores configurados del servidor.",
+      "action": "trainer_win",
+      "match": "",
+      "goal": 3,
+      "rewardBalance": 300,
+      "rewardItems": [
+        "cobblemon:rare_candy*2"
+      ],
+      "prerequisites": [
+        "explore_far"
+      ]
+    },
+    "first_dungeon": {
+      "chapter": "4",
+      "displayName": "La primera mazmorra",
+      "description": "Completa una dungeon de Chaina.",
+      "action": "dungeon_complete",
+      "match": "",
+      "goal": 1,
+      "rewardBalance": 350,
+      "rewardItems": [],
+      "prerequisites": [
+        "trainer_three"
+      ]
+    },
+    "dungeon_three": {
+      "chapter": "4",
+      "displayName": "Ecos entre ruinas",
+      "description": "Completa tres dungeons de Chaina.",
+      "action": "dungeon_complete",
+      "match": "",
+      "goal": 3,
+      "rewardBalance": 500,
+      "rewardItems": [
+        "chainacobblemon:gacha_ticket*1"
+      ],
+      "prerequisites": [
+        "first_dungeon"
+      ]
+    },
+    "captures_twenty": {
+      "chapter": "4",
+      "displayName": "Compañeros de viaje",
+      "description": "Realiza veinte capturas Pokémon durante tu aventura.",
+      "action": "pokemon_capture",
+      "match": "",
+      "goal": 20,
+      "rewardBalance": 450,
+      "rewardItems": [],
+      "prerequisites": [
+        "first_dungeon"
+      ]
+    },
+    "trainer_ten": {
+      "chapter": "5",
+      "displayName": "Una entrenadora preparada",
+      "description": "Vence a diez entrenadores del servidor.",
+      "action": "trainer_win",
+      "match": "",
+      "goal": 10,
+      "rewardBalance": 650,
+      "rewardItems": [],
+      "prerequisites": [
+        "dungeon_three"
+      ]
+    },
+    "dungeon_final": {
+      "chapter": "5",
+      "displayName": "El sonido de la aventura",
+      "description": "Completa cinco dungeons y demuestra tu progreso en el Festival del Cascabel.",
+      "action": "dungeon_complete",
+      "match": "",
+      "goal": 5,
+      "rewardBalance": 900,
+      "rewardItems": [
+        "chainacobblemon:chaina_gacha_ticket*1"
+      ],
+      "prerequisites": [
+        "trainer_ten"
+      ]
+    },
+    "miner_256": {
+      "chapter": "S1",
+      "displayName": "Piedra y metal",
+      "description": "Rompe 256 bloques mientras exploras minas.",
+      "action": "mine",
+      "match": "",
+      "goal": 256,
+      "rewardBalance": 300,
+      "rewardItems": [],
+      "prerequisites": []
+    },
+    "wood_192": {
+      "chapter": "S1",
+      "displayName": "Madera para los puestos",
+      "description": "Recolecta 192 troncos.",
+      "action": "woodcut",
+      "match": "",
+      "goal": 192,
+      "rewardBalance": 300,
+      "rewardItems": [],
+      "prerequisites": []
+    },
+    "hunter_50": {
+      "chapter": "S1",
+      "displayName": "Camino seguro",
+      "description": "Derrota 50 criaturas hostiles.",
+      "action": "mob_kill",
+      "match": "",
+      "goal": 50,
+      "rewardBalance": 350,
+      "rewardItems": [],
+      "prerequisites": []
+    },
+    "explorer_30": {
+      "chapter": "S1",
+      "displayName": "Cartógrafo del festival",
+      "description": "Acumula 3000 bloques de exploración.",
+      "action": "explore_100",
+      "match": "",
+      "goal": 30,
+      "rewardBalance": 400,
+      "rewardItems": [],
+      "prerequisites": []
+    }
+  },
+  "npcs": {
+    "enfermera": {
+      "type": "nurse",
+      "displayName": "Enfermera del Festival",
+      "dialogue": "¡Bienvenido! Puedo curar a todo tu equipo Pokémon.",
+      "skinId": "",
+      "slim": true,
+      "position": {
+        "dimension": "minecraft:overworld",
+        "x": 2.5,
+        "y": -60.0,
+        "z": 0.5,
+        "yaw": 90.0,
+        "pitch": 0.0
+      },
+      "command": "",
+      "trainerId": "",
+      "levelCap": 0,
+      "rewardBalance": 0,
+      "cooldownSeconds": 0,
+      "entityUuid": "65374d57-940e-4d08-ad4e-f85e97c2c71b"
+    },
+    "vendedor": {
+      "type": "shop",
+      "displayName": "Vendedor del Festival",
+      "dialogue": "Tengo suministros para tu aventura.",
+      "skinId": "",
+      "slim": true,
+      "position": {
+        "dimension": "minecraft:overworld",
+        "x": -2.5,
+        "y": -60.0,
+        "z": 0.5,
+        "yaw": -90.0,
+        "pitch": 0.0
+      },
+      "command": "",
+      "trainerId": "",
+      "levelCap": 0,
+      "rewardBalance": 0,
+      "cooldownSeconds": 0,
+      "entityUuid": "d3dffcde-3dc4-4354-95bc-af04e566257c"
+    }
+  },
+  "dungeons": {},
+  "performance": {
+    "saveIntervalTicks": 200,
+    "npcReconcileIntervalTicks": 200,
+    "dungeonCheckIntervalTicks": 20,
+    "tabRefreshIntervalTicks": 80,
+    "playtimeRewardIntervalTicks": 1200,
+    "levelSyncPollTicks": 5,
+    "levelSyncStartTimeoutTicks": 240,
+    "explorationStepBlocks": 100.0
+  },
+  "tabFormat": "&8[&f%chainacobblemon:rank%&8] &f%chainacobblemon:player_name%"
+}

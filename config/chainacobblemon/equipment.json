@@ -1,0 +1,43 @@
+{
+  "enabled": true,
+  "permissionsRequired": false,
+  "pickaxe": {
+    "enabled": true,
+    "requireSneak": true
+  },
+  "shovel": {
+    "enabled": true,
+    "requireSneak": true
+  },
+  "axe": {
+    "enabled": true,
+    "requireSneak": true,
+    "requireLeaves": true,
+    "maxBlocks": 96,
+    "searchRadius": 8,
+    "leafSearchRadius": 4,
+    "cooldownTicks": 20
+  },
+  "hoe": {
+    "enabled": true,
+    "bonusChance": 0.08,
+    "amount": 1,
+    "rewards": [
+      "minecraft:coal",
+      "minecraft:raw_copper",
+      "minecraft:raw_iron",
+      "minecraft:raw_gold"
+    ]
+  },
+  "setBonus": {
+    "enabled": true,
+    "speedAmplifier": 0,
+    "hasteAmplifier": 0,
+    "resistanceAmplifier": 0
+  },
+  "disabledDimensions": [],
+  "protectedBlocks": [
+    "minecraft:bedrock",
+    "minecraft:reinforced_deepslate"
+  ]
+}

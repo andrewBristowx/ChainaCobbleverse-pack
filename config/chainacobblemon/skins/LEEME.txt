@@ -1,0 +1,10 @@
+SKINS DE NPC DE CHAINA
+
+Pon archivos PNG 64x64 o 64x32 con el mismo ID del NPC.
+Ejemplos:
+  skins/trainers/brock.png
+  skins/nurses/enfermera.png
+  skins/story/guia.png
+
+También se admite: npcs/<id>/skin.png
+El mod las detecta al arrancar o al recargar gameplay.

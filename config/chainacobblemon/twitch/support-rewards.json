@@ -1,0 +1,47 @@
+{
+  "active": false,
+  "sessionStartedAtEpochSeconds": 0,
+  "lastSequence": 0,
+  "targetUuid": "",
+  "targetName": "",
+  "nextRuleId": 4,
+  "defaultsSeeded": true,
+  "rules": [
+    {
+      "id": 1,
+      "eventType": "bits",
+      "threshold": 100,
+      "destination": "chaina",
+      "action": "pokemon",
+      "value": "",
+      "count": 1,
+      "chance": 0.0,
+      "command": ""
+    },
+    {
+      "id": 2,
+      "eventType": "bits",
+      "threshold": 1000,
+      "destination": "chaina",
+      "action": "pokemon",
+      "value": "",
+      "count": 1,
+      "chance": 10.0,
+      "command": ""
+    },
+    {
+      "id": 3,
+      "eventType": "giftsubs",
+      "threshold": 5,
+      "destination": "chaina",
+      "action": "tickets",
+      "value": "chaina",
+      "count": 10,
+      "chance": 0.0,
+      "command": ""
+    }
+  ],
+  "pending": [],
+  "giftSubTotals": {},
+  "giftHighestThresholdFired": {}
+}

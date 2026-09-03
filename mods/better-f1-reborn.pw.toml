@@ -1,0 +1,13 @@
+name = "Better F1 Reborn"
+filename = "BetterF1-Fabric-1.1+1.21.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "218c3aa2ae3356309997deae0861133e9f861581"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6707091
+project-id = 959591

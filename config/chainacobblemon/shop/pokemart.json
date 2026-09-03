@@ -1,0 +1,585 @@
+{
+  "version": 5,
+  "enabled": true,
+  "vipDiscountPercent": 5,
+  "donatorDiscountPercent": 10,
+  "expensiveConfirmationThreshold": 250,
+  "categories": [
+    {
+      "id": "balls",
+      "title": "Poké Balls",
+      "products": [
+        {
+          "id": "poke_ball",
+          "item": "cobblemon:poke_ball",
+          "price": 12,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "premier_ball",
+          "item": "cobblemon:premier_ball",
+          "price": 16,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "great_ball",
+          "item": "cobblemon:great_ball",
+          "price": 30,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "heal_ball",
+          "item": "cobblemon:heal_ball",
+          "price": 38,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "dusk_ball",
+          "item": "cobblemon:dusk_ball",
+          "price": 55,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "quick_ball",
+          "item": "cobblemon:quick_ball",
+          "price": 70,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "ultra_ball",
+          "item": "cobblemon:ultra_ball",
+          "price": 65,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "title": "Medicina",
+      "products": [
+        {
+          "id": "potion",
+          "item": "cobblemon:potion",
+          "price": 15,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "super_potion",
+          "item": "cobblemon:super_potion",
+          "price": 35,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "hyper_potion",
+          "item": "cobblemon:hyper_potion",
+          "price": 75,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "full_heal",
+          "item": "cobblemon:full_heal",
+          "price": 40,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "revive",
+          "item": "cobblemon:revive",
+          "price": 90,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "max_potion",
+          "item": "cobblemon:max_potion",
+          "price": 135,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "max_revive",
+          "item": "cobblemon:max_revive",
+          "price": 225,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "battle",
+      "title": "Combate",
+      "products": [
+        {
+          "id": "x_attack",
+          "item": "cobblemon:x_attack",
+          "price": 55,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "x_defence",
+          "item": "cobblemon:x_defence",
+          "price": 55,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "x_special_attack",
+          "item": "cobblemon:x_special_attack",
+          "price": 55,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "x_special_defence",
+          "item": "cobblemon:x_special_defence",
+          "price": 55,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "x_speed",
+          "item": "cobblemon:x_speed",
+          "price": 55,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "quick_claw",
+          "item": "cobblemon:quick_claw",
+          "price": 220,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "leftovers",
+          "item": "cobblemon:leftovers",
+          "price": 400,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "evolution",
+      "title": "Evolución",
+      "products": [
+        {
+          "id": "fire_stone",
+          "item": "cobblemon:fire_stone",
+          "price": 180,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "water_stone",
+          "item": "cobblemon:water_stone",
+          "price": 180,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "thunder_stone",
+          "item": "cobblemon:thunder_stone",
+          "price": 180,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "leaf_stone",
+          "item": "cobblemon:leaf_stone",
+          "price": 180,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "moon_stone",
+          "item": "cobblemon:moon_stone",
+          "price": 200,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "dawn_stone",
+          "item": "cobblemon:dawn_stone",
+          "price": 220,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "link_cable",
+          "item": "cobblemon:link_cable",
+          "price": 280,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "supplies",
+      "title": "Suministros",
+      "products": [
+        {
+          "id": "red_apricorn",
+          "item": "cobblemon:red_apricorn",
+          "price": 18,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "blue_apricorn",
+          "item": "cobblemon:blue_apricorn",
+          "price": 18,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "yellow_apricorn",
+          "item": "cobblemon:yellow_apricorn",
+          "price": 18,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "black_apricorn",
+          "item": "cobblemon:black_apricorn",
+          "price": 18,
+          "maxPerPurchase": 64,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "exp_candy_xs",
+          "item": "cobblemon:exp_candy_xs",
+          "price": 25,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "exp_candy_s",
+          "item": "cobblemon:exp_candy_s",
+          "price": 60,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "rare_candy",
+          "item": "cobblemon:rare_candy",
+          "price": 350,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "special_balls",
+      "title": "Balls especiales",
+      "products": [
+        {
+          "id": "luxury_ball",
+          "item": "cobblemon:luxury_ball",
+          "price": 75,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "timer_ball",
+          "item": "cobblemon:timer_ball",
+          "price": 65,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "repeat_ball",
+          "item": "cobblemon:repeat_ball",
+          "price": 65,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "net_ball",
+          "item": "cobblemon:net_ball",
+          "price": 55,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "dive_ball",
+          "item": "cobblemon:dive_ball",
+          "price": 55,
+          "maxPerPurchase": 32,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "love_ball",
+          "item": "cobblemon:love_ball",
+          "price": 85,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "friend_ball",
+          "item": "cobblemon:friend_ball",
+          "price": 90,
+          "maxPerPurchase": 16,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "special_evolution",
+      "title": "Evolución +",
+      "products": [
+        {
+          "id": "sun_stone",
+          "item": "cobblemon:sun_stone",
+          "price": 200,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "shiny_stone",
+          "item": "cobblemon:shiny_stone",
+          "price": 240,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "dusk_stone",
+          "item": "cobblemon:dusk_stone",
+          "price": 240,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "ice_stone",
+          "item": "cobblemon:ice_stone",
+          "price": 220,
+          "maxPerPurchase": 8,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "metal_coat",
+          "item": "cobblemon:metal_coat",
+          "price": 300,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "kings_rock",
+          "item": "cobblemon:kings_rock",
+          "price": 320,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        },
+        {
+          "id": "razor_claw",
+          "item": "cobblemon:razor_claw",
+          "price": 350,
+          "maxPerPurchase": 4,
+          "enabled": true,
+          "description": "",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "gacha",
+      "title": "Ticket Gacha",
+      "products": [
+        {
+          "id": "standard_gacha_ticket",
+          "item": "chainacobblemon:gacha_ticket",
+          "price": 1000,
+          "maxPerPurchase": 5,
+          "enabled": true,
+          "description": "Una tirada en un banner estándar",
+          "requiredPermission": ""
+        },
+        {
+          "id": "treasure_gacha_ticket",
+          "item": "chainacobblemon:treasure_gacha_ticket",
+          "price": 2000,
+          "maxPerPurchase": 5,
+          "enabled": true,
+          "description": "Una tirada en Tesoros de Chaina",
+          "requiredPermission": ""
+        },
+        {
+          "id": "chaina_gacha_ticket",
+          "item": "chainacobblemon:chaina_special_banner_ticket",
+          "price": 3000,
+          "maxPerPurchase": 5,
+          "enabled": true,
+          "description": "Una tirada en el banner especial de Chaina",
+          "requiredPermission": ""
+        },
+        {
+          "id": "type_booster_gacha_ticket",
+          "item": "chainacobblemon:type_booster_ticket",
+          "price": 1000,
+          "maxPerPurchase": 5,
+          "enabled": true,
+          "description": "Una tirada en el Gasha de Boosters de Tipos",
+          "requiredPermission": ""
+        },
+        {
+          "id": "card_booster_gacha_ticket",
+          "item": "chainacobblemon:card_booster_ticket",
+          "price": 1000,
+          "maxPerPurchase": 5,
+          "enabled": true,
+          "description": "Una tirada en el Gasha de Sobres de Cartas",
+          "requiredPermission": ""
+        }
+      ]
+    },
+    {
+      "id": "protections",
+      "title": "Protecciones",
+      "products": [
+        {
+          "id": "protection_basic",
+          "item": "chainacobblemon:protection_core",
+          "price": 2000,
+          "maxPerPurchase": 2,
+          "enabled": true,
+          "description": "Protección Básica 21x21",
+          "requiredPermission": ""
+        },
+        {
+          "id": "protection_advanced",
+          "item": "chainacobblemon:protection_core_advanced",
+          "price": 5000,
+          "maxPerPurchase": 2,
+          "enabled": true,
+          "description": "Protección Avanzada 31x31",
+          "requiredPermission": ""
+        },
+        {
+          "id": "protection_epic",
+          "item": "chainacobblemon:protection_core_epic",
+          "price": 10000,
+          "maxPerPurchase": 2,
+          "enabled": true,
+          "description": "Protección Épica 41x41",
+          "requiredPermission": ""
+        },
+        {
+          "id": "protection_legendary",
+          "item": "chainacobblemon:protection_core_legendary",
+          "price": 20000,
+          "maxPerPurchase": 2,
+          "enabled": true,
+          "description": "Protección Legendaria 61x61",
+          "requiredPermission": ""
+        }
+      ]
+    }
+  ]
+}

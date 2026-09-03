@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SomitadePony",
+      "uniqueId": "94e7d997-3a81-41df-a14d-b1ce3ad74c49"
+    },
+    "time": 1787367426121,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4szBG9ohQK"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SomitadePony",
+      "uniqueId": "94e7d997-3a81-41df-a14d-b1ce3ad74c49"
+    },
+    "time": 1787329052603,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lJxGkCVxNU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SomitadePony",
+      "uniqueId": "94e7d997-3a81-41df-a14d-b1ce3ad74c49"
+    },
+    "time": 1787329022443,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ONsUAGBMaE"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SomitadePony",
+      "uniqueId": "94e7d997-3a81-41df-a14d-b1ce3ad74c49"
+    },
+    "time": 1787326318668,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OZl1pWksNP"
+    }
+  }
+]

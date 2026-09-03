@@ -1,0 +1,21 @@
+{
+  "style_name": "Chaina Server",
+  "update_tick_time": 20,
+  "list_header": [
+    "<color:#a95cff>╭────────────── ✦ ──────────────╮</color>",
+    "<bold><color:#ff6fcf>✦ CHAINA SERVER ✦</color></bold>",
+    "",
+    "%chainacobblemon:twitch_status%",
+    "%chainacobblemon:stream_jackpot%",
+    "%chainacobblemon:stream_bonuses%",
+    "",
+    "<gray>Jugadores conectados: <white>%server:online%</white><dark_gray>/</dark_gray><white>%server:max_players%</white></gray>",
+    "<color:#a95cff>╰────────────── ✦ ──────────────╯</color>"
+  ],
+  "list_footer": [
+    "<dark_gray>────────────────────────────────</dark_gray>",
+    "<gray>Vincula tu Twitch para recibir tus beneficios de <light_purple>SUB CHAINA</light_purple></gray>",
+    "<gray>Hosting gracias a <aqua><bold>Holy.gg</bold></aqua> ✦</gray>"
+  ],
+  "hidden_in_commands": false
+}

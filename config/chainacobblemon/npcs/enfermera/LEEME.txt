@@ -1,0 +1,2 @@
+Coloca aquí skin.png (64x64 o 64x32) para el NPC 'enfermera'.
+También puedes poner enfermera.png dentro de config/chainacobblemon/skins/.

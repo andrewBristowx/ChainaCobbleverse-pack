@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "kits": [
+    {
+      "id": "inicio",
+      "displayName": "Kit de bienvenida",
+      "description": "Un pequeño apoyo para comenzar tu aventura.",
+      "permission": "",
+      "cooldownHours": 0,
+      "items": [
+        "minecraft:bread*8",
+        "cobblemon:poke_ball*8",
+        "cobblemon:potion*3"
+      ]
+    },
+    {
+      "id": "semanal",
+      "displayName": "Kit semanal",
+      "description": "Suministros básicos reclamables cada semana.",
+      "permission": "chainacobblemon.kit.semanal",
+      "cooldownHours": 168,
+      "items": [
+        "cobblemon:great_ball*8",
+        "cobblemon:super_potion*3",
+        "minecraft:gold_ingot*6"
+      ]
+    },
+    {
+      "id": "vip",
+      "displayName": "Kit VIP",
+      "description": "Recompensa semanal para el rango VIP.",
+      "permission": "chainacobblemon.kit.vip",
+      "cooldownHours": 168,
+      "items": [
+        "cobblemon:ultra_ball*8",
+        "cobblemon:rare_candy*2",
+        "chainacobblemon:gacha_ticket*1"
+      ]
+    }
+  ]
+}

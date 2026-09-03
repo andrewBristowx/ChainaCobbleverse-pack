@@ -1,0 +1,13 @@
+name = "Cobblemon Pokenav"
+filename = "cobblenav-fabric-2.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63681a16bc562089329533686fcc60e7bb7cd63d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7940648
+project-id = 976014

@@ -1,0 +1,8 @@
+{
+  "uncap_menu_frame_rate": true,
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 10
+    }
+  }
+}

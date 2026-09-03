@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "autoDiscoverTrainerNpcs": true,
+  "challenges": [
+    {
+      "enabled": false,
+      "id": "festival_novato",
+      "displayName": "Desafío del Festival",
+      "description": "Ejemplo configurable: enlázalo a un NPC y a un entrenador RCT desde challenges.json.",
+      "chapter": "Festival del Cascabel",
+      "npcId": "",
+      "trainerId": "",
+      "levelMode": "party_average",
+      "fixedCap": 15,
+      "minCap": 5,
+      "maxCap": 35,
+      "levelOffset": 0,
+      "progressLevelStep": 2,
+      "cooldownMinutes": 60,
+      "repeatable": true,
+      "rewardBalance": 200,
+      "rewardPassXp": 75,
+      "rewardStandardRolls": 0,
+      "rewardChainaRolls": 0,
+      "rewardItems": [],
+      "prerequisites": []
+    }
+  ]
+}

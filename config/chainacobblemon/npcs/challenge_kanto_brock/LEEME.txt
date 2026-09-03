@@ -1,0 +1,1 @@
+Coloca aquí skin.png (64x64 o 64x32) y ejecuta /chainacobblemon npc skin <id> archivo

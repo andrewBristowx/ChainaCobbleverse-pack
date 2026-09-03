@@ -1659,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "2458de4f1eccace43979db2a3962c144dae745734525fae3ab29cb95e2b95a65"
+hash = "ef51616857a3e18aa6cf8f461182d45c33ac923b217534976d3250cbe191c07c"
 metafile = true
 
 [[files]]
@@ -1669,7 +1669,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "7f991597fc43151c37fd4e325bbc9c06f9679d6b41a596820fedffa8f9c8d60b"
+hash = "4c19342aeb0abcfe566b38d62724a721881bf365b32293107959757fb8e48050"
 metafile = true
 
 [[files]]
@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
-hash = "6fada03f0a3b5036a3bf42dd417cdfd2d3edc03581998fbf05a01de4033ad63d"
+hash = "1ea3547c4de9f968efebd4aacedf11dad00069eceb4ae46b2aeb365a6d998e6c"
 metafile = true
 
 [[files]]
@@ -1784,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a4b4c275e986b49c1aade7a89fa63a23010207746f3f5dc33dea4e91e38347c2"
+hash = "f23a0d6d48cc27e24e8c4cacf9231fe146f82e9ff27c90b2fd96e1de4482e765"
 metafile = true
 
 [[files]]

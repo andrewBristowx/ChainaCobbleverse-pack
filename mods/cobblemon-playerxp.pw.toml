@@ -1,13 +1,13 @@
 name = "Cobblemon: PlayerXP"
-filename = "playerxp-fabric-1.0.9+1.21.1.jar"
+filename = "playerxp-fabric-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "34804e9a9d39dc741dbf4952ddab0223e92820cd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zlrbPCvu/versions/aAbiKef2/playerxp-fabric-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "90154c7482ac2210ff43a022cef8cb4e2c5a63513c643c7229fc6e97023c2c94c91c328bc0071228c47f940703361c2a9bd08af86b50fc5fc59d8390cf635298"
 
 [update]
-[update.curseforge]
-file-id = 7886106
-project-id = 1261726
+[update.modrinth]
+mod-id = "zlrbPCvu"
+version = "aAbiKef2"

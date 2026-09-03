@@ -1413,6 +1413,11 @@ file = "config/zoomify.json"
 hash = "18ad037a0087eea89db518710cc69fa750dcd2122c52219c1dd4182cb55e0a42"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "abd853502542de7e87f6bbe6d4f08f1185058689fe8a5b2cafafab0d2c74a2d5"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "3949eebf3551ee3fc7cb97ba2971a1f0e2a54ad907d63fdc6701d4d8ff3dd7c4"
 metafile = true
@@ -2069,7 +2074,7 @@ metafile = true
 
 [[files]]
 file = "mods/only-bottle-caps.pw.toml"
-hash = "09f3b0933f52aafb3d39dc1be76a5be9701af1c5101dbb29892097e8cabc3579"
+hash = "42c1811f092c74fd774379e7499851eb548902ace77a8838b17cc22d20c2d855"
 metafile = true
 
 [[files]]
@@ -2193,11 +2198,6 @@ hash = "4b28463395cf27e775ff586467952bdfd1bf3a5427a6bb828892cdab0441a15d"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "65b1025b0ad29a74d7b4e3ef4a5f69d87b7b4085ec9b901b1755330c8e931f96"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d20a96797f1205d96cb85c464fbf142beac7e2828f921e72aad3a00a56ebc71f"
 metafile = true
@@ -2249,7 +2249,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
 
 [[files]]

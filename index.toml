@@ -1424,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "b85d2b9ad0b65d1697ccd0f08e52e3c923c93dc546f9905032aa797211a22a55"
+hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
 
 [[files]]
@@ -1438,13 +1438,13 @@ hash = "67775598ff8817a488eafb549bcab5c45f63cb76f098db053fa9f5a4f95b281b"
 metafile = true
 
 [[files]]
-file = "mods/alexandria.pw.toml"
-hash = "8a8f6f27436076700955add5028a81e332934480beeb1b389b13a52a3c40f820"
+file = "mods/alexandria-lib.pw.toml"
+hash = "3f84df4f4d0cabbe8a9c554abfdba8f95130b341180876c0ac2ca8b1f8a26f85"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
 
 [[files]]
@@ -1574,7 +1574,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblecuisine.pw.toml"
-hash = "a57fdae782dfeb84942cc6bab0273474715fbfcbd8e16700e54ae544056e66a2"
+hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
 metafile = true
 
 [[files]]
@@ -1633,11 +1633,6 @@ hash = "73aab369c6435d6cd317af6c7209af4010b109be7d2c0cde4aec1f0680030679"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-expeditions.pw.toml"
-hash = "547658db29a382c0de624c662df76bb7d1bb8feb52b7075e9be41ed4e1838a46"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "71d976d3aeef4509ac9b51b2db337e324d4edc793e22ad0e33a213264c79093c"
 metafile = true
@@ -1649,7 +1644,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "038fca41cb7dc3a3c8e5dfcbd010c77819c92d8387968f2ac134295fe6f77d49"
+hash = "c8388dcf359aed9cd4754340081bfdf7bb6ec81f2125eeef9dc2e1b0fb00cfc9"
 metafile = true
 
 [[files]]
@@ -1669,7 +1664,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "7b106420b53937fa164a7bf1210134139aae839d7dc356d6595ace5cf55eacbe"
+hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
 metafile = true
 
 [[files]]
@@ -1679,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
-hash = "6419ff5317c78eb59d7bcfc3d9e606b09c1d85966d73ec6388827dc7620a3f23"
+hash = "faa511b494c47bd9ade4ac0132a5123c0779991d70e47b17e2eacaa4f79b6c19"
 metafile = true
 
 [[files]]
@@ -1690,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon_expeditions.pw.toml"
+hash = "066f3ef3f3b11140d72d9563d768fe18fc85cdf53b3408542f9c2d2699348c34"
 metafile = true
 
 [[files]]
@@ -1974,7 +1974,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumymon.pw.toml"
-hash = "046ccb571d0afad5ed4bcfedc318e4b47cc98c306e0e53f7002b5c717e3487e0"
+hash = "fbd71b096948b7732016c9c0d5ab16c7c9fe985aa712f11f1f8e7b0b94aef7fc"
 metafile = true
 
 [[files]]
@@ -2043,8 +2043,8 @@ hash = "0ef3cf11912b61a3879891b0d2bb94ea16fbd6ce6d21c9b5c5e9f4cb00155cf5"
 metafile = true
 
 [[files]]
-file = "mods/navas-za-megas.pw.toml"
-hash = "b4be93e4edfc935c57b490ab5f1ccbcd31cd802b240cd82052edbb4ead89ac9a"
+file = "mods/navas-zamega.pw.toml"
+hash = "bb0dd3e1b99ec1ff276e12eda17cf15cb9031d7d827333699220337c56060371"
 metafile = true
 
 [[files]]
@@ -2064,7 +2064,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3a39acefa92c436968fb4cfaa87f1171284793665abf79d088c73cff19c1d5a2"
+hash = "de8e4e5701944ed7089011bce857333fde54e7d19deeb8364deab3072265d609"
 metafile = true
 
 [[files]]
@@ -2079,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "59f3b2e1679e710e694b04e712b2f79be11ec4f1591d831c3adaa86e16d0c1ef"
+hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
 metafile = true
 
 [[files]]

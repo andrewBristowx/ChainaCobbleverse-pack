@@ -3,11 +3,11 @@ filename = "cobblecuisine-2.0.1-1.7-rc1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "31cf544fe61bb9c21fa8dafe5c03a428049a0f37"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dlx62Wp3/versions/KQwSroDP/cobblecuisine-2.0.1-1.7-rc1.jar"
+hash-format = "sha512"
+hash = "7fe69d9a90a4f1f19e3a121b0c499f26ba0ca9245ca409b4f8888c42ea810c49afeb9375e73fa840a0f23ac14e22a43233edffb65384389388f6cbbef8eeaf94"
 
 [update]
-[update.curseforge]
-file-id = 7265785
-project-id = 1254643
+[update.modrinth]
+mod-id = "dlx62Wp3"
+version = "KQwSroDP"

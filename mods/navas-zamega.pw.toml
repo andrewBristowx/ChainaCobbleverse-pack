@@ -1,0 +1,13 @@
+name = "Navas ZA Megas"
+filename = "zamega-fabric-1.7.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/EiJO9FoL/zamega-fabric-1.7.6.jar"
+hash-format = "sha512"
+hash = "809e406d6c39194639bbf4dab700a7b864f32681d7185b32a09934e26987a74be1503d83345893783cc810967e686f5dbe485d8f94ffa9f28d774eafb152020d"
+
+[update]
+[update.modrinth]
+mod-id = "2V1Y86sc"
+version = "EiJO9FoL"

@@ -6477,6 +6477,10 @@ file = "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar"
 hash = "1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74"
 
 [[files]]
+file = "mods/openblocks-1.0.0-1.21_1.21.1.jar"
+hash = "4c9ee3b9571322159ad0e8d176afaf67c3f899c84218526fce0cff691aeddf58"
+
+[[files]]
 file = "mods/owo-lib-0.12.15.4+1.21.jar"
 hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
 

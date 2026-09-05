@@ -6288,8 +6288,8 @@ file = "mods/entity_model_features-3.3.5-1.21-fabric.jar"
 hash = "2b4275a51509d7433df674cc273c7654382f2cbd66091d2f05c37a4ec276d393"
 
 [[files]]
-file = "mods/entity_texture_features_1.21-fabric-7.1.jar"
-hash = "d1b54ad6fd34eaf7187fb62556f2c5cacdc2ea3023a6217e3b2d823285aea148"
+file = "mods/entity_texture_features-7.2.1-1.21-fabric.jar"
+hash = "1fea27a626fb47121e90372014f13d12ae2a4380eb676e62f0a55f463fda43c2"
 
 [[files]]
 file = "mods/entityculling-fabric-1.10.5-mc1.21.1.jar"

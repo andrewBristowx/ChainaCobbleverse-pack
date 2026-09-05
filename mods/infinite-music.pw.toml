@@ -1,0 +1,10 @@
+name = "Infinite Music"
+filename = "infinite-music-0.4.6.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Hace que la musica de fondo suene con mas frecuencia (menos silencios). Puramente cosmetico - no afecta nada del servidor."
+default = true
+
+[update]

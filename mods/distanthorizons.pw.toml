@@ -1,0 +1,10 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Renderiza el terreno mucho mas lejos con menos detalle (LODs), como un mapa 3D en el horizonte. Es de los mods mas pesados del pack: desactivalo si tu PC sufre para mantener FPS estables. No afecta a otros jugadores ni al servidor."
+default = true
+
+[update]

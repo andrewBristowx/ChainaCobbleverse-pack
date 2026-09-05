@@ -1,0 +1,10 @@
+name = "Music Notification"
+filename = "musicnotification-fabric-3.0.0+mc1.21.1.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Muestra un aviso en pantalla con el nombre de la musica que esta sonando. Puramente cosmetico - no afecta nada del servidor."
+default = true
+
+[update]

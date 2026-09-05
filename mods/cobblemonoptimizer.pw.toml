@@ -1,6 +1,6 @@
 name = "CobblemonOptimizer"
 filename = "CobbleOptimizer-4.8.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qPJLoYyi/versions/D78ayY4V/CobbleOptimizer-4.8.0.jar"

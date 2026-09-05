@@ -1,0 +1,10 @@
+name = "Emotecraft"
+filename = "emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Anima tu personaje con emotes (rueda de gestos). Puramente cosmetico - no afecta nada del servidor."
+default = true
+
+[update]

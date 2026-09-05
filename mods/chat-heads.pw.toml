@@ -1,0 +1,10 @@
+name = "Chat Heads"
+filename = "chat_heads-0.15.7-fabric-1.21.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Muestra la cara del jugador que habla junto a su mensaje en el chat. Puramente cosmetico - no afecta nada del servidor."
+default = true
+
+[update]

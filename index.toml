@@ -6133,12 +6133,22 @@ file = "mods/catchrate-display-fabric-2.8.22.jar"
 hash = "0a2c2ae61e6796a3b524556022c28dada75da73d6391613849cfd98230d91210"
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "3ab154fd891347409b4f5da3863092bde5ce185ea5b80e7d0d5ad23ca8676458"
+metafile = true
+
+[[files]]
 file = "mods/chat_heads-0.15.7-fabric-1.21.jar"
 hash = "9ac63ac359ed20b416e6d4bd0d7b314a5688470232de1a30c894418cd0b3b788"
 
 [[files]]
 file = "mods/chatanimation-fabric-1.3.1+mc1.21.jar"
 hash = "33e863348691c5d7094b938e23a81a7ef39a1e0c9fd3a029dcdcadc6e05a2033"
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "b7e05497db2396620bf35a8a06a4b9a237686e6c30a21ae39510ab51dc78417a"
+metafile = true
 
 [[files]]
 file = "mods/chipped-fabric-1.21.1-4.0.2.jar"
@@ -6236,7 +6246,7 @@ hash = "d070f29970e39c77da578c05c762bbec093fe796b3ea82bafe79012df4268c12"
 
 [[files]]
 file = "mods/cobblemonoptimizer.pw.toml"
-hash = "65de8368a6e72e61b65f99f2ae14df4ca6c249c1ff5df42d2edd1e06273dabc5"
+hash = "f361368ee51797fd0d4971cbc7c059ca7fc64d8c1319e5d41acb446334b75324"
 metafile = true
 
 [[files]]
@@ -6268,6 +6278,11 @@ file = "mods/defaultoptions-fabric-1.21.1-21.1.7.jar"
 hash = "8fff8fad699028a6578c61df3d1690d6fb5abbdc9a7c436e94cc9f51138be790"
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bf208d0a07b806f49e5f9ff1a2c43b717aa444dfe96ef392e467c9b478b43a7d"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-v4.4.4.jar"
 hash = "6ba41e48f6bfec81567e1805b43c4a8f51b4ab5f360a3c211805ebfb070642da"
 
@@ -6278,6 +6293,11 @@ hash = "f66b13835282603bd6f8902faa5142e1311bb6393496b04a5df7008415b2fdf8"
 [[files]]
 file = "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
 hash = "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c"
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "8fea85fb9dc2df4578c102cbb8d334c74d6634b3bf488d0b67d10805c3aecae7"
+metafile = true
 
 [[files]]
 file = "mods/enchdesc-fabric-1.21.1-21.1.10.jar"
@@ -6373,6 +6393,11 @@ file = "mods/infinite-music-0.4.6.jar"
 hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
 
 [[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "dfa48219fa51f9ea07638d860c8d2c927c51dffb51452031189bb1021ec6b744"
+metafile = true
+
+[[files]]
 file = "mods/interactic-0.2.3+1.21.jar"
 hash = "fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da"
 
@@ -6455,6 +6480,11 @@ hash = "19c7e65794511ab21eed63cab9e2efbf43a29fd2ea20234b23f92cb71c6a2aa2"
 [[files]]
 file = "mods/musicnotification-fabric-3.0.0+mc1.21.1.jar"
 hash = "747b2527aa373a76e9d378ad1059369400c66fb50fb3ab22a409ac6d8154a614"
+
+[[files]]
+file = "mods/musicnotification.pw.toml"
+hash = "7d43e4eb85943684b31fa5f9868072a3c8936d230fd6029b81f627c94bc452ad"
+metafile = true
 
 [[files]]
 file = "mods/neruina-3.3.3+1.21.1-fabric.jar"
@@ -6551,6 +6581,11 @@ hash = "8c38228c14841a01034e6371fada5754754a0abf13de843eea1e1d41dc8257f3"
 [[files]]
 file = "mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
 hash = "392dd2e967f2ff3c83bd5fe71e528a05dd6a5f01bf4f0027b8fbe88d5f68c95b"
+
+[[files]]
+file = "mods/skinlayers3d.pw.toml"
+hash = "4e48a030ecac963f179837de284e3f23b1cdf380a0d583d3bcc63eef89315efd"
+metafile = true
 
 [[files]]
 file = "mods/sodium-fabric-0.8.12+mc1.21.1.jar"

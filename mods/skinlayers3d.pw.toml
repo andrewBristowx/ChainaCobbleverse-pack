@@ -1,0 +1,10 @@
+name = "3D Skin Layers"
+filename = "skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Vuelve tridimensionales las capas de la skin (cabello, mangas, etc). Puramente cosmetico - no afecta nada del servidor."
+default = true
+
+[update]

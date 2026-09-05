@@ -334,7 +334,7 @@ hash = "43a024862861d97a546f45ca3f46f606ccf05059d47bf46d3f6b881129b8cfc8"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "099788d2cc410d4283a3ec0fa487eb9d69179c37b9d2d6a36262ea236a2f55eb"
+hash = "18a7a170e27f70ede81fd851a89bfadd949f9606727fcfe0ca633a661803a313"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
@@ -479,10 +479,6 @@ hash = "ac73001ad97539c5f2f5262026e7dbf0cbb91e78fcedd64a12ef3cf90bf3f2ea"
 [[files]]
 file = "config/cobblenav/server-config.json"
 hash = "d9cdbe4c56f4f2099ba600319c833fe8b20d4eb52e060e5b4978bc2e6bf801f4"
-
-[[files]]
-file = "config/cobblepastureoptimizer.json"
-hash = "75a8e063e848b97eabaf19c54b107b365095ca49d31d13603e233cc667cd1edd"
 
 [[files]]
 file = "config/cobblestats/config.json"
@@ -5886,7 +5882,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "d32da7b3f95650346943132ad265fb1d4ea645480d75fe0debde237ad8830a67"
+hash = "7fa87102230ebb63cea7d07f98d6296c0c9557a8951a3baef891304699986f7a"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -6211,10 +6207,6 @@ hash = "0a09f8ae544412e2f0f599a38b033928ec0a553ad53506c10bca3db734877c7b"
 [[files]]
 file = "mods/cobblenav-fabric-2.3.3.jar"
 hash = "e66eb486f5cfbeef2215910193eba0000c191bbf774fa59f3e0b955ce13cae45"
-
-[[files]]
-file = "mods/cobblepastureoptimizer-0.1.0-alpha.7+1.21.1.jar"
-hash = "aaec2dd31679061aafecc7045fa1c7b83c9c5502fbd8753420d669b1da0083b5"
 
 [[files]]
 file = "mods/cobblestats-fabric-1.9.2+1.21.1.jar"

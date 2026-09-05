@@ -33,6 +33,10 @@
     "file/ATMxMSD RP.zip",
     "file/FullyHisuianStarters RP.zip",
     "file/EeveelutionsReimagined RP.zip",
+    "file/extra-eeveelutions-1.2-chaina.zip",
+    "file/styles-upon-styles-1.6.1-chaina.zip",
+    "file/fire-fits-13-chaina.zip",
+    "file/midnight-meet-glitz-1.7-resourcepack.zip",
     "file/OJsAnimations RP.zip",
     "file/PlanetaCobblemon RP.zip",
     "file/GlitchDex RP.zip",
@@ -124,6 +128,22 @@
     "file/EeveelutionsReimagined RP.zip": {
       "title": "\"§e§lEeveelutions Reimagined\"",
       "description": "\"§a✔ Animations for Eeeveelutions\n§f© §3SK4N\""
+    },
+    "file/extra-eeveelutions-1.2-chaina.zip": {
+      "title": "\"§e§lExtra Eeveelutions\"",
+      "description": "\"§a✔ 11 Eeveelutions Exclusivas del Gasha\n§f© §3Chainacobblemon\""
+    },
+    "file/styles-upon-styles-1.6.1-chaina.zip": {
+      "title": "\"§e§lStyles Upon Styles\"",
+      "description": "\"§a✔ Disfraces de Pokémon del Gasha\n§f© §3Chainacobblemon\""
+    },
+    "file/fire-fits-13-chaina.zip": {
+      "title": "\"§e§lFire Fits for Fire Cats\"",
+      "description": "\"§a✔ Disfraces de Litten/Incineroar del Gasha\n§f© §3Chainacobblemon\""
+    },
+    "file/midnight-meet-glitz-1.7-resourcepack.zip": {
+      "title": "\"§e§lMidnight Meet & Glitz\"",
+      "description": "\"§a✔ Skins festivas del Gasha\n§f© §3Chainacobblemon\""
     },
     "file/FullyHisuianStarters RP.zip": {
       "title": "\"§e§lFully Hisuian Starters\"",

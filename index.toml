@@ -1066,7 +1066,7 @@ hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "905c663b246970e977ce8b5071d2edb1bb58cc990fa5999c9c8045473072fc54"
+hash = "c9a4e66dc61721ab6e271c5a95e7e64a6c84eadea2e5a267eea9edd2dadb8ee7"
 
 [[files]]
 file = "config/resourcify.json"
@@ -5886,7 +5886,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "760c635b80e3613e93e3c940f9711ec33874dd9109363196e1a0bfc4b0bc81a2"
+hash = "3b59a30a992e17896420de6a1f74be8e5b9fe383fb205e505e902652a7d99be7"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -6786,9 +6786,25 @@ hash = "1687a7b0ecfadcb5c9ad484d0646d51e5c3c1ed4abf49079bfd369441b389423"
 metafile = true
 
 [[files]]
+file = "resourcepacks/extra-eeveelutions-1.2-chaina.zip"
+hash = "3095a4975283a7445cdec220e01efc64f4ae04d0524509f0b729892d88ead335"
+
+[[files]]
+file = "resourcepacks/fire-fits-13-chaina.zip"
+hash = "840ae5d0482148f158c0931c747097d68a8f1ea797beee52658dfd5b7cf4a9a7"
+
+[[files]]
 file = "resourcepacks/jigglyradio.pw.toml"
 hash = "7416a3615164ab938b11a4f779827dafa7e82b2fe7f0a1936f6b943b94b74f42"
 metafile = true
+
+[[files]]
+file = "resourcepacks/midnight-meet-glitz-1.7-resourcepack.zip"
+hash = "bbbaa29ec08db07e7e3d0e252283b85711af68b37167fc579bd97caa5955acce"
+
+[[files]]
+file = "resourcepacks/styles-upon-styles-1.6.1-chaina.zip"
+hash = "80e71be549e2e4151356ec654240345975643f0ff961353149fef87933d0a6fc"
 
 [[files]]
 file = "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip"
@@ -11786,3 +11802,15 @@ metafile = true
 [[files]]
 file = "world/datapacks/extra-eeveelutions-1.2-chaina.zip"
 hash = "3095a4975283a7445cdec220e01efc64f4ae04d0524509f0b729892d88ead335"
+
+[[files]]
+file = "world/datapacks/fire-fits-13-chaina.zip"
+hash = "840ae5d0482148f158c0931c747097d68a8f1ea797beee52658dfd5b7cf4a9a7"
+
+[[files]]
+file = "world/datapacks/midnight-meet-glitz-1.7-chaina-datapack.zip"
+hash = "fbbfea134cdfda13bdb66756080252ed4d325bdbf7d19a42ae8b7a47bf78620e"
+
+[[files]]
+file = "world/datapacks/styles-upon-styles-1.6.1-chaina.zip"
+hash = "80e71be549e2e4151356ec654240345975643f0ff961353149fef87933d0a6fc"

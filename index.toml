@@ -6130,12 +6130,12 @@ hash = "0a2c2ae61e6796a3b524556022c28dada75da73d6391613849cfd98230d91210"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9a80f573e5b95a25c3f59615f529fe8a824849550a25d03cc58ec0e1cf87f829"
+hash = "c65226a5cd5f31dbb878768e89bbb1f80a0b3026cfd79271cd8c0fd212aaa90e"
 metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "22cdd422f7d21af60a5444e0c1d5fc586b920cbebe219d72cfde1dec8378caa2"
+hash = "bbf7a2ed47543d660615774cefc1a4663e7c4e586cf13d714124840b252328d1"
 metafile = true
 
 [[files]]
@@ -6267,7 +6267,7 @@ hash = "8fff8fad699028a6578c61df3d1690d6fb5abbdc9a7c436e94cc9f51138be790"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "b1f6ac5cec4248353c67eb0327b70c77a78e14b6dd678bda06b3d4c9c19f2d7b"
+hash = "08540ebad3c025ff62a11a926a8d65c1ed7c4dad81662a534856b3db32c7c672"
 metafile = true
 
 [[files]]
@@ -6280,7 +6280,7 @@ hash = "f66b13835282603bd6f8902faa5142e1311bb6393496b04a5df7008415b2fdf8"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "35dda82e1a12a7c53fbb7dc9ad157e481f8ff03e18db79d6cd67a4b1e58d14f1"
+hash = "5bc869170e6bbb70b6ec3527f195d9601c5225e56fc43e00f2522b32d4dc8c0e"
 metafile = true
 
 [[files]]
@@ -6374,7 +6374,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
-hash = "f14c74114a42810cc433459d34c5a55ed74ba39273bf2f7417dfa22794586edd"
+hash = "03af0f9adf385108ae40b030144ed3274d62adb413adeeb661985f8848adbc1c"
 metafile = true
 
 [[files]]
@@ -6465,7 +6465,7 @@ hash = "19c7e65794511ab21eed63cab9e2efbf43a29fd2ea20234b23f92cb71c6a2aa2"
 
 [[files]]
 file = "mods/musicnotification.pw.toml"
-hash = "37f19eda69b74b164b3d5a29c0c6a83251308b6ace685ae9bb92eb62c0bdaa2b"
+hash = "7e67906df6a85caefbb57d0b1712b587a4f7e36b2f5410e0af2aa215e2db1d60"
 metafile = true
 
 [[files]]
@@ -6562,7 +6562,7 @@ hash = "8c38228c14841a01034e6371fada5754754a0abf13de843eea1e1d41dc8257f3"
 
 [[files]]
 file = "mods/skinlayers3d.pw.toml"
-hash = "29bd00cc4d339211a0f2a0c7e0aff2b58464a28b05db45be56104ba079109b5b"
+hash = "89e0c8b0a6d3d03729fab033447083ee1412a8977353ae0135f6bfb754086814"
 metafile = true
 
 [[files]]

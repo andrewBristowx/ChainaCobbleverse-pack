@@ -3,9 +3,9 @@ filename = "chat_heads-0.15.7-fabric-1.21.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/andrewBristowx/ChainaCobbleverse-pack/master/mods/chat_heads-0.15.7-fabric-1.21.jar"
-hash-format = "sha256"
-hash = "9ac63ac359ed20b416e6d4bd0d7b314a5688470232de1a30c894418cd0b3b788"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5t3tM2L3/chat_heads-0.15.7-fabric-1.21.jar"
+hash-format = "sha512"
+hash = "2d34ad4031fcf9f8cef8e88d3a69ed2c2d8e0ad32c5571f551e82f045a17c20ed896771c9cd731c8183a4a9134141172a4db733684adfb35e789237d30fec0a9"
 
 [option]
 optional = true
@@ -13,3 +13,6 @@ description = "Muestra la cara del jugador que habla junto a su mensaje en el ch
 default = true
 
 [update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "5t3tM2L3"

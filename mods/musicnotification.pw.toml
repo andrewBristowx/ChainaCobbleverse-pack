@@ -3,9 +3,9 @@ filename = "musicnotification-fabric-3.0.0+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/andrewBristowx/ChainaCobbleverse-pack/master/mods/musicnotification-fabric-3.0.0+mc1.21.1.jar"
-hash-format = "sha256"
-hash = "747b2527aa373a76e9d378ad1059369400c66fb50fb3ab22a409ac6d8154a614"
+url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/IgzyHmxS/musicnotification-fabric-3.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "10ad3d070cecc949db1d8f6fff95f8d0d2317caa775bf4054afb05ab1d01a5e3895895ed8031d41509ffb34b38245bcc387da51322e31d7bedc5bf321970df82"
 
 [option]
 optional = true
@@ -13,3 +13,6 @@ description = "Muestra un aviso en pantalla con el nombre de la musica que esta 
 default = true
 
 [update]
+[update.modrinth]
+mod-id = "A4YQgwzz"
+version = "IgzyHmxS"

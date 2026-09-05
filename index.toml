@@ -5886,7 +5886,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "9a92975ce5fd1977822942b1b12eed9f25d82ff63b7c0c1ae6fc826d9589dde1"
+hash = "760c635b80e3613e93e3c940f9711ec33874dd9109363196e1a0bfc4b0bc81a2"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -6575,6 +6575,10 @@ hash = "88a0dd266a5639e89c33c9320685c57d482641738f9bc5b6e6800c3c34b80b32"
 [[files]]
 file = "mods/spark-1.10.109-fabric.jar"
 hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
+
+[[files]]
+file = "mods/starlightfusion-fabric-1.8.0-chaina.jar"
+hash = "f2efd2555eb7f2415717faf81498547064aafbd8bc49e87c2d808561f4ef7881"
 
 [[files]]
 file = "mods/streamotes-1.2.12+1.21.jar"
@@ -11778,3 +11782,7 @@ hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
 file = "world/datapacks/cobblemonraiddens-typedesigns.pw.toml"
 hash = "a7e28b2d67af530d194cabd6518922bce3c8892dd1c54a74c57f2dbe0e6447e3"
 metafile = true
+
+[[files]]
+file = "world/datapacks/extra-eeveelutions-1.2-chaina.zip"
+hash = "3095a4975283a7445cdec220e01efc64f4ae04d0524509f0b729892d88ead335"

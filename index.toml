@@ -6415,6 +6415,11 @@ file = "mods/journeymap-fabric-1.21.1-6.0.5.jar"
 hash = "b856b41b3bdbe990c52efcccce45147efd1aa430b497f5b7a4b4ff7ffc1011d6"
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "300df527d231eb9d0beb9cb6b05f1e1be1ac27b032e6dfe2e93b170b043a040e"
+metafile = true
+
+[[files]]
 file = "mods/kits-1.6.2-mc1.21.1.jar"
 hash = "be8e58fac397a55fc14e20be768dfa7493a9b197e9122676cf3d923ac2d4a65a"
 
@@ -6691,6 +6696,24 @@ hash = "c25fee08e90ed8d28d2a0051f892bae28e1d6d8522c523131bd7dcbef9bcd0a8"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "mods/xaerominimap-fabric-1.21.1-26.4.2.jar"
+hash = "85342f8f7c098e98f2f200fbba308a243af1204cb1afd7668360420e635aa2f8"
+
+[[files]]
+file = "mods/xaerominimap.pw.toml"
+hash = "ed7112606fec59fc5cff62642a8cd75af5ed21b27b9dd82d358daef089039ce1"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-fabric-1.21.1-1.45.0.jar"
+hash = "ea84c45cb1b994a7738515670b281bcd373a9d9cc3d8d3a24b84a4baf302b9d6"
+
+[[files]]
+file = "mods/xaeroworldmap.pw.toml"
+hash = "2e03049b42507b62561d0c11a62527d0e354a99b87803123338de8264e4a0cb2"
+metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"

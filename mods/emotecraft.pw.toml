@@ -2,6 +2,11 @@ name = "Emotecraft"
 filename = "emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
 side = "client"
 
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/ChainaCobbleverse-pack/master/mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+hash-format = "sha256"
+hash = "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c"
+
 [option]
 optional = true
 description = "Anima tu personaje con emotes (rueda de gestos). Puramente cosmetico - no afecta nada del servidor."

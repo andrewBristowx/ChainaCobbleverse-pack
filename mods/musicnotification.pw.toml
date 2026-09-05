@@ -2,6 +2,11 @@ name = "Music Notification"
 filename = "musicnotification-fabric-3.0.0+mc1.21.1.jar"
 side = "client"
 
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/ChainaCobbleverse-pack/master/mods/musicnotification-fabric-3.0.0+mc1.21.1.jar"
+hash-format = "sha256"
+hash = "747b2527aa373a76e9d378ad1059369400c66fb50fb3ab22a409ac6d8154a614"
+
 [option]
 optional = true
 description = "Muestra un aviso en pantalla con el nombre de la musica que esta sonando. Puramente cosmetico - no afecta nada del servidor."

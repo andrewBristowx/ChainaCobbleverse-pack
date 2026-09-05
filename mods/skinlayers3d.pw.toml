@@ -2,6 +2,11 @@ name = "3D Skin Layers"
 filename = "skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
 side = "client"
 
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/ChainaCobbleverse-pack/master/mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "392dd2e967f2ff3c83bd5fe71e528a05dd6a5f01bf4f0027b8fbe88d5f68c95b"
+
 [option]
 optional = true
 description = "Vuelve tridimensionales las capas de la skin (cabello, mangas, etc). Puramente cosmetico - no afecta nada del servidor."

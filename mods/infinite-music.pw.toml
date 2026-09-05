@@ -2,6 +2,11 @@ name = "Infinite Music"
 filename = "infinite-music-0.4.6.jar"
 side = "client"
 
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/ChainaCobbleverse-pack/master/mods/infinite-music-0.4.6.jar"
+hash-format = "sha256"
+hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
+
 [option]
 optional = true
 description = "Hace que la musica de fondo suene con mas frecuencia (menos silencios). Puramente cosmetico - no afecta nada del servidor."

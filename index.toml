@@ -6134,7 +6134,7 @@ hash = "0a2c2ae61e6796a3b524556022c28dada75da73d6391613849cfd98230d91210"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3ab154fd891347409b4f5da3863092bde5ce185ea5b80e7d0d5ad23ca8676458"
+hash = "9a80f573e5b95a25c3f59615f529fe8a824849550a25d03cc58ec0e1cf87f829"
 metafile = true
 
 [[files]]
@@ -6147,7 +6147,7 @@ hash = "33e863348691c5d7094b938e23a81a7ef39a1e0c9fd3a029dcdcadc6e05a2033"
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "b7e05497db2396620bf35a8a06a4b9a237686e6c30a21ae39510ab51dc78417a"
+hash = "22cdd422f7d21af60a5444e0c1d5fc586b920cbebe219d72cfde1dec8378caa2"
 metafile = true
 
 [[files]]
@@ -6279,7 +6279,7 @@ hash = "8fff8fad699028a6578c61df3d1690d6fb5abbdc9a7c436e94cc9f51138be790"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "bf208d0a07b806f49e5f9ff1a2c43b717aa444dfe96ef392e467c9b478b43a7d"
+hash = "b1f6ac5cec4248353c67eb0327b70c77a78e14b6dd678bda06b3d4c9c19f2d7b"
 metafile = true
 
 [[files]]
@@ -6296,7 +6296,7 @@ hash = "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "8fea85fb9dc2df4578c102cbb8d334c74d6634b3bf488d0b67d10805c3aecae7"
+hash = "35dda82e1a12a7c53fbb7dc9ad157e481f8ff03e18db79d6cd67a4b1e58d14f1"
 metafile = true
 
 [[files]]
@@ -6394,7 +6394,7 @@ hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
-hash = "dfa48219fa51f9ea07638d860c8d2c927c51dffb51452031189bb1021ec6b744"
+hash = "f14c74114a42810cc433459d34c5a55ed74ba39273bf2f7417dfa22794586edd"
 metafile = true
 
 [[files]]
@@ -6483,7 +6483,7 @@ hash = "747b2527aa373a76e9d378ad1059369400c66fb50fb3ab22a409ac6d8154a614"
 
 [[files]]
 file = "mods/musicnotification.pw.toml"
-hash = "7d43e4eb85943684b31fa5f9868072a3c8936d230fd6029b81f627c94bc452ad"
+hash = "37f19eda69b74b164b3d5a29c0c6a83251308b6ace685ae9bb92eb62c0bdaa2b"
 metafile = true
 
 [[files]]
@@ -6584,7 +6584,7 @@ hash = "392dd2e967f2ff3c83bd5fe71e528a05dd6a5f01bf4f0027b8fbe88d5f68c95b"
 
 [[files]]
 file = "mods/skinlayers3d.pw.toml"
-hash = "4e48a030ecac963f179837de284e3f23b1cdf380a0d583d3bcc63eef89315efd"
+hash = "29bd00cc4d339211a0f2a0c7e0aff2b58464a28b05db45be56104ba079109b5b"
 metafile = true
 
 [[files]]

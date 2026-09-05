@@ -6226,6 +6226,11 @@ file = "mods/cobblemonintegrations-fabric-1.21.1-1.1.6.jar"
 hash = "d070f29970e39c77da578c05c762bbec093fe796b3ea82bafe79012df4268c12"
 
 [[files]]
+file = "mods/cobblemonoptimizer.pw.toml"
+hash = "65de8368a6e72e61b65f99f2ae14df4ca6c249c1ff5df42d2edd1e06273dabc5"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonraiddens-fabric-0.11.3+1.21.1.jar"
 hash = "0a09f8ae544412e2f0f599a38b033928ec0a553ad53506c10bca3db734877c7b"
 

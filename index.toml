@@ -6284,8 +6284,8 @@ file = "mods/enchdesc-fabric-1.21.1-21.1.10.jar"
 hash = "d4a721fcb5704f4a1a7f3d136b9122e802f214c03497a54d8f3e54cabdb806a8"
 
 [[files]]
-file = "mods/entity_model_features-3.2.4-1.21-fabric.jar"
-hash = "3c3f800b4bf911a158435c36dac0cf4176bec36d837c0696fdfae39d7ec5f976"
+file = "mods/entity_model_features-3.3.5-1.21-fabric.jar"
+hash = "2b4275a51509d7433df674cc273c7654382f2cbd66091d2f05c37a4ec276d393"
 
 [[files]]
 file = "mods/entity_texture_features_1.21-fabric-7.1.jar"

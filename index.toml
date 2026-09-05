@@ -781,10 +781,6 @@ file = "config/global_packs.toml"
 hash = "d7a28e552872125a961f45631c32e3ae8f6dd63acde561083f15cc9270f7a78a"
 
 [[files]]
-file = "config/gpu_booster_config.json"
-hash = "855db62409aef8a7f97ac7632f33141acda71230064bb9271dc263a4fdeffa1b"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
@@ -5947,10 +5943,6 @@ hash = "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
 [[files]]
 file = "mods/FpsReducer2-fabric-1.21-2.9.jar"
 hash = "83c7a7a15d2563eb3240020d49f6d4bed18f4501ab03c7fe579dbb9c7e019499"
-
-[[files]]
-file = "mods/GPUBooster-1.3.1-1.21-1.21.1.jar"
-hash = "f7c16dfd9ec04122f16aa70c73a50de7aa15fe63050fa21bf3055b354417b1ff"
 
 [[files]]
 file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar"

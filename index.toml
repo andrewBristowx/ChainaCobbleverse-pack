@@ -6402,6 +6402,15 @@ file = "mods/interactic-0.2.3+1.21.jar"
 hash = "fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da"
 
 [[files]]
+file = "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
+hash = "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff"
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b54a7d7e74825e9cd7dbeb899ec156b0e913fbe5d931267129ee6e157adfb33e"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-fabric-1.21.1-6.0.5.jar"
 hash = "b856b41b3bdbe990c52efcccce45147efd1aa430b497f5b7a4b4ff7ffc1011d6"
 

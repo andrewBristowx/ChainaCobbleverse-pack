@@ -6161,6 +6161,16 @@ file = "mods/cobblemon-cards-fabric-1.0.4.jar"
 hash = "e4adfeec94d2471c5a7da005822c40084aefe7c9814d0f897791c2521b470e68"
 
 [[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "215d686df072cc66bfcdee1b3543ec8ce7bc77ae4b07f53cda31c0256fdf4071"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-exp.-all.pw.toml"
+hash = "502c96511d48818edbb193ea3651ca38b03f17fc352ca404090f346496d72c11"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-expeditions-fabric-1.6.0.jar"
 hash = "aa347e6b5073ec2aec4b6252514e9fedca8b0aaad9b2c3b6e4300a1e3441b0d6"
 
@@ -6172,6 +6182,21 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-linkie.pw.toml"
 hash = "4496076469043281cb34b6effa28299991da7df3df0b8dc844d0d21ec27d1903"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pet-a-poke.pw.toml"
+hash = "d120d2d263c58b242a6cf18fb226357843bb81a8bd5b2eec1996dfa9dfc2ad7c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-release-rewards.pw.toml"
+hash = "1673e3d60db4cabf6e909cf43b6335a62c8dee395dc832b526ebf0bbee0291f2"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-chaining.pw.toml"
+hash = "55250a7d7a149063c9560a6e541b01a842ba83af67a6a5f25253a1572b444aae"
 metafile = true
 
 [[files]]
@@ -11734,3 +11759,8 @@ hash = "873732bf4872d105393846f41f40cc6c39881b422a35a507ec12580083e57a65"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
 hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
+
+[[files]]
+file = "world/datapacks/cobblemonraiddens-typedesigns.pw.toml"
+hash = "a7e28b2d67af530d194cabd6518922bce3c8892dd1c54a74c57f2dbe0e6447e3"
+metafile = true

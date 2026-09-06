@@ -6313,8 +6313,8 @@ file = "mods/essential_commands-0.35.2-mc1.21.jar"
 hash = "3b29328335d3e94bff279979d7a2afbb48af01e5738363ec014c02393f29ec18"
 
 [[files]]
-file = "mods/fabric-api-0.116.17+1.21.1.jar"
-hash = "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
+file = "mods/fabric-api-0.116.14+1.21.1.jar"
+hash = "333f15bceb117a0ac41e3396eac9873fa6c325c31e746d679809f9a7a0228196"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"

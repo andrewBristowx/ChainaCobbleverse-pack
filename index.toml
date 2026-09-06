@@ -6531,8 +6531,8 @@ file = "mods/placeholder-api-2.4.2+1.21.jar"
 hash = "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443"
 
 [[files]]
-file = "mods/playerxp-fabric-1.1.0+1.21.1.jar"
-hash = "bf7117138ed454d2c96f9059c77a21107966beaef66af2f5b0b081eca01046fd"
+file = "mods/playerxp-fabric-1.0.9+1.21.1.jar"
+hash = "22133f464ea4442b481d0bc814ab928b0473890a86bf36fa90884ed660e3edf9"
 
 [[files]]
 file = "mods/pokeblocks-1.5.0-1.21.1.jar"

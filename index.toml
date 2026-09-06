@@ -6321,8 +6321,8 @@ file = "mods/fabric-permissions-api-0.3.1.jar"
 hash = "1894f9db7ea6d70f95f6b088b92a8037e87df376e8774ee2b048ddcc0f967226"
 
 [[files]]
-file = "mods/fancymenu_fabric_3.9.12_MC_1.21.1.jar"
-hash = "a8c17d5550becde8579d89e08883cce9197389f246562bc9a30d5f2e51e5b1c1"
+file = "mods/fancymenu_fabric_3.9.8_MC_1.21.1.jar"
+hash = "19e5faf15a769ba4841815fb2320f1efc9f97ddffbc24c95299b6480b50af201"
 
 [[files]]
 file = "mods/ferritecore-7.0.3-fabric.jar"

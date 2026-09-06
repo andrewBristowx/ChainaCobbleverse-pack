@@ -6576,8 +6576,8 @@ hash = "89e0c8b0a6d3d03729fab033447083ee1412a8977353ae0135f6bfb754086814"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.8.13+mc1.21.1.jar"
-hash = "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d"
+file = "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
+hash = "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793"
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"

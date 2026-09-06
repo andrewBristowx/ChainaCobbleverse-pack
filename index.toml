@@ -5957,10 +5957,6 @@ file = "mods/Jade-1.21.1-Fabric-15.10.6.jar"
 hash = "fb834cc77804a6f509690c54b4af56305ce7a7f3171f8616310710f0af1f673a"
 
 [[files]]
-file = "mods/LegendaryMonuments-Cobbleverse.jar"
-hash = "34901d7c95bff58242384c44abc6acc50c2e06310b85f7e80bcd70f7c7e5b0b6"
-
-[[files]]
 file = "mods/LuckPerms-Fabric-5.4.140.jar"
 hash = "3e17d490f87761c174478f68860367610a473ff5c2a9a9daad608773bf0e81bc"
 
@@ -6418,6 +6414,10 @@ file = "mods/language-reload-1.7.6+1.21.1.jar"
 hash = "6431706e6243897c8b2aa8f4de7180037ee86110a865a5d48ee1a292d604a6af"
 
 [[files]]
+file = "mods/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar"
+hash = "64c04db1d9757c52d2cc805cdc242688db8c3d837a17500593c5095b666783b3"
+
+[[files]]
 file = "mods/libjf-3.17.5.jar"
 hash = "93789892f45d03bec95894ab644f9f909868e84f1a0755a61bdf22ae378629f5"
 
@@ -6428,6 +6428,10 @@ hash = "81b66009d4e0868e9e3e2e1593e0942ba0c651ddd8300586ae1ffbd227b6ba24"
 [[files]]
 file = "mods/lithium-fabric-0.15.4+mc1.21.1.jar"
 hash = "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa"
+
+[[files]]
+file = "mods/lithostitched-1.8.0+beta5-fabric-21.1.jar"
+hash = "8758556cf0832429d56865717007330c6f7f503f5126f6cf801657f8166de9e3"
 
 [[files]]
 file = "mods/lootr-fabric-1.21.1-1.11.38.123.jar"

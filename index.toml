@@ -6434,6 +6434,10 @@ file = "mods/lithium-fabric-0.15.4+mc1.21.1.jar"
 hash = "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa"
 
 [[files]]
+file = "mods/lithostitched-1.8.0+beta5-fabric-21.1.jar"
+hash = "8758556cf0832429d56865717007330c6f7f503f5126f6cf801657f8166de9e3"
+
+[[files]]
 file = "mods/lootr-fabric-1.21.1-1.11.38.125.jar"
 hash = "af9b15bbb1ea784e34922851a17e1cc24bacde9b833549b773805f36367c406b"
 

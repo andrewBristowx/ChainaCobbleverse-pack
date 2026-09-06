@@ -6458,8 +6458,8 @@ file = "mods/melody_fabric_1.0.10_MC_1.21.jar"
 hash = "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
 
 [[files]]
-file = "mods/midnightlib-fabric-1.9.3+1.21.1.jar"
-hash = "ec05a4c29789cc7fd44489eecc368bc3993b95182f2028cefbed705804a27433"
+file = "mods/midnightlib-1.7.5-fabric+1.21.1.jar"
+hash = "b75155a638d15df61922bb635e2c5aae6102897ccaa1e226060a7f5ff4218091"
 
 [[files]]
 file = "mods/moar-concrete-1.3.1.jar"

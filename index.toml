@@ -430,7 +430,7 @@ hash = "179a91e0fa3778ca3296155c633953215c94a54b281642b8b2dc37b9918ff5e4"
 
 [[files]]
 file = "config/cobblemonraiddens/common.json5"
-hash = "0a2acc593ba6a656b69ca160b930e98382e4dfe9003a11a0ebefe7804cb7e9f4"
+hash = "22d7c4ce8025506e91004ffa34b5dea2e0c3f39c0c5ab39b9ba698758cc4e742"
 
 [[files]]
 file = "config/cobblemonraiddens/conditions.json5"

@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 4,
   "enabled": true,
   "vipDiscountPercent": 5,
   "donatorDiscountPercent": 10,
@@ -12,16 +12,7 @@
         {
           "id": "poke_ball",
           "item": "cobblemon:poke_ball",
-          "price": 12,
-          "maxPerPurchase": 64,
-          "enabled": true,
-          "description": "",
-          "requiredPermission": ""
-        },
-        {
-          "id": "premier_ball",
-          "item": "cobblemon:premier_ball",
-          "price": 16,
+          "price": 20,
           "maxPerPurchase": 64,
           "enabled": true,
           "description": "",
@@ -30,25 +21,7 @@
         {
           "id": "great_ball",
           "item": "cobblemon:great_ball",
-          "price": 30,
-          "maxPerPurchase": 64,
-          "enabled": true,
-          "description": "",
-          "requiredPermission": ""
-        },
-        {
-          "id": "heal_ball",
-          "item": "cobblemon:heal_ball",
-          "price": 38,
-          "maxPerPurchase": 64,
-          "enabled": true,
-          "description": "",
-          "requiredPermission": ""
-        },
-        {
-          "id": "dusk_ball",
-          "item": "cobblemon:dusk_ball",
-          "price": 55,
+          "price": 35,
           "maxPerPurchase": 64,
           "enabled": true,
           "description": "",
@@ -57,7 +30,7 @@
         {
           "id": "quick_ball",
           "item": "cobblemon:quick_ball",
-          "price": 70,
+          "price": 100,
           "maxPerPurchase": 64,
           "enabled": true,
           "description": "",
@@ -342,7 +315,7 @@
         {
           "id": "rare_candy",
           "item": "cobblemon:rare_candy",
-          "price": 350,
+          "price": 400,
           "maxPerPurchase": 4,
           "enabled": true,
           "description": "",
@@ -366,7 +339,7 @@
         {
           "id": "timer_ball",
           "item": "cobblemon:timer_ball",
-          "price": 65,
+          "price": 100,
           "maxPerPurchase": 32,
           "enabled": true,
           "description": "",
@@ -393,7 +366,7 @@
         {
           "id": "dive_ball",
           "item": "cobblemon:dive_ball",
-          "price": 55,
+          "price": 100,
           "maxPerPurchase": 32,
           "enabled": true,
           "description": "",
@@ -518,23 +491,29 @@
           "enabled": true,
           "description": "Una tirada en el banner especial de Chaina",
           "requiredPermission": ""
-        },
+        }
+      ]
+    },
+    {
+      "id": "chaina_especiales",
+      "title": "Objetos especiales de Chaina",
+      "products": [
         {
-          "id": "type_booster_gacha_ticket",
-          "item": "chainacobblemon:type_booster_ticket",
-          "price": 1000,
-          "maxPerPurchase": 5,
+          "id": "shiny_amulet",
+          "item": "chainacobblemon:shiny_amulet",
+          "price": 15000,
+          "maxPerPurchase": 3,
           "enabled": true,
-          "description": "Una tirada en el Gasha de Boosters de Tipos",
+          "description": "Vuelve shiny a un Pokémon que elijas de tu equipo o PC",
           "requiredPermission": ""
         },
         {
-          "id": "card_booster_gacha_ticket",
-          "item": "chainacobblemon:card_booster_ticket",
-          "price": 1000,
-          "maxPerPurchase": 5,
+          "id": "directo_mystery_box",
+          "item": "chainacobblemon:directo_mystery_box",
+          "price": 8000,
+          "maxPerPurchase": 3,
           "enabled": true,
-          "description": "Una tirada en el Gasha de Sobres de Cartas",
+          "description": "Activa un bono aleatorio de directo (shiny, IVs, legendarios, raros o un tipo) para TODO el servidor por 20 minutos",
           "requiredPermission": ""
         }
       ]

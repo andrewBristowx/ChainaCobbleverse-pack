@@ -5886,7 +5886,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "b6c34ea41f64c5063d2926485ee83a8d46293daca8b624b0d106e64b2ddedb3f"
+hash = "0543da31b8477b576459dd8675e71d4e111f89d648dd024c8337aeff9e2f962f"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -6227,10 +6227,6 @@ hash = "043ee6625cfdb796ee3c0d4210428fb2b93151d38a9fc97a1478488eb1f86f95"
 [[files]]
 file = "mods/cobblemon_party_extras-fabric-1.8.15.jar"
 hash = "02cb7394ea15e2bc3e303d077e156ff9daafa28cfbb242bad7958d62771a6af2"
-
-[[files]]
-file = "mods/cobblemonalphas-1.4.1.jar"
-hash = "c62be4d3ee441084a51b3cd6d6a40f2fd674f16c2412afbd328b0c50feac30d5"
 
 [[files]]
 file = "mods/cobblemonintegrations-fabric-1.21.1-1.1.6.jar"

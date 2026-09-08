@@ -641,7 +641,7 @@ _version = 4
 				# Note:
 				# Some DH settings will be disabled and/or changed to improve 
 				# visuals when DH rendering is disabled.
-				ignoredDimensionCsv = ""
+				ignoredDimensionCsv = "chainacobblemon:treasure_maze,chainacobblemon:training_tower,chainacobblemon:challenge_tower,chainacobblemon:radical_tower,chainacobblemon:friday_maze,chainacobblemon:personal_dungeon,cobblemonraiddens:raid_dimension,lumymon:nightmare,lumymon:origin,legendarymonuments:distortion_world"
 				#
 				# Requires a restart to change. 
 				#  

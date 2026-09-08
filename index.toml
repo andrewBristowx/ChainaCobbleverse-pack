@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1cfb94744f02392fbc6bced2f8443cb73b6ab833cf60f9bd4a10c090c3d8690d"
+hash = "7782fa526a6ddd17918fdd7783dbc962a57f79fa74d7ec2e5157984d87fbfdb9"
 
 [[files]]
 file = "config/DistantHorizons.toml.backup-antes-de-upsample"

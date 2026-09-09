@@ -6101,6 +6101,10 @@ file = "mods/betterbeds-fabric-1.4.0.jar"
 hash = "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
 
 [[files]]
+file = "mods/bettercampfirepot-1.7.3+1.21.1-fabric.jar"
+hash = "52499fcdd62536a28e2e062ded8a121ebd8c17da8b5e55edf790573f1d833915"
+
+[[files]]
 file = "mods/biomereplacer-3.1-hippo-fabric.jar"
 hash = "56bf9ee7222821a0786e880525dfde7448a9b8c21eced167cb823d0e61ef4844"
 
@@ -6151,6 +6155,11 @@ file = "mods/cloth-config-15.0.140-fabric.jar"
 hash = "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
 
 [[files]]
+file = "mods/cobble-pc-sort.pw.toml"
+hash = "50dd7e58e87949f85d640863659da10ec5602d46e74cb41fbd1ab427a7d5503c"
+metafile = true
+
+[[files]]
 file = "mods/cobblecuisine-2.0.1-1.7.rc1.jar"
 hash = "081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9"
 
@@ -6166,6 +6175,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-battle-positions-1.1.3.jar"
 hash = "d76bbd753763dde4a552d1a86b8bc6ceee9abcb00fa1bd29b6c2e389079437ed"
+
+[[files]]
+file = "mods/cobblemon-better-campfire-pot.pw.toml"
+hash = "bab798d6672fb540af64197af498f7b11966a5a9a57d2df0507624c15b97fbe2"
+metafile = true
 
 [[files]]
 file = "mods/cobblemon-cards-fabric-1.0.4.jar"
@@ -6242,8 +6256,26 @@ file = "mods/cobblemonraiddens-fabric-0.11.7+1.21.1.jar"
 hash = "d180cf553e0c851713ed7c0178b8b3c75b22ab704e71f30ff96d2b21721cc68f"
 
 [[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "8afb531966526951956643a6f7d3ca2d551e9f6fb72168c5c8354ed4de0f3e83"
+metafile = true
+
+[[files]]
+file = "mods/cobblemorph-1.0.5.jar"
+hash = "fe85ddbce5438172698cc68ceb025faad12e2581860aaaebfd619e957e2e024d"
+
+[[files]]
+file = "mods/cobblemorph.pw.toml"
+hash = "4847a3520cf45cf784041d3bb4e05f4bbbd3cfce00a5cdfa84c20fa7761807df"
+metafile = true
+
+[[files]]
 file = "mods/cobblenav-fabric-2.3.3.jar"
 hash = "e66eb486f5cfbeef2215910193eba0000c191bbf774fa59f3e0b955ce13cae45"
+
+[[files]]
+file = "mods/cobblepcsort-0.5.2.jar"
+hash = "acd43d2cf203c08ca6b90937f5d1de8c67c0a8cce2323f06a810eb9f13682fb7"
 
 [[files]]
 file = "mods/cobblestats-fabric-1.9.2+1.21.1.jar"
@@ -6293,6 +6325,15 @@ file = "mods/enchdesc-fabric-1.21.1-21.1.11.jar"
 hash = "fbcfb017a4c533f7e5b47a20f44d3ce50e381e5316d82a9afe733d77501b73a8"
 
 [[files]]
+file = "mods/enhanced-raid-dens-2.0.1.jar"
+hash = "2f9ea622f46e092fdf9ddaabc2de103da148dbe6e1c7634c5bd90417f0aaaf72"
+
+[[files]]
+file = "mods/enhanced-raid-dens-cobblemon-raid-dens-add-on.pw.toml"
+hash = "fdba2ce2e5bdca7bfc35d4cb53dd66ad1a7ea670119a7621f7130e2c1f5e501f"
+metafile = true
+
+[[files]]
 file = "mods/entity_model_features-3.3.5-1.21-fabric.jar"
 hash = "2b4275a51509d7433df674cc273c7654382f2cbd66091d2f05c37a4ec276d393"
 
@@ -6311,6 +6352,11 @@ hash = "3b29328335d3e94bff279979d7a2afbb48af01e5738363ec014c02393f29ec18"
 [[files]]
 file = "mods/fabric-api-0.116.17+1.21.1.jar"
 hash = "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"
@@ -6337,6 +6383,11 @@ file = "mods/flan-1.21.1-1.12.8-fabric.jar"
 hash = "0676243bee99ae3326c387ee96e8b3d32267eac141b7f771d3df0c6173de8e10"
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d0e586bf4b4f9f003b1de1a3e18f67540233a0295b487009047056198f694f0f"
+metafile = true
+
+[[files]]
 file = "mods/forgivingvoid-fabric-1.21.1-21.1.7.jar"
 hash = "ee45266cc7c10b0a17d9a87b021a57fb8616529e4c33af0fff5a506de71960b1"
 
@@ -6351,6 +6402,11 @@ hash = "323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d"
 [[files]]
 file = "mods/geckolib-fabric-1.21.1-4.9.2.jar"
 hash = "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "782dfc031628baa8af9624fdbd0b577b4720b913d8ccd35a223a17ee2a2ba076"
+metafile = true
 
 [[files]]
 file = "mods/globalpacks-fabric-1.21.1-21.0.6.jar"

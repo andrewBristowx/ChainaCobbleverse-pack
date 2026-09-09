@@ -1,0 +1,13 @@
+name = "Cobblemon: Better Campfire Pot"
+filename = "bettercampfirepot-1.7.3+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee181fb7377d58784814af3351f51550751b2329"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8169253
+project-id = 1437573

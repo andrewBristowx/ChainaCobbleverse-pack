@@ -1,0 +1,13 @@
+name = "Cobble PC Sort [Cobblemon Addon]"
+filename = "cobblepcsort-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f263857273ef1d095fdd954b90db1af7c074158"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8756334
+project-id = 1608706

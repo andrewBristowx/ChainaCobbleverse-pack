@@ -6325,15 +6325,6 @@ file = "mods/enchdesc-fabric-1.21.1-21.1.11.jar"
 hash = "fbcfb017a4c533f7e5b47a20f44d3ce50e381e5316d82a9afe733d77501b73a8"
 
 [[files]]
-file = "mods/enhanced-raid-dens-2.0.1.jar"
-hash = "2f9ea622f46e092fdf9ddaabc2de103da148dbe6e1c7634c5bd90417f0aaaf72"
-
-[[files]]
-file = "mods/enhanced-raid-dens-cobblemon-raid-dens-add-on.pw.toml"
-hash = "fdba2ce2e5bdca7bfc35d4cb53dd66ad1a7ea670119a7621f7130e2c1f5e501f"
-metafile = true
-
-[[files]]
 file = "mods/entity_model_features-3.3.5-1.21-fabric.jar"
 hash = "2b4275a51509d7433df674cc273c7654382f2cbd66091d2f05c37a4ec276d393"
 

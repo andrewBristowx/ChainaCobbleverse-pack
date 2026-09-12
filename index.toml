@@ -1054,7 +1054,7 @@ hash = "d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "c99f2642dfa04f5fa467cc3b4721ce450cf9b27f537ed72c83b4b2043713bb1d"
+hash = "b9391cb20669f8163a2200f92ea43c20c1ae8fc5fdcaff83b725bcda129154a8"
 
 [[files]]
 file = "config/reeses_sodium_options.json"
@@ -5886,7 +5886,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "6dc3f36763ddc0ebbaf2fb6cfa898cc915cf3d4083661669a5e14c2479999648"
+hash = "2f85a1867f33001773a280795a3f0b3cbbe29fcbbf13ec9731b2f064003e7fe1"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"

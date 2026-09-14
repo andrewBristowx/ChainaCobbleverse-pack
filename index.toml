@@ -6001,6 +6001,10 @@ file = "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar"
 hash = "bc8b10f71e17822ca274936e487104e6572f60e8969b81bfe23f30fc11300a94"
 
 [[files]]
+file = "mods/NoExpensive-1.21.1-1.10.0.jar"
+hash = "f7a47d73faca18e30855dcb8707b3cbe96ccfa9e68c35ec515e450dc86dd5a25"
+
+[[files]]
 file = "mods/Only Bottle Caps-1.4.0.jar"
 hash = "72d5931e4213e40f7d445a95463512d75be5855691e536cdeda286bf96e42d01"
 

@@ -5929,6 +5929,10 @@ file = "mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar"
 hash = "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865"
 
 [[files]]
+file = "mods/EnchantmentLevelBreak-1.21.1-Fabric-1.4.jar"
+hash = "b8d07ca9eccdfb395ea1320c4045f6022a5dac4038d0fa87e4fe7e0e2e1e11b3"
+
+[[files]]
 file = "mods/Female-Gender-Mod-fabric-3.2.1+1.21.jar"
 hash = "7d3f94ef5306921fc0133a29716e3ddc1a1a3268fd29bfc56e6a787761efc980"
 

@@ -6476,6 +6476,10 @@ file = "mods/libjf-3.17.5.jar"
 hash = "93789892f45d03bec95894ab644f9f909868e84f1a0755a61bdf22ae378629f5"
 
 [[files]]
+file = "mods/limitlessenchantments-fabric-2.0.0-1.21.1.jar"
+hash = "803e50a0500359eaf17308d2ee8a6136ba21041fae6cf2664fa183bce2754e8a"
+
+[[files]]
 file = "mods/litematica-fabric-1.21-0.19.61.jar"
 hash = "81b66009d4e0868e9e3e2e1593e0942ba0c651ddd8300586ae1ffbd227b6ba24"
 

@@ -5886,7 +5886,7 @@ hash = "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
 
 [[files]]
 file = "mods/Chainacobblemon-0.7.0-ACTUALIZADO.jar"
-hash = "b1bdca3b56fcfebcad2850b0589fb4dee514cf7fe387b7c3aa8c7dac03bf44e5"
+hash = "c84fe4693f21cf10706cad66efd099f995ae01e15b0154ae7cbcd3500c0a4244"
 
 [[files]]
 file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -6017,6 +6017,10 @@ file = "mods/Prism-1.21.1-fabric-1.0.11.jar"
 hash = "244504f9730a6581e674b4e40ed399c5b08aa240a24aec49147338024eccbad7"
 
 [[files]]
+file = "mods/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar"
+hash = "c098946ada5cc45a63cc3a595be3c95a07f0237163d250e4c6b6f712f049233a"
+
+[[files]]
 file = "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
 hash = "5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59"
 
@@ -6049,6 +6053,10 @@ file = "mods/ToadLib-1.4.3-1.21-1.21.1.jar"
 hash = "923990a5e14f0514048b7cf2b3e891febaa789576197c3dd93428730c0d77ca8"
 
 [[files]]
+file = "mods/UniversalEnchants-v21.1.7-1.21.1-Fabric.jar"
+hash = "6cd4cf5023b9f03cefb9494515b90df5504d1b252f349e9a9d21cb3c7d3dba9a"
+
+[[files]]
 file = "mods/VanillaBackport-fabric-1.21.1-1.1.7.10.jar"
 hash = "6aba8f56fd71b9b5b724812b22f14d11a71e9ca0bf7e84b52b4c8b91736e0734"
 
@@ -6067,6 +6075,10 @@ hash = "51e6f6d52cb2523199ad36e5bc04802230f86904c35ac3dbf36e59c86b2c30d1"
 [[files]]
 file = "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
 hash = "c77c281616618ee51bb4f9bced4708be6d1baa690b3e8564a68d04df9f080980"
+
+[[files]]
+file = "mods/advancednetherite-fabric-2.3.1-1.21.1.jar"
+hash = "7d1bfd1130e7cfd6695b3f05951c589986f93ca26a755e88385f4cbf1401cce9"
 
 [[files]]
 file = "mods/advancementdisable-fabric-1.0.1+1.21.jar"
@@ -6372,11 +6384,6 @@ hash = "7eee034d17281b43324cbdcc41a3836b6c44a93798d40a608538ed12a72279c1"
 [[files]]
 file = "mods/flan-1.21.1-1.12.8-fabric.jar"
 hash = "0676243bee99ae3326c387ee96e8b3d32267eac141b7f771d3df0c6173de8e10"
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "d0e586bf4b4f9f003b1de1a3e18f67540233a0295b487009047056198f694f0f"
-metafile = true
 
 [[files]]
 file = "mods/forgivingvoid-fabric-1.21.1-21.1.7.jar"

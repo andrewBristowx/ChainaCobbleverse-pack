@@ -6323,6 +6323,11 @@ file = "mods/defaultoptions-fabric-1.21.1-21.1.7.jar"
 hash = "8fff8fad699028a6578c61df3d1690d6fb5abbdc9a7c436e94cc9f51138be790"
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "08540ebad3c025ff62a11a926a8d65c1ed7c4dad81662a534856b3db32c7c672"
 metafile = true
@@ -6530,6 +6535,11 @@ hash = "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
 [[files]]
 file = "mods/modmenu-11.0.4.jar"
 hash = "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "377670ffbc8e2ffe815328fd683761966cdd37e59ce4d38e11e0687afb9c66a6"
+metafile = true
 
 [[files]]
 file = "mods/moreculling-fabric-1.21.1-1.0.8.jar"
